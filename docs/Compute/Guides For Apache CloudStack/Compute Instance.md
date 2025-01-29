@@ -12,14 +12,14 @@ A Compute Instance is a virtual server in the cloud that functions similarly to 
 
 ## Creating a Compute Instance on Stackconsole
 
-This guide provides step-by-step instructions for creating a cloud server instance, which offers flexible and scalable computing power for running applications, managing volumes, and adapting resources to your needs.
+This guide provides you the step-by-step instructions for creating a cloud server instance, which offers flexible and scalable computing power for running applications, managing volumes, and adapting resources to your needs.
 
 - From the left-hand menu, click on the **Instances** tab.
 - You will be redirected to the **Instances** page.
 
 ![alt text](images/stackconsole-select-instance.png)
 
-- To create click the **plus (+)** button located on the right side of the Instances page. This will open the Instance creation menu.
+- To create click the **plus (+)** icon located on the right side of the Instances page. This will open the Instance creation page.
 
 ### Choose a Location
 
@@ -74,13 +74,15 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 ### Choose a Network
     
-- Select the network for your Instance. For more details about available network options, refer to the respective network guides.
+- Select the network for your Instance depending on your connectivity and security needs. For more details about available network options, refer to the respective network guides.
 
 ![alt text](images/stackconsole-create-instance-choose-network.png)
 
-- **Public Network**: The Public Network is a simple, pre-configured network designed for external connectivity with essential built-in features. It includes **cloud firewall protection** for securing your server, **port forwarding** for directing traffic to specific applications, and **remote access VPN** for securely managing your instance. This option is ideal for users who require straightforward, hassle-free connectivity without the need for advanced customization.
+- **Public Network**: The Public Network is a simple, pre-configured network designed for external connectivity with essential built-in features. It includes cloud firewall protection for securing your server, port forwarding for directing traffic to specific applications, and remote access VPN for securely managing your instance. This option is ideal for users who require straightforward, hassle-free connectivity without the need for advanced customization.
 
-- **VPC Network**: The Virtual Private Cloud (VPC) Network is an advanced networking solution offering complete control over traffic routing and enhanced security. It supports features like **VPN gateway**, **site-to-site VPN connections**, and **traffic segregation** to isolate workloads for better security and performance. By default, a VPC is created with a random **CIDR** block and one network tier, making it a robust option for enterprises and users with complex, customizable networking needs.
+- **VPC Network**: The Virtual Private Cloud (VPC) Network is an advanced networking solution offering complete control over traffic routing and enhanced security. It supports features like VPN gateway, site-to-site VPN connections, and traffic segregation to isolate workloads for better security and performance. 
+
+    **Note:** By default, a VPC is created with a random **CIDR** block and one network tier, making it a robust option for enterprises and users with complex, customizable networking needs.
 
 - You can choose whether to enable public IPv4 for internet access to your server.
 
@@ -89,38 +91,39 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 ### Configure Server Settings
 
-- Configure additional settings for your server:
-- Add an SSH key for secure access.
+- Configure additional settings for your server.
+- You can **Add SSH Key** for secure access. Click on **Add Now** to add SSH key.
+- **Note:-** For some OS images, such as Arch Linux, an SSH key is required because password login is not supported.
 
 ![alt text](images/stackconsole-create-instance-add-ssh.png)
 
-- Add name of the SSH key with the key value and click on **Add SSH Key**.
+- Add Name of the SSH key with the Key value and click on **Add SSH Key**.
 
 ![alt text](images/stackconsole-create-instance-add-ssh-key.png)
 
-- Add a startup script to automate specific actions during instance initialization.
+- Add a startup script to automate specific actions during instance initialization. Click on **Add Now** to add startup script for your instance.
 
 ![alt text](images/stackconsole-create-instance-add-startup-script.png)
 
 ### Advanced Settings (Optional)
 
-Configure advanced settings, such as:
-
-- **Boot Mode**: Choose between Legacy or Secure.
-- **Boot Type**: Choose between UEFI or BIOS.
-- Enable Dynamic Scaling for automatic resource scaling.
+- The Advanced Settings section allows you to configure additional VM settings for optimized performance, security, and flexibility Configure advanced settings by enabling the **Advance Mode**.
 
 ![alt text](images/stackconsole-create-instance-advance-mode.png)
-        
-### Change Hostname
 
-- Provide a unique **Server Name** and a valid **Server Hostname** for your Instance.
+-   **Boot Mode**: Select Legacy or Secure boot for system startup security.
+-   **Boot Type**: Choose between UEFI (modern firmware) or BIOS (traditional firmware).
+-   **Enable Dynamic Scaling** – Allows automatic resource scaling based on workload demands.
+        
+### Server Hostname
+
+- Provide a unique **Server Name** and a valid **Server Hostname** for your Instance to identify them easily in your dashboard.
 
 ![alt text](images/stackconsole-create-instance-server-hostname.png)
         
 ### Review and Deploy
 
-- Choose the desired billing cycle for your Instance (e.g., hourly, monthly).
+- Choose the desired **Billing Cycle** for your Instance. You can choose either Hourly or Monthly cycle.
 - Verify all the configuration details and review the price summary. Click on **Review & Deploy** to create the Instance.     
 
 ![alt text](images/stackconsole-create-instance-depoly.png)
@@ -142,4 +145,4 @@ From the **Instance Overview** menu, you can further customize and manage your v
 -   **Monitor Resource Usage**
     
 
-For more detailed instructions on these features, refer to their respective guides in the Stackconsole documentation.
+For more detailed instructions on these features, refer to their respective guides in the Stackconsole documentation for Apache CloudStack.
