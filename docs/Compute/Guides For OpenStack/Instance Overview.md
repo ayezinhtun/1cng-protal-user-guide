@@ -10,7 +10,7 @@ The **Instance Overview** page provides a detailed summary and management option
 
 ### Action Buttons
 
-![alt text](images/stackconsole-instance-overview.png) 
+
 
 -   **Console Access:** Opens a console interface to interact with the VM directly.
     
