@@ -1,6 +1,7 @@
 ---
 title: Introduction
 sidebar_position: 1
+description: "Welcome to StackConsole Documentation."
 ---
 
 import React from 'react';
@@ -22,20 +23,110 @@ import Link from '@docusaurus/Link';
 
 ## About StackConsole
 
-**StackConsole** is an advanced, cloud-agnostic management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
+**StackConsole** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
 
-With StackConsole, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. Key Integrations of StackConsole include popular cloud platforms such as **OpenNebula** , **Apache CloudStack**, **OpenStack** and **VMware**.
+With StackConsole, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. 
+
+
+## Features of StackConsole
+
+
+<div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '20px', marginTop: '20px' }}>
+  
+  <div style={{ textAlign: 'center', width: '150px' }}>
+    <div style={{
+      width: '100px',
+      height: '100px',
+      borderRadius: '50%',
+      backgroundColor: '#0073e6',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'white',
+      fontSize: '24px',
+      margin: '0 auto 10px',
+    }}>☁️</div>
+    <h4>Multi-cloud Management</h4>
+    <p>Manage resources across multiple cloud platforms seamlessly.</p>
+  </div>
+
+  <div style={{ textAlign: 'center', width: '150px' }}>
+    <div style={{
+      width: '100px',
+      height: '100px',
+      borderRadius: '50%',
+      backgroundColor: '#0073e6',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'white',
+      fontSize: '24px',
+      margin: '0 auto 10px',
+    }}>📊</div>
+    <h4>Real-time Monitoring</h4>
+    <p>Track and analyze cloud usage with real-time alerts.</p>
+  </div>
+  
+  <div style={{ textAlign: 'center', width: '150px' }}>
+    <div style={{
+      width: '100px',
+      height: '100px',
+      borderRadius: '50%',
+      backgroundColor: '#0073e6',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'white',
+      fontSize: '24px',
+      margin: '0 auto 10px',
+    }}>⚡</div>
+    <h4>Automated <br />Scaling</h4>
+    <p>Automatically scale cloud resources based on demand.</p>
+  </div>
+  
+  <div style={{ textAlign: 'center', width: '150px' }}>
+    <div style={{
+      width: '100px',
+      height: '100px',
+      borderRadius: '50%',
+      backgroundColor: '#0073e6',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'white',
+      fontSize: '24px',
+      margin: '0 auto 10px',
+    }}>💰</div>
+    <h4>Cost <br />Optimization</h4>
+    <p>Optimize cloud expenses with cost analysis tools.</p>
+  </div>
+  
+  <div style={{ textAlign: 'center', width: '150px' }}>
+    <div style={{
+      width: '100px',
+      height: '100px',
+      borderRadius: '50%',
+      backgroundColor: '#0073e6',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'white',
+      fontSize: '24px',
+      margin: '0 auto 10px',
+    }}>🔒</div>
+    <h4>Advanced <br />Security</h4>
+    <p>Ensure cloud security with authentication and audit logs.</p>
+  </div>
+  
+</div>
+
+
+<br />
+
+**StackConsole** is more than just a management platform—it's a powerful tool that connects you to your entire cloud infrastructure across various providers. By centralizing operations, it empowers cloud administrators to manage resources more efficiently, monitor critical infrastructure in real-time, and take proactive steps toward improving the scalability and cost-efficiency of their cloud environments. Key Integrations of StackConsole include popular cloud platforms such as **OpenNebula** , **Apache CloudStack**, **OpenStack** and **VMware**.
 
 ![Cloud Infrastructures](images/stackconsole-cloud-infra.png) 
 
-### Features of StackConsole:
-- **Multi-cloud Management**: Streamline your operations by managing resources from multiple clouds in a single platform.
-- **Real-time Monitoring and Alerts**: Track performance metrics, monitor resource usage, and receive notifications for anomalies.
-- **Automated Scaling**: Configure auto-scaling rules to adjust resource allocation based on usage patterns.
-- **Cost Optimization**: With built-in cost analysis and resource optimization tools, StackConsole helps organizations reduce cloud expenses.
-- **Security**: StackConsole offers robust security features, including user authentication, encryption, and audit logging for compliance.
-
----
 
 ### Account Setup
 
@@ -51,8 +142,8 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/create-account" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Create an Account</h3>
+    <Link to="./Account Signup#Register-Account" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+      <h3 style={{ color: '#0073e6' }}>Register Account</h3>
       <p>Sign up with your personal details to get started.</p>
     </Link>
   </div>
@@ -67,7 +158,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/verify-email" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+    <Link to="./Account Signup#Verify-Your-Email" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
       <h3 style={{ color: '#0073e6' }}>Verify Your Email</h3>
       <p>Confirm your email address for security.</p>
     </Link>
@@ -83,7 +174,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/set-up-billing" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+    <Link to="./Account Signup#Set-Up-Billing-Method" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
       <h3 style={{ color: '#0073e6' }}>Set Up Billing</h3>
       <p>Choose a payment option and set up your billing details.</p>
     </Link>
@@ -107,8 +198,8 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/update-personal-info" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Update Personal Information</h3>
+    <Link to="./Profile Setup#profile" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+      <h3 style={{ color: '#0073e6' }}>Setup Your Profile</h3>
       <p>Manage your name, contact details, and address.</p>
     </Link>
   </div>
@@ -123,9 +214,9 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/set-up-billing-info" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Set Up Billing Information</h3>
-      <p>Add or update your billing details.</p>
+    <Link to="./Profile Setup#enable-2fa" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+      <h3 style={{ color: '#0073e6' }}>Set Up Two-Factor Authentication</h3>
+      <p>Secure your profile and user profile with 2FA.</p>
     </Link>
   </div>
 
@@ -139,9 +230,9 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     textAlign: 'center',
     transition: 'transform 0.2s ease-in-out'
   }}>
-    <Link to="/docs/account-preferences" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Customize Account Preferences</h3>
-      <p>Adjust themes, time zones, and other preferences.</p>
+    <Link to="./Profile Setup#new-user" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
+      <h3 style={{ color: '#0073e6' }}>Add New User</h3>
+      <p>Add new Users to your account and assign roles with permissions.</p>
     </Link>
   </div>
 
@@ -151,7 +242,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
 
 ### Next Steps
 
-**StackConsole** is more than just a management platform—it's a powerful tool that connects you to your entire cloud infrastructure across various providers. By centralizing operations, it empowers cloud administrators to manage resources more efficiently, monitor critical infrastructure in real-time, and take proactive steps toward improving the scalability and cost-efficiency of their cloud environments.
+
 
 To start your journey with **StackConsole**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with StackConsole's powerful integrations, you’ll be up and running in no time!
 

@@ -3,18 +3,18 @@ sidebar_position: 2
 title: Account Signup
 ---
 
-### **StackConsole Account Setup Guide**
+### <span style={{ color: '#003366' }}>StackConsole Account Setup Guide</span>
 
 This guide is a step-by-step tutorial designed to walk you through the process of creating a StackConsole account, setting up billing, and verifying your account.
 
-### Register Account
+### <span style={{ color: '#003366' }}>Register Account</span> {#Register-Account}
 - Visit the StackConsole website and navigate to the **Sign-In** or **Create Account** section.
 - Enter the necessary details such as your name, email address, and password to create your account.
 - Click on **Register**, you will be redirected to the next step.
 
 ![alt text](images/stackconsole-account-setup-register.png) 
 
-### Verify Your Email
+### <span style={{ color: '#003366' }}>Verify Your Email</span> {#Verify-Your-Email}
 
 - Check your email inbox for a verification email from StackConsole. This email contains a One-Time Password (OTP).
 - Enter the **OTP** in the field provided on the website to verify your email address.
@@ -22,7 +22,7 @@ This guide is a step-by-step tutorial designed to walk you through the process o
 
 ![alt text](images/stackconsole-account-setup-verify.png) 
 
-### Set Up Billing Method
+### <span style={{ color: '#003366' }}>Set Up Billing Method</span> {#Set-Up-Billing-Method}
 
 - Once your account is verified, you’ll be prompted to set up your billing information.
 - Choose Billing Type:
@@ -36,9 +36,9 @@ This guide is a step-by-step tutorial designed to walk you through the process o
 
 ![alt text](images/stackconsole-account-setup-billing-org-coupon.png)
 
-### Choose payment plan
+### <span style={{ color: '#003366' }}>Choose payment plan</span>
 
-#### Prepaid (Recommended):
+#### <span style={{ color: '#003366' }}>Prepaid (Recommended):</span>
 
 - Prepaid accounts require you to load credits in advance. You’ll use these credits to create resources within the platform. This is the default and most straightforward option, ensuring you don’t overspend.
 - In order to, use resources you need to buy infra credits. You can select the amount given to buy the credits.
@@ -46,7 +46,7 @@ This guide is a step-by-step tutorial designed to walk you through the process o
 
 ![alt text](images/stackconsole-account-setup-billing-prepaid.png)
 
-#### Postpaid:
+#### <span style={{ color: '#003366' }}>Postpaid:</span>
 
 - Postpaid accounts allow you to pay after consuming resources. This method may require additional verification, such as more detailed billing information or credit checks.
 - Choose a payment method (e.g., Stripe, PayPal, Razorpay, Manual). Click on **Save Card** to complete the payment.
@@ -55,10 +55,10 @@ This guide is a step-by-step tutorial designed to walk you through the process o
 
 - After payment, carefully review the **Terms & Conditions** of the platform.
 - Accept the terms to complete the registration process.
+
 ![alt text](images/stackconsole-account-setup-billing-prepaid-tnc.png)
 
 - Once registration is complete, you can access your **StackConsole Dashboard** to start using the platform.
-
 - **Prepaid Users**: Your account status will display as active, with the account type set to prepaid.
 
 ![alt text](images/stackconsole-account-setup-billing-prepaid-dashboard.png)

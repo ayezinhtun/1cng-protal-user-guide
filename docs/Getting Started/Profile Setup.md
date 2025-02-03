@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Profile Setup
 ---
 
-## Setup User Profile in Stack Console
+## Setup User Profile in Stack Console {#profile}
 
 The **Stack Console** user profile setup feature allows users to manage their personal information, change passwords, configure payment settings, add users, roles and monitor account activity. This feature provides users with a detailed overview of their account and allows for customization and control.
 
@@ -57,7 +57,7 @@ Ensure the date and time format aligns with your preference, especially if you'r
 - Under **Preferred Date Time Format**, select your preferred format for displaying date and time.
 - Click on **Submit** to apply the changes.
 
-### Secure Your Account with Two-Factor Authentication
+### Secure Your Account with Two-Factor Authentication {#enable-2fa}
 
 To enhance the security of your account you can enable **Two-Factor Authentication (2FA)**, which adds an additional layer of protection to your login process.
 
@@ -90,7 +90,7 @@ To maintain account security, it's essential to change your password periodicall
 - Click the **Change Password** button to save changes.
 - Your **New Password** has been updated successfully.
 
-### Add a New User
+### Add a New User {#new-user}
 
 The **Users** section allows you to add new users to your organization and assign specific roles and permissions.
 
