@@ -1,0 +1,9 @@
+{
+    "label": "VM Settings",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Manage various aspects of your virtual machine (VM) configuration to ensure optimal performance and security. Below are the guides for key settings you can modify for your VM."
+    }
+  }
+  

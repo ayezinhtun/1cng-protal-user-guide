@@ -1,0 +1,8 @@
+{
+    "label": "Veeam Backup",
+    "position": 11,
+    "link": {
+      "type": "generated-index",
+      "description": "Getting started with StackConsole! These guides will help you get up and running with the platform in no time. Whether you're a new user or setting up a new account, our step-by-step tutorials will guide you through the essential setup processes."
+    }
+  }

@@ -3,10 +3,10 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'Stack Console',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://doc.stackwarriors.in/',
   baseUrl: '/',
   organizationName: 'facebook',
   projectName: 'docusaurus',
@@ -21,10 +21,13 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          path: 'docs',
+          routeBasePath: 'docs',
+          sidebarPath: require.resolve('./sidebars.ts'),
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -40,61 +43,61 @@ const config: Config = {
       } as Preset.Options, // Using 'as' instead of 'satisfies'
     ],
   ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        
+        path: 'admin',
+        routeBasePath: 'admin',
+        sidebarPath: require.resolve('./sidebarsAdmin.ts'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        
+        path: 'reseller',
+        routeBasePath: 'reseller',
+        sidebarPath: require.resolve('./sidebarsReseller.ts'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        
+        path: 'affiliate',
+        routeBasePath: 'affiliate',
+        sidebarPath: require.resolve('./sidebarsAffiliate.ts'),
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: 'Stack Console',
+      logo: { alt: 'My Site Logo', src: 'img/logo.svg' },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'User Guide',
-        },
-
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Admin Guide',
-        },
-
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Reseller Guide',
-        },
-
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Affiliate Guide',
-        },
-
+        { to: '/docs/category/getting-started', label: 'User Guide', position: 'left' },
+        { to: '/admin/intro', label: 'Admin Guide', position: 'left' },
+        { to: '/reseller/intro', label: 'Reseller Guide', position: 'left' },
+        { to: '/affiliate/intro', label: 'Affiliate Guide', position: 'left' },
         { to: '/blog', label: 'Blog', position: 'left' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        { href: 'https://github.com/facebook/docusaurus', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Guides',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
+            { label: 'User Guide', to: '/docs/category/getting-started'},
+            { label: 'Admin Guide', to: '/admin/intro'},
+            { label: 'Reseller Guide', to: '/reseller/intro'},
+            { label: 'Affiliate Guide', to: '/affiliate/intro'},
           ],
         },
         {

@@ -3,66 +3,71 @@ sidebar_position: 2
 title: Account Signup
 ---
 
-### <span style={{ color: '#003366' }}>StackConsole Account Setup Guide</span>
+### <span style={{ color: '#003366' }}>Stack Console Account Setup Guide</span>
 
-This guide is a step-by-step tutorial designed to walk you through the process of creating a StackConsole account, setting up billing, and verifying your account.
+This guide provides a step-by-step tutorial to help you create a Stack Console account, set up billing, and verify your account.
 
 ### <span style={{ color: '#003366' }}>Register Account</span> {#Register-Account}
-- Visit the StackConsole website and navigate to the **Sign-In** or **Create Account** section.
-- Enter the necessary details such as your name, email address, and password to create your account.
-- Click on **Register**, you will be redirected to the next step.
 
-![alt text](images/stackconsole-account-setup-register.png) 
+- Visit the Stack Console website and navigate to the **Sign-In** or **Create Account** section.
+- Enter the necessary details, such as your name, email address, and password.
+- Click **Register** to proceed to the next step.
+
+![Account Registration](images/stackconsole-account-setup-register.png) 
 
 ### <span style={{ color: '#003366' }}>Verify Your Email</span> {#Verify-Your-Email}
 
-- Check your email inbox for a verification email from StackConsole. This email contains a One-Time Password (OTP).
-- Enter the **OTP** in the field provided on the website to verify your email address.
+- Check your email inbox for a verification email from Stack Console containing a One-Time Password (OTP).
+- Enter the **OTP** in the provided field on the website.
 - Click **Verify** to confirm and proceed to the billing setup.
 
-![alt text](images/stackconsole-account-setup-verify.png) 
+![Email Verification](images/stackconsole-account-setup-verify.png) 
 
 ### <span style={{ color: '#003366' }}>Set Up Billing Method</span> {#Set-Up-Billing-Method}
 
-- Once your account is verified, you’ll be prompted to set up your billing information.
-- Choose Billing Type:
+- After verifying your account, you’ll be prompted to set up your billing information.
+- Choose a billing type:
+    - **Individual**: For personal use; enter details like your address.
+    - **Company**: For organizational use; provide details such as your company name, website, and address.
 
-    - **Individual**: For personal usage, enter details like your address.
-    - **Company**: For organizational use, provide details such as your company name, website, and address.
+![Billing Details](images/stackconsole-account-setup-billing-details.png)
 
-![alt text](images/stackconsole-account-setup-billing-details.png)
+- If you have a coupon, redeem it at checkout to receive a discount or promotional offer.
 
-- If you have a coupon, you can redeem it while checking out to receive a discount or promotional offer.
+![Coupon Redemption](images/stackconsole-account-setup-billing-org-coupon.png)
 
-![alt text](images/stackconsole-account-setup-billing-org-coupon.png)
-
-### <span style={{ color: '#003366' }}>Choose payment plan</span>
+### <span style={{ color: '#003366' }}>Choose a Payment Plan</span>
 
 #### <span style={{ color: '#003366' }}>Prepaid (Recommended):</span>
 
-- Prepaid accounts require you to load credits in advance. You’ll use these credits to create resources within the platform. This is the default and most straightforward option, ensuring you don’t overspend.
-- In order to, use resources you need to buy infra credits. You can select the amount given to buy the credits.
-- Choose a payment method (e.g., Stripe, PayPal, Razorpay). Click on **Proceed** to complete the payment.
+- Prepaid accounts require you to load credits in advance, which you’ll use to create resources within the platform.
+- To use resources, purchase infrastructure credits by selecting the desired amount.
+- Choose a payment method (e.g., Stripe, PayPal, Razorpay) and click **Proceed** to complete the payment.
 
-![alt text](images/stackconsole-account-setup-billing-prepaid.png)
+![Prepaid Billing](images/stackconsole-account-setup-billing-prepaid.png)
 
 #### <span style={{ color: '#003366' }}>Postpaid:</span>
 
-- Postpaid accounts allow you to pay after consuming resources. This method may require additional verification, such as more detailed billing information or credit checks.
-- Choose a payment method (e.g., Stripe, PayPal, Razorpay, Manual). Click on **Save Card** to complete the payment.
+- Postpaid accounts allow you to pay after consuming resources. This option may require additional verification, such as detailed billing information or credit checks.
+- Choose a payment method (e.g., Stripe, PayPal, Razorpay, Manual) and click **Save Card** to complete the payment.
 
-![alt text](images/stackconsole-account-setup-billing-postpaid.png)
+![Postpaid Billing](images/stackconsole-account-setup-billing-postpaid.png)
 
-- After payment, carefully review the **Terms & Conditions** of the platform.
+### <span style={{ color: '#003366' }}>Final Steps</span>
+
+- Review the **Terms & Conditions** of the platform carefully.
 - Accept the terms to complete the registration process.
 
-![alt text](images/stackconsole-account-setup-billing-prepaid-tnc.png)
+![Terms & Conditions](images/stackconsole-account-setup-billing-prepaid-tnc.png)
 
-- Once registration is complete, you can access your **StackConsole Dashboard** to start using the platform.
 - **Prepaid Users**: Your account status will display as active, with the account type set to prepaid.
 
-![alt text](images/stackconsole-account-setup-billing-prepaid-dashboard.png)
+![Prepaid Dashboard](images/stackconsole-account-setup-billing-prepaid-dashboard.png)
 
-- **Postpaid Users**: Once verification is complete, your account will display as active with the account type set to postpaid.
+- **Postpaid Users**: After verification, your account will display as active with the account type set to postpaid.
 
-![alt text](images/stackconsole-account-setup-billing-postpaid-dashboard.png)
+![Postpaid Dashboard](images/stackconsole-account-setup-billing-postpaid-dashboard.png)
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+Setting up your Stack Console account is a straightforward process. By following the steps outlined in this guide, you can successfully register, verify your email, configure billing, and choose a payment plan that best suits your needs. Once completed, you’ll have full access to the Stack Console dashboard and its features, enabling you to manage your resources efficiently.

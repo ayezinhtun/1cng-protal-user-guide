@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar_position: 1
-description: "Welcome to StackConsole Documentation."
+description: "Welcome to Stack Console Documentation."
 ---
 
 import React from 'react';
@@ -17,18 +17,18 @@ import Link from '@docusaurus/Link';
     marginBottom: '30px',
   }}
 >
-  <h1>👋 Welcome to StackConsole Documentation!</h1>
-  <p>Manage and optimize your cloud infrastructure with StackConsole.</p>
+  <h1>👋 Welcome to Stack Console Documentation!</h1>
+  <p>Manage and optimize your cloud infrastructure with Stack Console.</p>
 </div>
 
-## About StackConsole
+## About Stack Console
 
-**StackConsole** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
+**Stack Console** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
 
-With StackConsole, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. 
+With Stack Console, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. 
 
 
-## Features of StackConsole
+## Features of Stack Console <br />
 
 
 <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '20px', marginTop: '20px' }}>
@@ -123,7 +123,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
 
 <br />
 
-**StackConsole** is more than just a management platform—it's a powerful tool that connects you to your entire cloud infrastructure across various providers. By centralizing operations, it empowers cloud administrators to manage resources more efficiently, monitor critical infrastructure in real-time, and take proactive steps toward improving the scalability and cost-efficiency of their cloud environments. Key Integrations of StackConsole include popular cloud platforms such as **OpenNebula** , **Apache CloudStack**, **OpenStack** and **VMware**.
+**Stack Console** is more than just a management platform—it's a powerful tool that connects you to your entire cloud infrastructure across various providers. By centralizing operations, it empowers cloud administrators to manage resources more efficiently, monitor critical infrastructure in real-time, and take proactive steps toward improving the scalability and cost-efficiency of their cloud environments. Key Integrations of Stack Console include popular cloud platforms such as **OpenNebula** , **Apache CloudStack**, **OpenStack** and **VMware**.
 
 ![Cloud Infrastructures](images/stackconsole-cloud-infra.png) 
 
@@ -199,7 +199,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     transition: 'transform 0.2s ease-in-out'
   }}>
     <Link to="./Profile Setup#profile" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Setup Your Profile</h3>
+      <h3 style={{ color: '#0073e6' }}>Setup Your Profile</h3> <br />
       <p>Manage your name, contact details, and address.</p>
     </Link>
   </div>
@@ -231,7 +231,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
     transition: 'transform 0.2s ease-in-out'
   }}>
     <Link to="./Profile Setup#new-user" style={{ textDecoration: 'none', color: '#000', display: 'block' }}>
-      <h3 style={{ color: '#0073e6' }}>Add New User</h3>
+      <h3 style={{ color: '#0073e6' }}>Add New User</h3> <br /> 
       <p>Add new Users to your account and assign roles with permissions.</p>
     </Link>
   </div>
@@ -244,7 +244,7 @@ With StackConsole, organizations can simplify the complexity of multi-cloud oper
 
 
 
-To start your journey with **StackConsole**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with StackConsole's powerful integrations, you’ll be up and running in no time!
+To start your journey with **Stack Console**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with Stack Console's powerful integrations, you’ll be up and running in no time!
 
 
 
