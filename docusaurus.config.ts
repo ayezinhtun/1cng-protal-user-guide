@@ -20,14 +20,7 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          path: 'docs',
-          routeBasePath: 'docs',
-          sidebarPath: require.resolve('./sidebars.ts'),
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-
+        docs: false, // Disable default docs plugin
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -40,33 +33,48 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      } as Preset.Options, // Using 'as' instead of 'satisfies'
+      } as Preset.Options,
     ],
   ],
 
   plugins: [
+    // Main docs (User Guide)
     [
       '@docusaurus/plugin-content-docs',
       {
-        
+        id: 'default', // Unique ID for main docs
+        path: 'docs',
+        routeBasePath: 'docs',
+        sidebarPath: require.resolve('./sidebars.ts'),
+        editUrl:
+          'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+      },
+    ],
+    // Admin Guide
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'admin',
         path: 'admin',
         routeBasePath: 'admin',
         sidebarPath: require.resolve('./sidebarsAdmin.ts'),
       },
     ],
+    // Reseller Guide
     [
       '@docusaurus/plugin-content-docs',
       {
-        
+        id: 'reseller',
         path: 'reseller',
         routeBasePath: 'reseller',
         sidebarPath: require.resolve('./sidebarsReseller.ts'),
       },
     ],
+    // Affiliate Guide
     [
       '@docusaurus/plugin-content-docs',
       {
-        
+        id: 'affiliate',
         path: 'affiliate',
         routeBasePath: 'affiliate',
         sidebarPath: require.resolve('./sidebarsAffiliate.ts'),
@@ -137,7 +145,7 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  } as Preset.ThemeConfig, // Using 'as' instead of 'satisfies'
+  } as Preset.ThemeConfig,
 };
 
 export default config;
