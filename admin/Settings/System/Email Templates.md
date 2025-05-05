@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3  # Add appropriate position number
+sidebar_position: 5  
 title: Email Templates
 ---
 

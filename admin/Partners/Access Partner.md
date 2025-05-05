@@ -22,6 +22,8 @@ title: Accessing Partner
 - Click the **Partner ID** in the list or click the **View** icon next to the partner’s entry.
 - Upon selecting a partner, the **Partner Details** page will appear. This page provides a comprehensive overview of the partner’s information, including:
 
+![Partner List](images/view_part_2.png)
+
     - **Name**: The name associated with the partner.
     - **Email Address**: The primary email address associated with the partner.
     - **Account Type**: Type of partner account as Reseller or Vendor.
@@ -34,7 +36,6 @@ title: Accessing Partner
     - **Currency**: The currency in which transactions for this partner are processed.
     - **Last Login**: Displays the most recent date and time the partner logged into their account.  
 
-![Partner List](images/view_part_2.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 

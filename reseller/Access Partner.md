@@ -25,7 +25,7 @@ title: Accessing Partner
     - **Name**: The name associated with the partner.
     - **Email Address**: The primary email address associated with the partner.
     - **Account Type**: Type of partner account as Reseller or Vendor.
-    - **CRN Number**: The unique Partner Reference Number assigned to the partner.
+    - **CRN Number**: The unique Customer Reference Number assigned to the partner.
     - **Contact Number**: The partner’s registered phone number.
     - **Address**: The partner's physical or mailing address.
     - **Sign-up Date**: The date when the partner was first registered in the system.

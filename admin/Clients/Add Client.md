@@ -9,8 +9,8 @@ title: Add Client
 
 ### <span style={{ color: '#003366' }}>Accessing the Client Registration Form</span>
 
-- From the left-hand menu, expand the **Clients** drop-down  
-- Click **Add Client** to open the registration form  
+- From the left-hand menu, expand the **Clients** drop-down.  
+- Click **Add Client** to open the registration form.
 
 ![Add Client Form](images/add_client_1.png)
 

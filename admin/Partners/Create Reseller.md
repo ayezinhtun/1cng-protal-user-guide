@@ -46,10 +46,23 @@ title: Create Reseller
 
 ![Invite Client Details](images/module_settings_3.png)
 
-- The Account Details page will show you the summary of all the entered details. Carefully review each section and click on **Continue**.
+- The Account Details page will show you the summary of all the entered details. Carefully review each section and click on **Continue**. You have successfully registered you Reseller. 
 
 ![Invite Client Details](images/account_details.png)
 
-- Once done, a link will be sent to your registered email account. Click on that link to access the portal page. 
-- Read the Vendor Agreement carefully and accept the agreement. Click on **Next** to access the Vendor portal.
+- Once you have registered your Reseller, a link will be sent to your registered email account. Click on that link to activate contract.
+
+![Invite Client Details](images/activation-link.png)
+
+- Enter your registered email ID. Read the Reseller Agreement carefully and accept the agreement. Click on **Next** to continue.
+
+![Invite Client Details](images/activation.png)
+
+- Set a strong password for your account. Click on that link to **Set & Activate** to activate contract.
+
+![Invite Client Details](images/activation-pass.png)
+
+- Now, final step is to sign in into your account. Enter your login credentials and click on **Sign In** to access the Reseller portal.
+
+![Invite Client Details](images/activation-login.png)
 

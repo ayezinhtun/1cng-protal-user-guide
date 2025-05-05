@@ -88,7 +88,7 @@ const config: Config = {
       title: 'Stack Console',
       logo: { alt: 'My Site Logo', src: 'img/logo.svg' },
       items: [
-        { to: '/docs/category/getting-started', label: 'User Guide', position: 'left' },
+        { to: '/docs/Getting Started/Introduction', label: 'User Guide', position: 'left' },
         { to: '/admin/intro', label: 'Admin Guide', position: 'left' },
         { to: '/reseller/intro', label: 'Reseller Guide', position: 'left' },
         { to: '/affiliate/intro', label: 'Affiliate Guide', position: 'left' },
