@@ -7,7 +7,9 @@ title: Report
 
 Stack Console offers a wide range of monitoring, analytics, and operational reports that provide deep visibility into the platform's infrastructure and user activity. These reports are designed to assist cloud administrators, support teams, and DevOps engineers in efficiently managing virtual resources, tracking usage, maintaining system health, and ensuring seamless service delivery.
 
-- From the left-hand side menu, select the **Report** tab. To view report of each resource navigate through the sub-sections under the Report tab. 
+- From the left-hand side menu, select the **Report** tab. To view report of each resource navigate through the sub-sections under the Report tab.
+
+![Report](images/report.png)
 
 Below is a comprehensive description of each report of resources available in the Stack Console:
 

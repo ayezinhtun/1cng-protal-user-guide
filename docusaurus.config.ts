@@ -86,14 +86,12 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Stack Console',
-      logo: { alt: 'My Site Logo', src: 'img/logo.svg' },
+      logo: { alt: 'Stack Console Logo', src: 'img/logo.svg' },
       items: [
         { to: '/docs/Getting Started/Introduction', label: 'User Guide', position: 'left' },
         { to: '/admin/intro', label: 'Admin Guide', position: 'left' },
         { to: '/reseller/intro', label: 'Reseller Guide', position: 'left' },
         { to: '/affiliate/intro', label: 'Affiliate Guide', position: 'left' },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        { href: 'https://github.com/facebook/docusaurus', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
@@ -108,38 +106,8 @@ const config: Config = {
             { label: 'Affiliate Guide', to: '/affiliate/intro'},
           ],
         },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Stack Console.`
     },
     prism: {
       theme: prismThemes.github,
