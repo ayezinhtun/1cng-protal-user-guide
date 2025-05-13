@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Stack Console',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon_stack_console.ico',
   url: 'http://doc.stackwarriors.in/',
   baseUrl: '/',
   organizationName: 'facebook',
@@ -85,8 +85,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Stack Console',
-      logo: { alt: 'Stack Console Logo', src: 'img/logo.svg' },
+      logo: { alt: 'Stack Console Logo', src: 'img/sc.ico' },
       items: [
         { to: '/docs/Getting Started/Introduction', label: 'User Guide', position: 'left' },
         { to: '/admin/intro', label: 'Admin Guide', position: 'left' },

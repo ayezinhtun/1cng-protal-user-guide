@@ -7,6 +7,16 @@ hide_title: false
 
 The **Cloud Provider Setup** tab allows administrators to add, configure, or modify cloud provider connections, enabling seamless provisioning. Here, we specifically cover environments like **VMware vCenter**.
 
+### <span style={{ color: '#003366' }}>Pre-requsites for VMware vCenter in Stack Console</span>
+
+CMP fetches all VM templates from the folder configured in the Cloud Provider Setup.
+- To ensure templates are listed correctly, the Template Folder ID must be configured accurately.
+- Firstly, you need to collect Template folder ID from vCenter, copy the folder ID mentioned in the picture below.
+
+![Cloud Provider Setup List](images/cp_.png)
+
+### <span style={{ color: '#003366' }}>Setup a Cloud Provider Setup for VMware</span>
+
 - From the left-hand side of the page under the **Orchestrator** section, click on **Cloud Provider Setup** to view the list of cloud provider setups.
 - To create a new cloud provider setup, click on **Add Setup**.
 
