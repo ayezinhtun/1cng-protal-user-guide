@@ -40,7 +40,9 @@ A **Virtual Private Cloud (VPC)** network in the Stack Console provides an isola
 
 ### Create VPC Network
 
-- Choose the desired **Billing Cycle** for your VPC Network. You can choose either Hourly or Monthly cycle.
+- Choose the desired **Billing Cycle** for your VPC Network. VPC supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- It also supports Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata billing rules.
+- It offers multiple VPC packages with varying networking capabilities. This enables flexible network topologies to meet performance, security, and connectivity requirements.
 - Verify all the configuration details and review the price summary. Click on **Create VPC** to create the VPC network.    
 
 ![alt text](images/vpc_networks_6.png)

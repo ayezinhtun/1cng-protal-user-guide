@@ -46,7 +46,9 @@ A **Virtual Router** is a software-based router that facilitates network traffic
 
 ### <span style={{ color: '#003366' }}>Review and Deploy</span>
 
-- Choose the desired **Billing Cycle** for your router. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your router. Virtual Router supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- It also supports Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata billing rules.
+- It offers multiple router packages with varying networking capabilities. This enables flexible network topologies to meet performance, security, and connectivity requirements.
 - Verify all the configuration details and review the price summary. Click on **Create Virtual Router** to create the router.
 
 ![Create Virtual Router](images/vr_4.png)

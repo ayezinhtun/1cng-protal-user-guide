@@ -54,7 +54,9 @@ title: Create Volume
 
 ### <span style={{ color: '#003366' }}>Create Volume</span>
 
-- Choose the desired **Billing Cycle** for your volume. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your volume. Volume supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- The supported billing rules are Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- It supports multiple packages based on SSD size and data center location. This ensures flexibility in performance and regional data preferences.
 - Verify all the configuration details and review the price summary. Click on **Create Volume** to create the volume.
 
 ![Create Volume](images/stackconsole-create-block-storages-deploy.png)

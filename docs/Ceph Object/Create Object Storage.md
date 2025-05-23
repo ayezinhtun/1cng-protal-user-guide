@@ -39,7 +39,9 @@
 
 ### <span style={{ color: '#003366' }}>Create Storage Object</span>
 
-- Choose the desired **Billing Cycle** for your storage object. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your storage object. Ceph Object supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- It uses Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata billing rules.
+- Multiple configuration options are available. This service provides flexible, scalable object storage for various cloud-native use cases.
 - Verify all the configuration details and review the price summary. Click on **Review and Create** to create the storage object.
 
 ![Create Storage Object](images/ob-7.png)

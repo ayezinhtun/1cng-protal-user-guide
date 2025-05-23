@@ -1,6 +1,6 @@
 # Billing Rules
 
-Applicable to **quarterly**, **semiannual**, and **yearly** services.
+**Billing Rules** determine how service start dates align with invoicing cycles. These rules govern how invoices are generated when services are created on dates that do not align exactly with the standard billing periods. Applicable to **quarterly**, **semiannual**, and **yearly** services. There are five primary billing rules, each with distinct invoice generation logic. 
 
 ---
 

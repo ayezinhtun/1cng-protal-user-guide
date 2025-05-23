@@ -47,7 +47,8 @@ title: Create Instance Snapshot
 
 ### <span style={{ color: '#003366' }}>Create Snapshot</span>
 
-- Choose the desired **Billing Cycle** for your snapshot. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your snapshot. Snapshots and backups support only Hourly billing cycles. The only billing rule supported is Fixed Prorata.
+- Only one package per zone is supported for VM Snapshot, BS Snapshot, and VM Backup. Automatic VM backups cost 20% of the virtual machine price if enabled from the admin.
 - Verify all the configuration details and review the price summary. Click on **Take Snapshot** to create the snapshot of the virtual machine instance.
 
 ![Create Snapshot](images/stackconsole-create-snapshot-vm-instance-snapshot-takesnap.png)

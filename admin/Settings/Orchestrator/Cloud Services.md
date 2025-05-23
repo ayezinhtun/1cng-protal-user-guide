@@ -11,7 +11,6 @@ The **Cloud Services** tab allows you to view and manage the cloud services that
 
 ![Cloud Services](images/cp.png)
 
-
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 The **Cloud Services** tab in the Stack Console offers a centralized interface to monitor and manage services across multiple cloud providers. This visibility helps streamline resource allocation and ensures smoother operations across cloud environments. For more detailed guidance, consult the Stack Console documentation or contact support.

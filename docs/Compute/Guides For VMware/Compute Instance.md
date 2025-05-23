@@ -107,7 +107,12 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 ### <span style={{ color: '#003366' }}>Review and Deploy</span>
 
-- Choose the desired **Billing Cycle** for your instance. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your instance. Instance supports the following billing cycles: Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually. 
+
+- It also supports a comprehensive set of billing rules, including Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+
+- It supports multiple instance packages such as General Purpose, Compute-Optimized, and Memory-Optimized. These options allow users to choose configurations tailored to their workload performance and memory needs.
+
 - Verify all the configuration details and review the price summary. Click on **Review & Deploy** to create the instance.
 
 ![Review and Deploy](images/stackconsole-create-instance-depoly.png)

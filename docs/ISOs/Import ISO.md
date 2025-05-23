@@ -45,7 +45,9 @@ Additionally, you can select from advanced options for the ISO:
 
 ### <span style={{ color: '#003366' }}>Create ISO</span>
 
-- Choose the desired **Billing Cycle** for your ISO. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your ISO. ISO supports Hourly billing cycles. 
+- The billing rules supported include Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- Only one package per zone is supported for ISO. This provides a straightforward model for managing bootable image usage.
 - Verify all the configuration details and review the price summary. Click on **Review & Create ISO** to create the ISO for your project.
 
 ![Create ISO](images/iso_5.png)

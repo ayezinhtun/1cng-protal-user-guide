@@ -117,7 +117,9 @@ Review all details entered in previous steps and ensure all settings are correct
 
 ### <span style={{ color: '#003366' }}>Billing</span>
 
-- Choose the desired **Billing Cycle** for your VPN. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your VPN. VPN supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- Supported billing rules include Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- There is no specific package detail mentioned, but VPN services integrate with networking components like VPCs to provide secure access across environments.
 - Verify all the configuration details and review the price summary. Click on **Create** to create the VPN.
 
 ![Billing](images/vpn_8.png)

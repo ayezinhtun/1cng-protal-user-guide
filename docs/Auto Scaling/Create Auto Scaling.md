@@ -97,7 +97,9 @@
 
 ### <span style={{ color: '#003366' }}>Create Auto-scaling</span>
 
-- Choose the desired **Billing Cycle** for your Auto-scaling. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your Auto-scaling. Autoscaling supports Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- The billing rules include Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- There is no specific package detail provided, but autoscaling follows the same billing model as other scalable services to adapt to workload demands.
 - Verify all the configuration details and review the price summary. Click on **Create** to create the Auto-scaling.
 
 ![Auto Scaling](images/as_14.png)

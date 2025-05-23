@@ -71,7 +71,9 @@ In **Stack Console**, you can easily set up a Kubernetes cluster to manage your 
 
 ### <span style={{ color: '#003366' }}>Create Cluster</span>
 
-- Choose the desired **Billing Cycle** for your cluster. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your cluster. Kubernetes supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- Supported billing rules are Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- It supports multiple cluster packages based on resource needs such as nodes and disk size. This makes it suitable for a range of container-based application workloads.
 - Verify all the configuration details and review the price summary. Click on **Create Cluster** to create the cluster.
 
 ![Create Cluster](images/kb_6.png)

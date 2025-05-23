@@ -53,7 +53,9 @@ Additionally, you can select from advanced options for the template:
 
 ### <span style={{ color: '#003366' }}>Create Template</span>
 
-- Choose the desired **Billing Cycle** for your template. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your template. Templates support Hourly billing cycles.
+- Supported billing rules are Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- Only one template package is supported per zone. This helps standardize deployments across environments.
 - Verify all the configuration details and review the price summary. Click on **Create** to create the template for your project.
 
 ![Advanced Options](images/create.png)

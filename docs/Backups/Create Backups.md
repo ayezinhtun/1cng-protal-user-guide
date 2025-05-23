@@ -42,7 +42,8 @@
 
 ### <span style={{ color: '#003366' }}>Create Backup</span>
 
-- Choose the desired **Billing Cycle** for your backup. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your backup. Snapshots and backups support only Hourly billing cycles. The only billing rule supported is Fixed Prorata.
+- Only one package per zone is supported for VM Snapshot, BS Snapshot, and VM Backup. Automatic VM backups cost 20% of the virtual machine price if enabled from the admin.
 - Verify all the configuration details and review the price summary. Click on **Create Backup** to create the backup of the virtual machine instance.
 
 ![Create Backup](images/Backups_6.png)

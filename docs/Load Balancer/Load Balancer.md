@@ -64,7 +64,9 @@ A **Load Balancer** helps distribute incoming traffic across multiple servers to
 
 ### <span style={{ color: '#003366' }}>Create Load Balancer</span>
 
-- Choose the desired **Billing Cycle** for your load balancer. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your load balancer. Load Balancer supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles.
+-  The billing rules it supports include Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- Only one load balancer package is available per zone. This simplifies configuration and ensures consistent behavior within each deployment zone.
 - Verify all the configuration details and review the price summary. Click on **Create Load Balancer** to create the load balancer for your network.
 
 ![Create Load Balancer](images/ldb_8.png)

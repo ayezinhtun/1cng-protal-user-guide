@@ -116,7 +116,9 @@ title: VNF Appliances
 
 ### <span style={{ color: '#003366' }}>Review and Deploy</span>
 
-- Choose the desired **Billing Cycle** for your appliance. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your appliance. VNF Appliances support Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- They also support all major billing rules: Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata.
+- They support multiple packages depending on SSD size and data center location. This enables deployment of network functions with regional and performance-based customization.
 - Verify all the configuration details and review the price summary. Click on **Review & Deploy** to create the instance.
 
 ![Review and Deploy](images/stackconsole-create-instance-depoly.png)

@@ -51,7 +51,9 @@ title: Veeam Backup
 
 ### <span style={{ color: '#003366' }}>Review and Deploy</span>
 
-- Choose the desired **Billing Cycle** for your Veeam account. You can choose either Hourly or Monthly.
+- Choose the desired **Billing Cycle** for your Veeam account. Veeam Backup supports Hourly, Monthly, Quarterly, Semiannually, Yearly, Bi-annually, and Tri-annually billing cycles. 
+- It supports Date to Date, Fixed Calendar Month, Unfixed Calendar Month, Fixed Prorata, and Unfixed Prorata billing rules.
+- It supports multiple packages based on SSD sizes and data center locations. This allows flexibility for backup strategies across regions and storage tiers.
 - Verify all the configuration details and review the price summary. Click on **Review And Create Veeam Account** to create the Veeam account.
 
 ![Review and Deploy](images/veeam_6.png)
