@@ -7,10 +7,15 @@ title: Branding Preferences
 
 The Stack Console's **Branding Preferences** tab allows you to customize the look and feel of the platform. Here, you can set the company name, upload fonts, logos for light and dark themes, logos, and apply custom CSS for UI changes.
 
+### App Setting
+
+![Brand Pref](images/b1.png)
 
 ### Theme
 
 The **Theme** tab manages the visual themes of your platform. It define the color palette and UI style for the entire platform. 
+
+![Brand Pref](images/b2.png)
 
 - You can view available themes, check the current active theme, and create new ones by setting primary and secondary colors for light and dark modes.
 
@@ -24,6 +29,8 @@ The **Theme** tab manages the visual themes of your platform. It define the colo
 ### External Links
 
 The **External Links** tab manage important URL endpoints used across your platform for compliance, support, marketing, and legal transparency.
+
+![Brand Pref](images/b3.png)
 
 - **Privacy Policy URL**: Link to your company's privacy policy explaining how user data is handled.
 - **Terms and Conditions URL**: Link to the terms users must accept when using your services.
@@ -44,15 +51,29 @@ The **External Links** tab manage important URL endpoints used across your platf
 - **Instagram URL**: Link to your company's official Instagram account.
 - **Object Storage s3cmd Doc URL**: Link to documentation for configuring and using s3cmd with object storage.
 
-### 
+### Login Sign Up Layout
 
 Choose visual layout templates for authentication screens. Select templates that match branding and UX guidelines.
+
+![Brand Pref](images/b4.png)
 
 - **Login**: Layout customization for the user login page.
 - **Register**: Layout customization for the user registration page.
 - **Forgot Password**: Layout customization for the password recovery page.
 - **Logout**: Layout customization for the user logout experience.
 - **2FA**: Layout customization for the two-factor authentication (2FA) setup page.
+
+### Project Icon
+
+Choose project icons for your project or add new icon. To add new ico, click on **Add Icon** on right-hand side of the page. 
+
+![Brand Pref](images/b5.png)
+
+- Enter the name of the project icon, select the project and upload the image file you want to use for your icon. Select the status as active/inactive to enable or disable the icon. Click on **Submit**.
+
+![Brand Pref](images/b6.png)
+
+
 
 
 

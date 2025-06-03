@@ -5,10 +5,14 @@ The **Rate Cards** tab in the Stack Console allows administrators to define and 
 - From the left-hand side of the page under the **Billing Setup** section, click on **Rate Cards** to view the list of rate cards.
 - To create a new rate card, click on **Add Rate Card**.
 
+![Cloud Services](images/rc_1.png)
+
 - **Name:** Provide a clear and unique name for the rate card.
 - **Description:** Enter a short summary describing the purpose or scope of the rate card. 
 - **Account Type:** Choose the type of account this rate card will apply to from Customer, Vendor and Reseller.
 - **Status:** Set the rate card to Active/Inactive to make it available in the system.
 - **Mark as Default:** Check this box if this should be the default rate card for new accounts under the selected account type.
 - Review all details for accuracy. Click **Submit** to save and activate the rate card.
+
+![Cloud Services](images/rc_2.png)
 

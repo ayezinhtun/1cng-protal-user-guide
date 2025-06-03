@@ -27,7 +27,7 @@ You can add a new Storage Cluster to the Cloud Management Platform (CMP), simila
    - **Cloud Provider:** Choose from the dropdown (e.g., VMware).
    - **Cloud Provider Setup:** Choose the specific configuration or credentials for the selected provider.
    - **Zone:** Choose the geographic zone where your data center will be located.
-   - **Storage Category**: Choose the type of storage (e.g., Block, Object, SSD).
+   - **Storage Category**: Choose the type of storage (e.g., Enterprise SSD, SSD, HDD, NVMe).
    - **Data Store Cluster ID:** Paste the Cluster ID you copied from the earlier setup step.
    - **Set Status:** Choose between **Active** or **Inactive** to enable or disable the configuration.
 

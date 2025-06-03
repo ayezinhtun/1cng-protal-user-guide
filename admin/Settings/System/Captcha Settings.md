@@ -8,6 +8,9 @@ title: Captcha Settings
 The **Captcha Settings** tab helps protect your platform by managing Captcha integrations like Google reCAPTCHA. You can add new Captcha settings by selecting a provider, entering keys, setting status, and optionally making one default.
 
 - From the left-hand side menu, navigate to the **Settings** tab. Under **Settings**, select the **System** option and click on **Captcha Settings**.
+
+![Captcha](images/captcha_settings_1.png)
+
 - The Captcha Settings page will display a list of available captcha providers.
 
     - **Captcha Provider**: Select the captcha provider (Google reCAPTCHA).
@@ -15,4 +18,6 @@ The **Captcha Settings** tab helps protect your platform by managing Captcha int
     - **Secret Key**: Private key used in backend verification.
     - **Default**: (Optional) Mark it as the default captcha system.
 - Set the status as active or inactive and click on **Submit**.
+
+![Captcha](images/captcha_settings_2.png)
 

@@ -5,6 +5,8 @@ The **Coupon** tab in the Stack Console allows administrators to create and mana
 - From the left-hand side of the page under the **Billing Setup** section, click on **Coupons** to view the list of coupons.
 - To create a new coupon, click on **Add Coupon**.
 
+![Cloud Provider Setup List](images/cop_1.png)
+
 - **Coupon Name:** Provide a unique name for the coupon.
 - **Category:** Choose one of the following:
     - **Free Coupon** – For 100% discount or free service.
@@ -14,12 +16,23 @@ The **Coupon** tab in the Stack Console allows administrators to create and mana
 - **Discount (In Percentage):** Enter the discount rate.
 - **Start From:** Select the date when the coupon becomes valid (format: dd-mm-yyyy).
 - **Coupon Expires On:** Select the expiration date.
+
+![Cloud Provider Setup List](images/cop_2.png)
+
 - **Applicable to No. of Users:** Specify how many users can use this coupon in total (e.g., 50).
 - **Billing Cycles:** Select one or more billing cycles this coupon applies to (e.g., Monthly, Yearly).
+
+![Cloud Provider Setup List](images/cop_3.png)
+
 - **Applicable Services:** Choose one or more services this coupon can be used for (e.g., Backup, Storage, Compute).
+
+![Cloud Provider Setup List](images/cop_4.png)
+
 - **Status:** Set this to Active/Inactive to make the coupon available.
 - **Applicable to:** Choose which user types (Customer, Vendor and Reseller) can use this coupon.
 - **Is Coupon One Time Use?:** Check this box if each user can only use the coupon once.
 - **Auto Redeem Coupon for New Clients:** Check this box if the coupon should automatically apply to newly registered users.
+
+![Cloud Provider Setup List](images/cop_5.png)
 
 Review all the entered data carefully. Click **Submit** to save and activate the coupon.

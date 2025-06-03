@@ -2,7 +2,9 @@
 
 **Billing Rules** determine how service start dates align with invoicing cycles. These rules govern how invoices are generated when services are created on dates that do not align exactly with the standard billing periods. Applicable to **quarterly**, **semiannual**, and **yearly** services. There are five primary billing rules, each with distinct invoice generation logic. 
 
----
+- From the left-hand side of the page under the **Billing Setup** section, click on **Billing Rules** to view the list of billing rules.
+
+![Cloud Provider Setup List](images/br.png)
 
 ## <span style={{ color: '#003366' }}>Billing Rule: UNFIXED_PRORATA</span>
 
