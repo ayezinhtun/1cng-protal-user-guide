@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: Admin Guide
+title: StackConsole Admin Guide
 ---
 
 import Link from '@docusaurus/Link';
 
-# Admin Guide
+# StackConsole Admin Guide
 
 Welcome to the Admin Guide for StackConsole! This guide will walk you through the core features available to administrators of the platform.
 

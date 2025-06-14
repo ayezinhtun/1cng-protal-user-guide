@@ -8,10 +8,10 @@ title: Global Events
 The Stack Console's **Global Events** tab lets you view all major system notifications or announcements. Admins can add new events by entering a title, message, selecting a category like Warning, Info, or Critical, and setting the event dates and status.
 
 - From the left-hand side menu, navigate to the **Settings** tab. Under **Settings**, select the **System** option and click on **Global Events**.
-- The Global Events page view all major system notifications or announcements. 
+- The Global Events page displays all major system notifications or announcements.
 - To schedule a global event click on **Schedule An Event**.
 
-![Email Template](images/global_event_1.png)
+![Global Events Dashboard](images/global_event_1.png)
 
 - Give your event a title and description to show detailed message to users.
 - Choose a Category from:
@@ -20,4 +20,9 @@ The Stack Console's **Global Events** tab lets you view all major system notific
     - **Critical**: Immediate action required.
 - Select the start and end date of the event, set status active or inactive according to your preference and click on **Submit**.
 
-![Email Template](images/global_event_2.png)
+![Create Global Event](images/global_event_2.png)
+
+----------
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+The Global Events section enables effective system-wide communication of important notifications. For event management assistance, contact Stack Console support.

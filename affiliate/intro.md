@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Affiliate Guide
+title: StackConsole Affiliate Guide
 ---
 
 import React from 'react';

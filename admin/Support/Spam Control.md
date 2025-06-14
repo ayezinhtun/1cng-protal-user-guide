@@ -10,6 +10,8 @@ The **Spam Control** section displays tickets that have been flagged as spam. Th
 - Navigate to the **Support** section, select the **Settings** tab.
 - From the **Settings** tab, click on **Spam Control** to view support ticket spams.
 
+![Spam Control](images/spam.png)
+
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 The Spam Control feature provides an effective way to manage and filter unwanted support tickets, helping your team focus on legitimate customer inquiries. By regularly monitoring this section, you can maintain an efficient support workflow.

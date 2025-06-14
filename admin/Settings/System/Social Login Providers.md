@@ -10,5 +10,9 @@ The Stack Console's **Social Login Providers** tab allows users to sign up or lo
 - From the left-hand side menu, navigate to the **Settings** tab. Under **Settings**, select the **System** option and click on **Social Login Providers**.
 - The Social Login Providers page displays the available social platforms users can log in with, such as Google or Facebook. 
 
-![Email Template](images/social_provider.png)
+![Social Login Providers Dashboard](images/social_provider.png)
 
+----------
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+The Social Login Providers section enables seamless authentication through trusted third-party platforms. For configuration assistance, contact Stack Console support.

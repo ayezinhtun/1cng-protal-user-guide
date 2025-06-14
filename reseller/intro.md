@@ -1,185 +1,198 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: StackConsole Partner Guide
 ---
 
 import Link from '@docusaurus/Link';
-
-# Welcome to the Partner Guide for StackConsole
-
-StackConsole is a powerful cloud management platform designed to streamline operations for various partner types. This guide provides a quick overview of how different partners—**Vendors** and **Resellers**—can engage with the platform.
-
----
-
 import React from 'react';
 
-<div
-  style={{
-    textAlign: 'center',
-    padding: '50px 20px',
-    background: 'linear-gradient(135deg, #0073e6, #003366)',
-    color: 'white',
-    borderRadius: '10px',
-    marginBottom: '30px',
-  }}
->
-  <h1>👋 Welcome to Stack Console Documentation!</h1>
-  <p>Manage and optimize your cloud infrastructure with Stack Console.</p>
-</div>
+# StackConsole Partner Guide
 
+<div style={{
+  textAlign: 'center',
+  padding: '50px 20px',
+  background: 'linear-gradient(135deg, #0066cc, #003366)',
+  color: 'white',
+  borderRadius: '10px',
+  marginBottom: '30px',
+  boxShadow: '0 8px 24px rgba(0, 102, 204, 0.3)'
+}}>
+  <h1 style={{ fontSize: '2.2rem', marginBottom: '16px' }}>Partner with StackConsole</h1>
+  <p style={{ fontSize: '1.1rem', maxWidth: '800px', margin: '0 auto' }}>
+    Build and scale your cloud business with our powerful platform
+  </p>
+</div>
 
 ## Partner Types
 
+StackConsole empowers businesses to thrive in the cloud ecosystem through strategic partnerships. Whether you’re a Vendor delivering services directly or a Reseller building your branded cloud business, our platform provides the tools, infrastructure, and support to scale efficiently.
+
 ---
 
-### 🏢 Vendor
+### 🏢 Vendor Partners
+As a **Vendor**, you’re the backbone of StackConsole’s cloud ecosystem. Your partnership enables:
 
-**Vendors** are core providers on StackConsole who can directly manage services and customer accounts.
+- **Seamless Customer Management:** Onboard and manage client accounts with automated tools.
+- **Direct Service Delivery:** Deploy and maintain cloud services through our enterprise-grade platform.
 
-**Key Capabilities:**
+Vendors gain full access to StackConsole’s infrastructure, analytics, and support to deliver exceptional value to end customers.
 
-<div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px', justifyContent: 'center', marginTop: '24px' }}>
+<div style={{ 
+  display: 'flex',
+  flexWrap: 'wrap',
+  gap: '24px',
+  justifyContent: 'center',
+  margin: '30px 0'
+}}>
 
+<div style={{
+  background: '#ffffff',
+  padding: '24px',
+  borderRadius: '12px',
+  boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
+  flex: '1',
+  minWidth: '280px',
+  maxWidth: '360px',
+  textAlign: 'center',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  borderTop: '4px solid #0066cc'
+}}>
   <div style={{
-    background: '#ffffff',
-    padding: '24px',
-    borderRadius: '12px',
-    boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
-    flex: '1',
-    minWidth: '280px',
-    maxWidth: '360px',
-    textAlign: 'center',
+    width: '100px',
+    height: '100px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, #0066cc 0%, #004c99 100%)',
     display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
     alignItems: 'center',
-    transition: 'transform 0.2s ease-in-out'
-  }}>
-    <div style={{
-      width: '100px',
-      height: '100px',
-      borderRadius: '50%',
-      backgroundColor: '#0073e6',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      color: 'white',
-      fontSize: '24px',
-      marginBottom: '10px',
-    }}>👥</div>
-    <h3 style={{ color: '#0073e6', marginBottom: '12px' }}>Manage and Onboard Customers</h3>
-    <p style={{ fontSize: '15px', color: '#333' }}>Onboard and manage customer accounts seamlessly.</p>
-  </div>
+    justifyContent: 'center',
+    color: 'white',
+    fontSize: '32px',
+    marginBottom: '16px',
+    boxShadow: '0 4px 8px rgba(0, 102, 204, 0.3)'
+  }}>👥</div>
+  <h3 style={{ color: '#0066cc', marginBottom: '12px' }}>Customer Management</h3>
+  <p style={{ fontSize: '15px', color: '#333' }}>Onboard and manage customer accounts seamlessly.</p>
+</div>
 
+<div style={{
+  background: '#ffffff',
+  padding: '24px',
+  borderRadius: '12px',
+  boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
+  flex: '1',
+  minWidth: '280px',
+  maxWidth: '360px',
+  textAlign: 'center',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  borderTop: '4px solid #0066cc'
+}}>
   <div style={{
-    background: '#ffffff',
-    padding: '24px',
-    borderRadius: '12px',
-    boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
-    flex: '1',
-    minWidth: '280px',
-    maxWidth: '360px',
-    textAlign: 'center',
+    width: '100px',
+    height: '100px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, #0066cc 0%, #004c99 100%)',
     display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
     alignItems: 'center',
-    transition: 'transform 0.2s ease-in-out'
-  }}>
-    <div style={{
-      width: '100px',
-      height: '100px',
-      borderRadius: '50%',
-      backgroundColor: '#0073e6',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      color: 'white',
-      fontSize: '24px',
-      marginBottom: '10px',
-    }}>🔧</div>
-    <h3 style={{ color: '#0073e6', marginBottom: '12px' }}>Deliver Services</h3>
-    <p style={{ fontSize: '15px', color: '#333' }}>Provide cloud services directly through the platform.</p>
-  </div>
+    justifyContent: 'center',
+    color: 'white',
+    fontSize: '32px',
+    marginBottom: '16px',
+    boxShadow: '0 4px 8px rgba(0, 102, 204, 0.3)'
+  }}>🔧</div>
+  <h3 style={{ color: '#0066cc', marginBottom: '12px' }}>Deliver Services</h3>
+  <p style={{ fontSize: '15px', color: '#333' }}>Provide cloud services directly through the platform.</p>
+</div>
 
 </div>
 
 ---
 
-### 🤝 Reseller
+### 🤝 Reseller Partners
+As a **Reseller**, you leverage StackConsole’s technology under your own brand to:
 
-**Resellers** operate under their own brand while utilizing StackConsole’s infrastructure to deliver cloud services.
+- **White-Label Your Portal:** Customize the platform with your branding, colors, and domain.
+- **Resell Cloud Services:** Offer cloud solutions to your clients while we handle the infrastructure.
 
-**Key Capabilities:**
+Resellers benefit from rapid deployment, competitive margins, and the flexibility to tailor solutions to their market.
 
-<div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px', justifyContent: 'center', marginTop: '24px' }}>
+<div style={{ 
+  display: 'flex',
+  flexWrap: 'wrap',
+  gap: '24px',
+  justifyContent: 'center',
+  margin: '30px 0'
+}}>
 
+<div style={{
+  background: '#ffffff',
+  padding: '24px',
+  borderRadius: '12px',
+  boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
+  flex: '1',
+  minWidth: '280px',
+  maxWidth: '360px',
+  textAlign: 'center',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  borderTop: '4px solid #0088cc'
+}}>
   <div style={{
-    background: '#ffffff',
-    padding: '24px',
-    borderRadius: '12px',
-    boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
-    flex: '1',
-    minWidth: '280px',
-    maxWidth: '360px',
-    textAlign: 'center',
+    width: '100px',
+    height: '100px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, #0088cc 0%, #006699 100%)',
     display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
     alignItems: 'center',
-    transition: 'transform 0.2s ease-in-out'
-  }}>
-    <div style={{
-      width: '100px',
-      height: '100px',
-      borderRadius: '50%',
-      backgroundColor: '#0073e6',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      color: 'white',
-      fontSize: '24px',
-      marginBottom: '10px',
-    }}>🎨</div>
-    <h3 style={{ color: '#0073e6', marginBottom: '12px' }}>Brand Your Portal</h3>
-    <p style={{ fontSize: '15px', color: '#333' }}>Customize the portal with your logo, colors, and branding.</p>
-  </div>
+    justifyContent: 'center',
+    color: 'white',
+    fontSize: '32px',
+    marginBottom: '16px',
+    boxShadow: '0 4px 8px rgba(0, 136, 204, 0.3)'
+  }}>🎨</div>
+  <h3 style={{ color: '#0088cc', marginBottom: '12px' }}>Brand Your Portal</h3>
+  <p style={{ fontSize: '15px', color: '#333' }}>Customize the portal with your logo, colors, and branding.</p>
+</div>
 
+<div style={{
+  background: '#ffffff',
+  padding: '24px',
+  borderRadius: '12px',
+  boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
+  flex: '1',
+  minWidth: '280px',
+  maxWidth: '360px',
+  textAlign: 'center',
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  borderTop: '4px solid #0088cc'
+}}>
   <div style={{
-    background: '#ffffff',
-    padding: '24px',
-    borderRadius: '12px',
-    boxShadow: '0 6px 12px rgba(0, 0, 0, 0.08)',
-    flex: '1',
-    minWidth: '280px',
-    maxWidth: '360px',
-    textAlign: 'center',
+    width: '100px',
+    height: '100px',
+    borderRadius: '50%',
+    background: 'radial-gradient(circle, #0088cc 0%, #006699 100%)',
     display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
     alignItems: 'center',
-    transition: 'transform 0.2s ease-in-out'
-  }}>
-    <div style={{
-      width: '100px',
-      height: '100px',
-      borderRadius: '50%',
-      backgroundColor: '#0073e6',
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      color: 'white',
-      fontSize: '24px',
-      marginBottom: '10px',
-    }}>🔄</div>
-    <h3 style={{ color: '#0073e6', marginBottom: '12px' }}>Resell Cloud Services</h3>
-    <p style={{ fontSize: '15px', color: '#333' }}>Resell cloud services using StackConsole’s infrastructure.</p>
-  </div>
+    justifyContent: 'center',
+    color: 'white',
+    fontSize: '32px',
+    marginBottom: '16px',
+    boxShadow: '0 4px 8px rgba(0, 136, 204, 0.3)'
+  }}>🔄</div>
+  <h3 style={{ color: '#0088cc', marginBottom: '12px' }}>Resell Cloud Services</h3>
+  <p style={{ fontSize: '15px', color: '#333' }}>Resell cloud services using StackConsole's infrastructure.</p>
+</div>
 
 </div>
 
----
+----
 
-## Next Steps
+### 🚀 Next Steps
+Start by selecting your partner type and exploring the guides above. Whether you're offering services directly or reselling them under your brand, StackConsole gives you the tools to build, scale, and manage your cloud ecosystem with ease.
 
-Start by selecting your partner type and exploring the guides above. Whether you're offering services directly or reselling them under your brand, **StackConsole** gives you the tools to build, scale, and manage your cloud ecosystem with ease.

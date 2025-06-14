@@ -9,16 +9,11 @@ The **Cloud Provider Setup** tab allows administrators to configure OpenNebula (
 
 ### <span style={{ color: '#003366' }}>Steps to Configure OpenNebula Cloud Provider</span>
 
-1. Navigate to the **Cloud Provider Setup** section under the **Orchestrator** menu.
-2. Click on **Add Setup** to begin configuration.
+- Navigate to the **Cloud Provider Setup** section under the **Orchestrator** menu. Click on **Add Setup** to begin configuration.
 
 :::note
 If this setup was added by the Stack Console team, edit the existing setup instead of creating a new one.
 :::
-
-3. Fill in the configuration form with the following fields:
-
-#### Basic Configuration
 
 - **Cloud Provider:** Select **OpenNebula (cirrus)** from the dropdown.
 - **Setup Name:** Enter a recognizable name (e.g., `Open Nebula 01`).
@@ -62,12 +57,11 @@ If this setup was added by the Stack Console team, edit the existing setup inste
 - **VM Password Required:** Set to **No** if VMs do not require a password at provisioning.
 - **Method:** Select the IP allocation method (e.g., `none` for default behavior).
 - **AR Type:** Choose address range type (e.g., `IP4` for IPv4).
-Click **Submit** to complete and save the configuration.
+- Click **Submit** to complete and save the configuration.
 
 ---
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 OpenNebula cloud provider integration in Stack Console allows administrators to deliver full-stack VM orchestration, autoscaling, and Kubernetes services with customized networking and security. Accurate configuration ensures smooth operation and provisioning workflows.
-
 For help or troubleshooting, refer to official Stack Console documentation or reach out to support.

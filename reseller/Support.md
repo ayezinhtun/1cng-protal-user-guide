@@ -7,7 +7,7 @@ title: Support
 
 **Support** in **Stack Console** provides assistance to users in accessing, managing, and troubleshooting their systems. It ensures that users can effectively utilize their technology resources, resolve issues, and optimize performance.
 
-![Support](images/supp_1.png)
+![Support Dashboard](images/supp_1.png)
 
 ### <span style={{ color: '#003366' }}>Submitting and Managing Tickets</span>
 
@@ -21,7 +21,14 @@ title: Support
 
 - If immediate help is needed, reach out via email at **help@lifeincloud.com** to our customer service. Our support team will work to provide a solution to your issue.
 - Keep your CRN (Customer Reference Number) ready for a faster response.
-- **Note**: Our support services are open every day from 8 AM to 9 PM.
+
+:::note
+Our support services are open every day from 8 AM to 9 PM.
+:::
 
 ![Immediate Assistance](images/supp_2.png)
 
+----------
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+Stack Console Support provides comprehensive assistance through both ticketing and direct channels, ensuring timely resolution of technical issues during business hours.

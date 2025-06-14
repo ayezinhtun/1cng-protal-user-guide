@@ -21,6 +21,12 @@ You can add a new Host Cluster to the Cloud Management Platform (CMP) to expand 
 - To create a new compute setting, click on **Create Compute Setting**.
 - Click on the three dots beside the setup and click on **Edit** to change the details.
 
+:::warning
+
+If you enable it, make sure you update the VM packages and associate with appropriate compute categories; else, VM packages should not be visible at the customer portal at the time of VM creation. There is strong dependency between VM packages and compute categories.
+
+:::
+
 ![Cloud Provider Setup List](images/cp_3.png)
 
 - **Name:** Enter a name for this compute setting configuration.
@@ -28,6 +34,13 @@ You can add a new Host Cluster to the Cloud Management Platform (CMP) to expand 
 - **Region:** Select the geographic region where your compute resources are located.
 - **Is Enabled:** Choose Yes to enable or No to disable this compute setting.
 - **VMware Host ID:** Paste the ID of the VMware host associated with this compute setting.
+
+:::warning
+
+Entering the host ID will be prioritized over the host cluster ID while deploying VM.
+
+:::
+
 - **VMware Cluster Host ID:** Paste the ID of the VMware host cluster.
 
 ![Cloud Provider Setup List](images/cp_2.png)

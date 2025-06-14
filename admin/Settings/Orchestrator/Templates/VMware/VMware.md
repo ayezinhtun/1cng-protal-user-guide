@@ -11,6 +11,12 @@ The **Templates** tab provides the pre-configured virtual machine blueprint that
 - To create a new template, click on **Add Template**.
 - To edit the template, click on the three dots beside the template and click on **Edit** to change the details.
 
+:::warning
+
+If the Image Type, Operating System, Version, Regions, and Template Offering already exist, creating a new template is not allowed.
+
+:::
+
 ![Cloud Provider Setup List](images/t1.png)
 
    - **Cloud Provider:** Choose from the dropdown (e.g., VMware).

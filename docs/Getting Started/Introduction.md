@@ -21,7 +21,7 @@ import Link from '@docusaurus/Link';
   <p>Manage and optimize your cloud infrastructure with Stack Console.</p>
 </div>
 
-## About Stack Console
+## 📖 About Stack Console
 
 **Stack Console** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
 
@@ -240,9 +240,7 @@ With Stack Console, organizations can simplify the complexity of multi-cloud ope
 
 ---
 
-### Next Steps
-
-
+### 🚀 Next Steps
 
 To start your journey with **Stack Console**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with Stack Console's powerful integrations, you’ll be up and running in no time!
 

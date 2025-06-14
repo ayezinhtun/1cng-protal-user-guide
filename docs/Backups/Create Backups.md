@@ -35,7 +35,11 @@
 ### <span style={{ color: '#003366' }}>Schedule a Backup</span>
 
 - Set how often you want to back up by configuring intervals and specifying the time backups should be created.
-- **Note**: Automatic backups cost 20% of the virtual machine’s price.
+
+:::note
+Automatic backups cost 20% of the virtual machine’s price.
+:::
+
 - If you want to take a backup immediately while creating the schedule, select the **Take One Immediate** button.
 
 ![Schedule Backup](images/Backups_5.png)

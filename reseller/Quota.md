@@ -11,4 +11,7 @@ The **Quota Tab** manages resource limits for clients. Ensures clients operate w
 
 ![Quota Management](images/quota.png)
 
+----------
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
 The Quota system provides controlled resource allocation, enabling administrators to maintain balanced usage across client accounts while allowing flexible adjustments as needed.

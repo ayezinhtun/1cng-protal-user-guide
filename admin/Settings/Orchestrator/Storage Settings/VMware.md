@@ -21,6 +21,14 @@ You can add a new Storage Cluster to the Cloud Management Platform (CMP), simila
 - To create a new storage setting setup, click on **Create Storage Setting**.
 - Click on the three dots beside the setup and click on **Edit** to change the details.
 
+
+:::warning
+
+Please ensure that whenever you add or disable any storage setting, you also update the corresponding services list under Cloud Services and Cloud Provider Setup. This is important because we manage quotas individually for each storage type. VM Packages are strongly dependent on storage settings. If we disable any storage setting, associated packages will not be shown for end customers.
+
+:::
+
+
 ![Cloud Provider Setup List](images/s0.png)
 
    - **Disk Name:** Enter a name for this storage setting configuration.

@@ -3,6 +3,12 @@
 
 The **Country** tab enables you can view all supported countries and selectively disable any of them to restrict users from those regions from signing up. You can also toggle the active or inactive status of each country.
 
+:::warning
+
+As an Admin we can disable countries from here; once disabled user cannot register with that countries.
+
+:::
+
 ![Invite Client Details](images/country_res_1.png)
 
 The **States** tab lets admins manage the list of states or provinces available within the system. It displays all existing states and provides an option to add new ones by selecting a country and entering the state name. 
