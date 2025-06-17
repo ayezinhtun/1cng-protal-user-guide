@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Virtual Network
 ---
 
-## <span style={{ color: '#003366' }}>Virtual Network</span>
+## <span style={{ color: '#003366' }}>Virtual Network in Stack Console</span>
 
 A **Virtual Network** is a logically isolated network that enables communication between cloud resources within a controlled environment. In StackConsole, virtual networks allow users to define IP address ranges, configure routers, and manage network settings for seamless connectivity between virtual machines and other cloud resources. This guide provides step-by-step instructions for creating a virtual network.
 
@@ -47,3 +47,10 @@ A **Virtual Network** is a logically isolated network that enables communication
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage Virtual Networks in StackConsole. Virtual Networks provide a secure and isolated environment for your cloud resources, ensuring seamless connectivity and efficient network management. For further assistance, refer to the StackConsole documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Virtual Routers](./Virtual%20Routers.md)**
+- **[IP Address](./IP%20Addresses.md)**
+- **[Security Groups](./Security%20Groups.md)**
+:::

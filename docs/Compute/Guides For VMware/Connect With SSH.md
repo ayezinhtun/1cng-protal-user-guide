@@ -3,7 +3,7 @@ sidebar_position: 9
 title: Connect With SSH
 ---
 
-## <span style={{ color: '#003366' }}>Connect with SSH </span>  
+## <span style={{ color: '#003366' }}>Connect with SSH in Stack Console</span>  
 
 You can manage your instance using a terminal and SSH. This allows you to connect securely and perform administrative tasks remotely. You can either use an SSH client or connect directly via your terminal. This guide provides step-by-step instructions to connect to your cloud instance using an SSH client or terminal for secure remote access.
 
@@ -53,3 +53,9 @@ Before connecting to your instance, ensure you have the following information:
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 By following this guide, you can securely connect to your cloud instance using SSH. Whether you use an SSH key or a password, SSH provides a reliable and secure method for remote access and management. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Connect With RDP](./Connect%20With%20RDP.md)**  
+- **[Console Access](./Console%20Access.md)**  
+:::

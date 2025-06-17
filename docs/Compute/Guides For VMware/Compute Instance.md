@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Compute Instance
 ---
 
-## <span style={{ color: '#003366' }}>Compute Instance</span>
+## <span style={{ color: '#003366' }}>Compute Instance for Stack Console</span>
 
 A **Compute Instance** is a virtual server in the cloud that functions similarly to a physical computer. It has its own CPU, memory, and storage, allowing you to install software, run applications, or host websites. With a Compute Instance, you have complete control over your server environment, making it flexible for various tasks. Compute Instances are a fundamental component of cloud services, enabling users to quickly launch and scale servers as needed.
 
@@ -122,3 +122,9 @@ This guide provides step-by-step instructions for creating a cloud server instan
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 Creating a Compute Instance on Stack Console is a straightforward process that provides you with the flexibility and scalability needed to meet your computing requirements. By following this guide, you can configure your instance to suit your specific needs, whether for development, production, or specialized workloads. Regularly review and optimize your instance settings to ensure efficient resource utilization and enhanced performance. For further assistance, explore the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Instance Overview](./Instance%20Overview.md)**  
+- **[VM Activity Logs](./VM%20Activity%20Logs.md)**
+:::

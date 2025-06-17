@@ -81,3 +81,11 @@ In **Stack Console**, you can easily set up a Kubernetes cluster to manage your 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage a Kubernetes cluster on Stack Console. Kubernetes clusters provide a powerful way to deploy, scale, and manage containerized applications with high availability and efficiency. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Manage Kubernetes Cluster](./Manage%20Kubernetes%20Cluster.md)**
+- **[Load Balancer](./../Load%20Balancer/Load%20Balancer.md)**
+- **[Auto Scaling](./../Auto%20Scaling/Create%20Auto%20Scaling.md)**
+- **[Affinity Group](./../Affinity%20Groups/Create%20Affinity%20Groups.md)**
+:::

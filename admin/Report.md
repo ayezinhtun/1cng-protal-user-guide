@@ -3,13 +3,15 @@ sidebar_position: 9
 title: Report
 ---
 
-## Stack Console Reports Overview
+## <span style={{ color: '#003366' }}>Stack Console Reports Overview</span>
 
 Stack Console offers a wide range of monitoring, analytics, and operational reports that provide deep visibility into the platform's infrastructure and user activity. These reports are designed to assist cloud administrators, support teams, and DevOps engineers in efficiently managing virtual resources, tracking usage, maintaining system health, and ensuring seamless service delivery.
 
+-----
+
 - From the left-hand side menu, select the **Report** tab. To view report of each resource navigate through the sub-sections under the Report tab.
 
-![Report](images/report.png)
+![Reports Dashboard Overview](images/report.png)
 
 Below is a comprehensive description of each report of resources available in the Stack Console:
 
@@ -85,3 +87,8 @@ Below is a comprehensive description of each report of resources available in th
 - **System Error Log**:  
   Logs backend errors triggered by user actions, including error details, associated username, provider (e.g., Cloud Stack), and timestamp. Helps trace and resolve platform issues efficiently.
 
+-----
+
+## <span style={{ color: '#003366' }}>Conclusion</span>
+
+The **Report** tab in Stack Console provides a robust suite of analytical tools to keep your cloud operations transparent and optimized. Whether you’re tracking infrastructure performance, reviewing user feedback, or ensuring billing and backups are aligned, these reports are essential for informed decision-making and operational efficiency.

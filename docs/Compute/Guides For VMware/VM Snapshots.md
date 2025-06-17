@@ -11,3 +11,9 @@ The **VM Snapshots** capture the current state of a volume or instance at a spec
 - To create a new snapshot, simply click on **Take a New Snapshot**. This will capture the current state of the volume, allowing you to restore it if needed. 
 
 ![Snapshot](images/vm-snapshot-vmware.png) 
+
+:::tip
+**See also:**  
+- **[Volume Snapshot](./../../Volume%20Snapshot/Create%20Volume%20Snapshot.md)**  
+- **[VM Snapshot](./../../VM%20Snapshots/Create%20Instance%20Snapshot.md)**
+:::

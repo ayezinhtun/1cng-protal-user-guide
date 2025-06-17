@@ -63,3 +63,10 @@ Additionally, you can select from advanced options for the template:
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage templates on Stack Console. Templates provide a quick and efficient way to deploy virtual machines or containers with pre-configured settings, saving time and ensuring consistency across deployments. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[VNF Appliances](../VNF%20Appliances/Guides%20for%20Apache%20CloudStack/VNF%20Appliances.md)**  
+- **[Compute Instance](./../Compute/Guides%20For%20Apache%20CloudStack/Compute%20Instance.md)**
+- **[ISOs](./../ISOs/Import%20ISO.md)**
+:::

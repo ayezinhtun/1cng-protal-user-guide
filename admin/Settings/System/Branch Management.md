@@ -1,3 +1,8 @@
+---
+sidebar_position: 10  
+title: Branch Management
+---
+
 ## Branch Management
 
 The **Branch Management** tab allows administrators to view, manage, and create branch-specific configurations used for invoicing, taxation, and branding. Each branch can have its own contact details, logo, operational countries, and bank information. When a user registers from a country tied to a branch, all invoices and compliance data are generated accordingly; otherwise, the default branch settings are applied.

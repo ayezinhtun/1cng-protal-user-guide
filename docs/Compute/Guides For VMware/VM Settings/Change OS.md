@@ -11,3 +11,9 @@ This setting allows you to reinstall or switch the operating system (OS) running
 - From **Templates** select the OS and the particuler version and then click on **Change OS**.
 
 ![alt text](../images/stackconsole-vm-settings-change-os.png)
+
+:::tip
+**See also:**  
+- **[Templates](../../../Templates/Create%20Templates.md)**  
+- **[ISOs](../../../ISOs/Import%20ISO.md)**  
+:::

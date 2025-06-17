@@ -1,4 +1,4 @@
-## <span style={{ color: '#003366' }}>Managing DNS</span>
+## <span style={{ color: '#003366' }}>Managing DNS in Stack Console</span>
 
 DNS (Domain Name System) records are essential components of the internet, enabling domain names to connect with specific services like websites, emails, and security protocols. Each DNS record type has a unique role in managing domain functionality. Below is a detailed explanation of each record type with both paragraph descriptions and detailed entry fields.
 
@@ -136,3 +136,8 @@ The **SOA Record** defines key administrative details about the DNS zone.
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By understanding and managing these DNS record types, you can effectively configure and optimize your domain's functionality. Whether you're directing traffic, securing emails, or managing services, DNS records are essential for maintaining a robust online presence. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Create DNS](./Create%20DNS.md)**
+:::

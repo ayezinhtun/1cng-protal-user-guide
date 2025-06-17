@@ -61,3 +61,10 @@ title: Veeam Backup
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage a Veeam Backup account in StackConsole. Veeam Backup ensures data protection, disaster recovery, and efficient backup management for your cloud resources. For further assistance, refer to the StackConsole documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Manage Veeam Backup](./Manage%20Veeam%20Backup.md)**
+- **[Auto Scaling](./../Auto%20Scaling/Create%20Auto%20Scaling.md)**
+- **[Affinity Group](./../Affinity%20Groups/Create%20Affinity%20Groups.md)**
+:::

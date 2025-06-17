@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Instance Overview
 ---
 
-## <span style={{ color: '#003366' }}>Instance Overview</span>
+## <span style={{ color: '#003366' }}>Instance Overview for Stack Console</span>
 
 The **Instance Overview** page provides a detailed summary and management options for your virtual machine (VM) instance. It includes information about the instance status, location, operating system, performance, and quick actions for managing the instance.
 
@@ -66,3 +66,9 @@ The **Instance Overview** page provides a detailed summary and management option
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 The **Instance Overview** page provides a comprehensive yet straightforward view of the VM instance’s configuration and management options. Each action button allows quick control over the VM's status, while resource specifications help monitor the VM's performance and behavior. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Compute Instance](./Compute%20Instance.md)**  
+- **[Monitoring Resources](./Monitoring%20Resources.md)**  
+:::

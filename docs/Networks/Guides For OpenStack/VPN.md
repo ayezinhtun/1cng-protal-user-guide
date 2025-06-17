@@ -3,7 +3,7 @@ sidebar_position: 5
 title: VPN
 ---
 
-## <span style={{ color: '#003366' }}>VPN</span>
+## <span style={{ color: '#003366' }}>VPN for Network</span>
 
 A **VPN (Virtual Private Network)** is a technology that creates a secure and encrypted connection between two or more devices over the internet. It allows users to transmit data privately and securely, even when using public or untrusted networks. In Stack Console, you can create a VPN by configuring different settings, including IKE Policy, IPsec Policy, VPN Service, Endpoint Groups, and Site Connection. This process ensures that your data remains secure while traveling between different networks.
 
@@ -127,3 +127,10 @@ Review all details entered in previous steps and ensure all settings are correct
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage a VPN on Stack Console. VPNs provide a secure and encrypted connection for transmitting data between networks, ensuring privacy and security. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Virtual Routers](./Virtual%20Routers.md)**
+- **[Virtual Networks](./Virtual%20Networks.md)**
+- **[Floating IP Addresses](./Floating%20IP%20Addresses.md)**
+:::

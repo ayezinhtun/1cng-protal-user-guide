@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Virtual Router
 ---
 
-## <span style={{ color: '#003366' }}>Virtual Router</span>
+## <span style={{ color: '#003366' }}>Virtual Router for Network</span>
 
 A **Virtual Router** is a software-based router that facilitates network traffic management between different subnets and virtual networks within a cloud environment. In StackConsole, a Virtual Router enables efficient routing, integration with various network components, and enhanced connectivity between cloud resources. This guide provides step-by-step instructions to create and manage a Virtual Router.
 
@@ -71,3 +71,10 @@ A **Virtual Router** is a software-based router that facilitates network traffic
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage Virtual Routers in StackConsole. Virtual Routers provide a flexible and efficient way to manage network traffic, ensuring seamless connectivity between subnets and virtual networks. For further assistance, refer to the StackConsole documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Virtual Networks](./Virtual%20Networks.md)**
+- **[Floating IP Addresses](./Floating%20IP%20Addresses.md)**
+- **[VPN](./VPN.md)**
+:::

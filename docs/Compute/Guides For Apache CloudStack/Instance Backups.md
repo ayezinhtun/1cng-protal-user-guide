@@ -12,3 +12,10 @@ title: Instance Backups
 - The **Backups** provides a to set automatic backups of the instance or yo can schedule backup for sometime.
 
 ![alt text](vmimages/vm-backups.png)
+
+:::tip
+**See also:**  
+- **[Compute Instance](./Compute%20Instance.md)**  
+- **[Instance Overview](./Instance%20Overview.md)**  
+- **[Create Backups](../../Backups/Create%20Backups.md)**
+:::

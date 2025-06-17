@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Security Group
 ---
 
-## <span style={{ color: '#003366' }}>Security Group</span>
+## <span style={{ color: '#003366' }}>Security Group for Network</span>
 
 A **Security Group** acts as a virtual firewall that controls inbound and outbound traffic to and from cloud resources in StackConsole. It allows users to define specific rules for managing network access based on protocols, ports, and traffic direction. This guide provides step-by-step instructions for creating and managing Security Groups in StackConsole, including adding firewall rules to regulate network traffic effectively.
 
@@ -53,3 +53,9 @@ A **Security Group** acts as a virtual firewall that controls inbound and outbou
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage Security Groups in StackConsole. Security Groups provide a flexible and powerful way to control network traffic, ensuring that your cloud resources remain secure and accessible only to authorized traffic. For further assistance, refer to the StackConsole documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Virtual Routers](./Virtual%20Routers.md)**
+- **[Virtual Networks](./Virtual%20Networks.md)**
+:::

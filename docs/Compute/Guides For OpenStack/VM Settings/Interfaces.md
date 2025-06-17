@@ -3,13 +3,35 @@ sidebar_position: 1
 title: Interfaces
 ---
 
-### **Interfaces**
+## <span style={{ color: '#003366' }}>Network Interfaces</span>
 
-This setting allows you to manage the VM’s network interfaces, including configuring private and public network options. Private networks are used for communication between your virtual machines without exposing them to the internet, while public networks provide external IP addresses for internet access. You can also adjust bandwidth limits and assign or remove IP addresses.
+The **Interfaces** section allows you to manage the VM’s network interfaces, providing control over both **private** and **public** connectivity. Private networks facilitate secure communication between virtual machines, while public networks allow access to the internet. You can also configure bandwidth limits, attach or detach IP addresses, and manage security groups for enhanced control.
 
-- To add or change your network configurations, go to the **VM settings** and navigate to the **Interfaces** section.
-- Click on **Create Network** to create network. You can check Networks guide for in detail explanation.
-- Click on **Attach Network** to attach network and select the network. Click on the network to change the configuartions for that network.
-- To add security group click on right most icon. Select the security group from list and click on **Submit**.
+----------
 
-![alt text](../images/vmset-openstack-1.png)
+### <span style={{ color: '#003366' }}>Managing Network Interfaces</span>
+
+- Go to the **VM settings** and navigate to the **Interfaces** section.
+
+- Click **Create Network** to create a new virtual network. For a more detailed explanation, refer to the **Networks** guide.
+
+- To attach a network, click on **Attach Network** and select the appropriate network from the list. You can click on the attached network to modify its configurations.
+
+- To add a security group, click the rightmost icon on the interface entry. Choose the desired **Security Group** from the list and click **Submit** to apply the changes.
+
+![Interfaces Management](../images/vmset-openstack-1.png)
+
+----------
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+Managing interfaces effectively helps you tailor the network behavior of your virtual machine to suit your architecture and security needs. Whether isolating environments via private networking or exposing services to the internet, the Interfaces section provides full flexibility.
+
+:::tip
+**See also:**  
+- **[Virtual Network](../../../Networks/Guides%20For%20OpenStack/Virtual%20Networks.md)**  
+- **[Virtual Router](../../../Networks/Guides%20For%20OpenStack/Virtual%20Routers.md)**  
+- **[Security Group](../../../Networks/Guides%20For%20OpenStack/Security%20Groups.md)**
+:::
+
+

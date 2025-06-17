@@ -53,3 +53,8 @@ Once connected to your VM via RDP, you can now:
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily connect to and manage your Windows VM using Remote Desktop Protocol (RDP) via Stack Console. RDP provides a secure and efficient way to access your virtual machines, enabling you to perform administrative tasks, install software, and transfer files seamlessly. For further assistance, refer to the Stack Console documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Connect With SSH](./Connect%20With%20SSH.md)**  
+:::

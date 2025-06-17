@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Cancellation Requests
 ---
 
-## <span style={{ color: '#003366' }}>Cancellation Requests</span>
+## <span style={{ color: '#003366' }}>Manage Cancellation Requests</span>
 
 The **Cancellation Requests** tab handles termination requests. Ensures cancellation processes are organized.
 

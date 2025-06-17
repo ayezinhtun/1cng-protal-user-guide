@@ -3,7 +3,7 @@ sidebar_position: 4
 title: IP Address
 ---
 
-## <span style={{ color: '#003366' }}>IP Address</span>
+## <span style={{ color: '#003366' }}>IP Address for Network</span>
 
 An **IP Address** is a public IP that can be dynamically assigned to different virtual machines (VMs) within a cloud environment. In StackConsole, IPs allow external access to cloud instances and enable flexible network configurations. This guide provides step-by-step instructions for creating, attaching, and releasing IP Addresses in StackConsole.
 
@@ -34,3 +34,9 @@ An **IP Address** is a public IP that can be dynamically assigned to different v
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage IP Addresses in StackConsole. IPs provide flexibility in managing network configurations and ensuring external access to your cloud instances. For further assistance, refer to the StackConsole documentation or reach out to support.
+
+:::tip
+**See also:**  
+- **[Virtual Routers](./Virtual%20Routers.md)**
+- **[Virtual Networks](./Virtual%20Networks.md)**
+:::
