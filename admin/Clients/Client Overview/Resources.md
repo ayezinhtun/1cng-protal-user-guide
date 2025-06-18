@@ -17,3 +17,9 @@ The **Resources Tab** tracks all client-related resources. Ensures all resources
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 The Resources tab provides centralized visibility of all client infrastructure components, enabling efficient monitoring and management of deployed services.
+
+:::tip
+**See also:**  
+- **[Orders](./Orders.md)**
+- **[Customer Service](./Customer%20Services.md)**
+:::

@@ -36,3 +36,9 @@ Displays all past and current invoices associated with the client. Use filters t
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 The Invoices section provides comprehensive tools for generating, tracking, and managing client billing, ensuring accurate financial records and timely payments.
+
+:::tip
+**See also:**  
+- **[Create Invoices](../../Settings/Billing%20Setup/Invoice%20Number.md)**
+- **[Taxation](../../Settings/Billing%20Setup/Taxations.md)**
+:::

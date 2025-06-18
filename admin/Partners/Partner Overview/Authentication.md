@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 11
 title: Authentication
 ---
 
@@ -31,3 +31,8 @@ To maintain account security, it's essential to change your password periodicall
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 The Authentication tab provides essential security controls, enabling safe management of verification systems, credentials, and account access. Regular use of these features helps maintain your system's security posture.
+
+:::tip
+**See also:**  
+- **[Account Deletion Requests](../Account%20Deletion%20Requests.md)**
+:::

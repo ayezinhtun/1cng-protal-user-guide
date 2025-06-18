@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 title: Users
 ---
 
@@ -10,3 +10,8 @@ From the **Users tab**, you can view the complete list of active and inactive us
 ![User Management](images/user.png)
 
 The Users tab provides centralized visibility of all project members, helping administrators manage access and permissions effectively.
+
+:::tip
+**See also:**  
+- **[Activity](./Activity.md)**
+:::

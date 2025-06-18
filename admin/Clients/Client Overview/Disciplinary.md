@@ -26,3 +26,8 @@ The **Disciplinary Tab** in Stack Console is used to manage client restrictions 
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 The Disciplinary tab provides granular control over client access and restrictions, combining automated enforcement with manual oversight capabilities.
+
+:::tip
+**See also:**  
+- **[Disciplinary Actions](../../Settings/Billing%20Setup/Disciplinary%20Action.md)**
+:::

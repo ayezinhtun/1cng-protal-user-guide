@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 8
 title: Contracts
 ---
 
@@ -9,5 +9,10 @@ The **Contracts** tab is where you manage individual contractual documents that 
 
 - You can view and manage contracts here. To create new contract, click on **Add Contract** on the right-hand side of the page.
 
-
 ![Contracts](images/contracts.png)
+
+:::tip
+**See also:**  
+- **[Create Module Settings](../../Partners/Create%20Module%20Settings.md)**
+- **[Create Contracts](../../Partners/Add%20Contracts.md)**
+:::

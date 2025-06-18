@@ -1,11 +1,17 @@
+---
+sidebar_position: 6
+title: Brand URL Setting
+---
+
 ## Brand URL (Only For Reseller)
 
+Stack Console provides two whitelabeling options for resellers to offer a branded experience to their customers.
 
-## Whitelabel Brand URL For Reseller
+- You can view and create brand URL present currently. To create new brand URL, click on **Add Domain** on the right-hand side of the page. 
 
-Stack Console provides two whitelabeling options for resellers to offer a branded experience to their customers:
+![Brand URL](images/brand_url_1.png)
 
-### Partially Branded URL
+### Partially Branded URL - Inbuilt
 
 With this option, a temporary, partially branded URL is created by default. Your customers and sub-resellers can use this URL to access the control panel.
 
@@ -13,21 +19,17 @@ With this option, a temporary, partially branded URL is created by default. Your
 - You can customize the URL by updating its prefix. Enter your desired prefix and click **Change Prefix**.
 - Your new URL will be generated and ready for use.
 
+![Brand URL](images/brand_url_2.png)
 
 
-### Fully Branded URL
+### Fully Branded URL - Custom
 
 This option allows you to use your own domain name for full whitelabeling of the control panel.
-- Add your primary domain and click **Save & Continue**.
+- Add your primary domain and click **Save**.
 
+![Brand URL](images/brand_url_3.png)
 
-
-- You can update **CNAME Record** in your domain's DNS settings. Add a CNAME record pointing your chosen subdomain to the company's private URL.
-- Once the DNS changes are made, click **Continue**.
-
-
-
-- Click on **Upload SSL Certificate**. Upload the **Private Key** file and **SSL Certificate** file.
-- You can either choose files or paste the contents directly into the provided fields.
-- Click **Upload Certificate** to apply SSL encryption to your fully branded URL.
-
+:::tip
+**See also:**  
+- **[Brand URL](../../../reseller/Brand%20URL)**
+:::

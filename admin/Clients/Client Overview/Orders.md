@@ -19,3 +19,9 @@ The **Orders** tab is designed to help clients manage their purchases effectivel
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 The Orders tab centralizes purchase management for additional services with flexible billing options.
+
+:::tip
+**See also:**  
+- **[Categories](../../Settings/VM%20Addon/Categories.md)**
+- **[Items](../../Settings/VM%20Addon/Items.md)**
+:::
