@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Company Details
 ---
 
-### <span style={{ color: '#003366' }}>Company Details</span>
+# <span style={{ color: '#003366' }}>Company Details</span>
 
 Accurate company information is essential for managing subscriptions and payments. This section allows you to add or update your billing address and phone number for invoicing purposes.
 
@@ -13,5 +13,5 @@ Accurate company information is essential for managing subscriptions and payment
 
 ![Company Billing Details](images/company.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 Maintaining updated company details ensures accurate invoicing and compliance with tax requirements, streamlining your billing operations.

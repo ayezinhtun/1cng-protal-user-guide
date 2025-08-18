@@ -44,7 +44,23 @@ Once your Ceph Object Storage is active, use the dashboard to monitor storage pe
 ![Create Bucket](images/ob-10.png)
 
 - Enter a **Bucket Name** and enable **Bucket Versioning** if needed. Bucket versioning allows you to retrieve and store previous versions of an object.
-- Optionally, enable **Object Locking** to protect objects from deletion or overwriting for a fixed period. Note that object locking requires bucket versioning to be enabled. Click **Create** to finalize the bucket creation.
+
+:::note
+
+- Note that object locking requires bucket versioning to be enabled.
+- Versions of objects are added to your total data storage costs.
+
+:::
+
+- Optionally, enable **Object Locking** to protect objects from deletion or overwriting for a fixed period. 
+- Store objects using a write-once-read-many (WORM) model to prevent objects from being deletd or overwritten for a fixed amount of time or indefinitely. 
+- Click **Create** to finalize the bucket creation.
+
+:::note
+
+- Object Locking works only in versioned buckets.
+
+:::
 
 ![Bucket Creation](images/ob-11.png)
 

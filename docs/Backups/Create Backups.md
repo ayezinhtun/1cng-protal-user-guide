@@ -1,4 +1,4 @@
-## <span style={{ color: '#003366' }}>Backups</span>
+## <span style={{ color: '#003366' }}>Instance Backups</span>
 
 **Backups** create copies of your instance’s data to protect against accidental deletions, software failures, or security threats. By enabling backups, you ensure that a restorable version of your VM is always available if needed.
 

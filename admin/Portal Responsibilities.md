@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Portal Access
 ---
 
-# <span style={{ color: '#003366' }}>Stack Console Guide for Portal Access and Levels</span>
+## <span style={{ color: '#003366' }}>Stack Console Guide for Portal Access and Levels</span>
 
 This guide provides a complete overview of the different portals in the Stack Console system, their purpose, user access levels, and the billing flow between the entities involved.
 
@@ -52,15 +52,15 @@ This dashboard is used by resellers to manage their business relationship with t
 The Reseller Portal is the actual white-labeled portal provided by the reseller to their customers. It includes extensive setup and configuration options.
 
 ### <span style={{ color: '#003366' }}>Capabilities</span>
-- **Portal Setup**:
+- Portal Setup:
   - Branding settings
   - SMTP configuration
   - Payment gateway setup
   - Invoice numbering settings
-- **Customer Management**:
+- Customer Management:
   - Onboard new customers
   - Manage customer rate cards
-- **Modules**:
+- Modules:
   - All modules available same as super admin, **excluding** cloud provider setup-related modules
 
 ---

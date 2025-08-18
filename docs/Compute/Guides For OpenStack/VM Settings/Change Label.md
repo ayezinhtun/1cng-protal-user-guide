@@ -9,8 +9,15 @@ The label is the unique identifier for your virtual machine within the network. 
 
 ----------
 
-- To change hostname, go to the **VM settings** and navigate to the **Change Label** section.  
-- Enter the new hostname and click on **Change Label**.
+- To change label, go to the **VM settings** and navigate to the **Change Label** section.  
+- Enter the new label name and click on **Change Label**.
+- Change the label recognized when this server is installed. For active servers, you may change the label by logging into the OS. We have guides for most platforms.
+
+:::warning
+
+Change Label Will Restart Your Virtual Machine
+
+:::
 
 ![Change VM Label](../images/vmset-openstack-5.png)
 

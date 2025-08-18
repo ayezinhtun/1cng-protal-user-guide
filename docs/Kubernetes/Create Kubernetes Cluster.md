@@ -84,7 +84,7 @@ By following this guide, you can easily create and manage a Kubernetes cluster o
 
 :::tip
 **See also:**  
-- **[Manage Kubernetes Cluster](./Manage%20Kubernetes%20Cluster.md)**
+- **[Manage Kubernetes Cluster](./Kubernetes%20Cluster%20Overview.md)**
 - **[Load Balancer](./../Load%20Balancer/Load%20Balancer.md)**
 - **[Auto Scaling](./../Auto%20Scaling/Create%20Auto%20Scaling.md)**
 - **[Affinity Group](./../Affinity%20Groups/Create%20Affinity%20Groups.md)**

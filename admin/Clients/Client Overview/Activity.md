@@ -3,7 +3,7 @@ sidebar_position: 16
 title: Activity
 ---
 
-## <span style={{ color: '#003366' }}>Activity</span>
+# <span style={{ color: '#003366' }}>Activity</span>
 
 The **Activity Tab** logs all actions performed by the client, providing full visibility into client activities.
 
@@ -12,6 +12,6 @@ The **Activity Tab** logs all actions performed by the client, providing full vi
 
 ![Activity Logs](images/activity.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 
 The Activity tab serves as a comprehensive audit log, enabling administrators to monitor and review all client interactions with the system. This visibility helps maintain security and accountability across all platform activities.

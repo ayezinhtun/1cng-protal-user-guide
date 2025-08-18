@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
-title: StackConsole Affiliate Guide
+title: Stack Console Affiliate Guide
 ---
+
+# <span style={{ color: '#003366' }}>Stack Console Affiliate Guide</span>
 
 import React from 'react';
 
@@ -15,19 +17,22 @@ import React from 'react';
     marginBottom: '30px',
   }}
 >
-  <h1>🤝 Welcome to the StackConsole Affiliate Program!</h1>
-  <p>Earn commissions by referring new users to StackConsole. Track your referrals, manage payouts, and grow with us.</p>
+  <h1>🤝 Welcome to the Stack Console Affiliate Program!</h1>
+  <p>Earn commissions by referring new users to Stack Console. Track your referrals, manage payouts, and grow with us.</p>
 </div>
 
-## 📖 Introduction
+## <span style={{ color: '#003366' }}>📖 Introduction</span>
 
-The StackConsole Affiliate Program empowers individuals and businesses to earn recurring revenue by promoting StackConsole’s cloud management platform. Affiliates are given unique referral links, detailed dashboards, and multiple payout options to manage and optimize their earnings.
+The Stack Console Affiliate Program enables you to earn revenue by referring users to Stack Console's cloud management platform. As an affiliate, you get:
 
-Whether you're a content creator, influencer, tech partner, or business advocate, StackConsole offers a flexible and transparent system to track your success.
+- A unique referral link to share
+- Real-time dashboard to track referrals and commissions
+- Flexible payout settings
+- Transparent commission tracking with full visibility
 
 ---
 
-## 🧩 Affiliate Capabilities
+## <span style={{ color: '#003366' }}>🧩 Affiliate Capabilities</span>
 
 <div style={{ display: 'flex', flexWrap: 'wrap', gap: '24px', justifyContent: 'center', marginTop: '24px' }}>
 
@@ -35,17 +40,17 @@ Whether you're a content creator, influencer, tech partner, or business advocate
     {
       icon: '🔗',
       title: 'Share Referral Links',
-      description: 'Affiliates receive unique links to refer new users and track conversions.',
+      description: 'Get a unique referral link to share via content, email, or social platforms. Every sign-up through it is tracked.',
     },
     {
       icon: '📈',
       title: 'Track Commissions',
-      description: 'Monitor clicks, sign-ups, conversions, and earned commissions in real-time.',
+      description: 'Access your affiliate dashboard to view clicks, sign-ups, and real-time commission data.',
     },
     {
       icon: '💰',
-      title: 'Get Paid with Payouts',
-      description: 'Once thresholds are met, payouts are scheduled based on your selected frequency.',
+      title: 'Get Paid',
+      description: 'Once commissions are approved, payouts are issued based on your preferred payment method.',
     },
   ].map((item, index) => (
     <div key={index} style={{
@@ -84,25 +89,10 @@ Whether you're a content creator, influencer, tech partner, or business advocate
 
 ---
 
-## 📌 Tabs Overview
+## <span style={{ color: '#003366' }}> ✅ Next Steps</span>
 
-- **Summary**: Shows total clicks, sign-ups today, and conversion percentage.
-- **Tax Documents**: Upload required W8 or W9 forms for tax compliance and payouts.
-- **Referred Signups**: See a list of customers who registered through your referral link.
-- **Commissions**: View, manage, and submit earned commissions for approval.
-- **Payout History**: Track all past payments made to your account.
-- **Commission Settings**: Modify your assigned commission program and preferences.
+The **Stack Console Affiliate Program** is more than just a commission-based system but, it's a partnership. By referring potential users, you're helping them discover a powerful cloud management solution while also building a stream of recurring income for yourself. With transparent tracking, flexible payouts, and dedicated support, you’re set up for success.
 
----
-
-## 🚀 Next Steps
-
-Ready to start earning with StackConsole?
-
-1. Activate your affiliate account.
-2. Share your referral link across social media, blogs, or customer channels.
-3. Monitor your performance and withdraw earnings once thresholds are met.
-
-Stay transparent. Stay informed. Earn while you grow with **StackConsole**.
-
----
+:::tip
+Publish tutorials, case studies, or comparisons where your link remains relevant over time.
+:::

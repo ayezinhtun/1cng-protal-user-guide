@@ -3,7 +3,7 @@ sidebar_position: 11
 title: Invoices
 ---
 
-## <span style={{ color: '#003366' }}>Invoices</span>
+# <span style={{ color: '#003366' }}>Invoices</span>
 
 Displays all past and current invoices associated with the client. Use filters to search or sort invoices by date, status, or amount.
 
@@ -11,7 +11,7 @@ Displays all past and current invoices associated with the client. Use filters t
 
 ![Invoice List](images/invoice.png)
 
-### <span style={{ color: '#003366' }}>Creating an Invoice</span>
+## <span style={{ color: '#003366' }}>Creating an Invoice</span>
 
 - Enter the following invoice details:
     - **Invoice Date**: Enter the issue date of the invoice.
@@ -21,7 +21,7 @@ Displays all past and current invoices associated with the client. Use filters t
 
 ![Invoice Details](images/invoice_1.png)
 
-### <span style={{ color: '#003366' }}>Adding Invoice Items</span>
+## <span style={{ color: '#003366' }}>Adding Invoice Items</span>
 
 - Once the invoice is created, you can add individual items with:
     - **Service**: Define the type of service provided.
@@ -34,7 +34,7 @@ Displays all past and current invoices associated with the client. Use filters t
 
 ![Invoice Items](images/invoice_2.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Invoices section provides comprehensive tools for generating, tracking, and managing client billing, ensuring accurate financial records and timely payments.
 
 :::tip

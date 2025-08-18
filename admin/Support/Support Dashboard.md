@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Support Dashboard
 ---
 
-## <span style={{ color: '#003366' }}>Support Dashboard</span>
+## <span style={{ color: '#003366' }}>Support Dashboard in Stack Console</span>
 
 The Stack Console **Support Dashboard** is a centralized platform that allows support teams to efficiently manage customer inquiries, track ticket statuses, and monitor team performance. This document provides a detailed guide to navigating the dashboard, understanding its features, and performing key actions.
 

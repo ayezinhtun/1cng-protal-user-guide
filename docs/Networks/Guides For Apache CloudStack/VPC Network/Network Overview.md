@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Network Overview
 ---
 
-### **Network Overview**
+## <span style={{ color: '#003366' }}>VPC Network Overview</span>
 
 A Virtual Private Cloud (VPC) is a logically isolated network within a cloud environment. It allows you to control network settings such as IP addressing, subnets, routing, and security.
 
@@ -23,4 +23,16 @@ A Virtual Private Cloud (VPC) is a logically isolated network within a cloud env
 - **Redundant VPC**: Indicates if redundancy (high availability) is enabled (True/False).
 - **Network Domain**: The domain for internal communication within the VPC.
 - **CIDR (Classless Inter-Domain Routing)**: Defines the range of IP addresses available within the VPC.
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+The **VPC Network Overview** provides essential details about your virtual private cloud, including its ID, domain, IP range, and redundancy settings. This information helps you monitor, manage, and optimize the network to ensure secure and efficient operations.
+
+:::tip
+**See also:**  
+- **[Create VPC Network](./Create%20VPC%20Network.md)**
+- **[VPN Gateway](./Site%20VPN.md)**
+- **[VPN Connections](./VPN%20Connection.md)**
+:::
+
 

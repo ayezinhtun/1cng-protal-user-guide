@@ -15,6 +15,12 @@ SSH keys offer a secure and convenient method for accessing your virtual machine
 
 This section displays all SSH public keys authorized to access the VM. These keys are typically configured during VM creation, but they can also be updated as needed.
 
+:::warning
+
+You need to stop the Instance to perform reset SSH Key operation.
+
+:::
+
 ----------
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>

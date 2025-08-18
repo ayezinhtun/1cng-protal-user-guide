@@ -2,7 +2,6 @@
   "label": "Compute",
   "position": 3,
   "link": {
-    "type": "generated-index",
-    "description": "Here's a section about VM Instances and an overview of the four clouds (Apache CloudStack, OpenNebula, OpenStack, and VMware) with associated guides for each platform."
+    "type": "generated-index"
   }
 }

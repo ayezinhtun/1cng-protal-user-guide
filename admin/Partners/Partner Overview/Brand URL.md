@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Brand URL Setting
 ---
 
-## Brand URL (Only For Reseller)
+## <span style={{ color: '#003366' }}> Brand URL (Only For Reseller)</span>
 
 Stack Console provides two whitelabeling options for resellers to offer a branded experience to their customers.
 
@@ -11,7 +11,7 @@ Stack Console provides two whitelabeling options for resellers to offer a brande
 
 ![Brand URL](images/brand_url_1.png)
 
-### Partially Branded URL - Inbuilt
+### <span style={{ color: '#003366' }}>Partially Branded URL - Inbuilt</span>
 
 With this option, a temporary, partially branded URL is created by default. Your customers and sub-resellers can use this URL to access the control panel.
 
@@ -21,13 +21,15 @@ With this option, a temporary, partially branded URL is created by default. Your
 
 ![Brand URL](images/brand_url_2.png)
 
-
-### Fully Branded URL - Custom
+### <span style={{ color: '#003366' }}> Fully Branded URL - Custom</span>
 
 This option allows you to use your own domain name for full whitelabeling of the control panel.
 - Add your primary domain and click **Save**.
 
 ![Brand URL](images/brand_url_3.png)
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+The Brand URL setting empowers resellers to deliver a customized, branded experience through either a partially or fully whitelabeled domain. This enhances brand identity and provides a seamless access point for customers and sub-resellers.
 
 :::tip
 **See also:**  

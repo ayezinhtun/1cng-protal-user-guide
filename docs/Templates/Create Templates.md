@@ -1,4 +1,4 @@
-## <span style={{ color: '#003366' }}>Template</span>
+## <span style={{ color: '#003366' }}>Template for Virtual Machine</span>
 
 A **Template** is a pre-configured disk image used for deploying virtual machines (VMs) or containers quickly and efficiently. These templates contain an installed operating system along with predefined configurations, software, and settings, allowing users to create new instances without manually installing and configuring the operating system every time.
 

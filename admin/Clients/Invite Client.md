@@ -1,4 +1,9 @@
-## <span style={{ color: '#003366' }}>Invite Client</span>
+---
+sidebar_position: 3
+title: Invite Client
+---
+
+# <span style={{ color: '#003366' }}>Invite Client</span>
 
 The **Invite Client** feature allows you to onboard new clients by sending them email invitations to register in the system. This ensures secure and controlled access to your services.
 
@@ -20,6 +25,8 @@ The **Invite Client** feature allows you to onboard new clients by sending them 
 ![Invite Client Details](images/invite_3.png)
 
 - After entering the required information, click **Invite**. The system will send an email invitation to the specified email address.
+- Client invitation sent successfully. The invited client will receive registration instructions via email.
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
-Client invitation sent successfully. The invited client will receive registration instructions via email.
+Inviting clients through the system provides a secure and efficient way to initiate account creation. By pre-configuring key settings and automating the invitation process, administrators can maintain control while offering a seamless onboarding experience.
+

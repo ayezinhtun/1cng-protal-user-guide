@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Account Deletion Requests
 ---
 
-## <span style={{ color: '#003366' }}>Managing Account Deletion Requests</span>
+# <span style={{ color: '#003366' }}>Managing Account Deletion Requests</span>
 
 The **Account Deletion Requests** in a stack console involves carefully reviewing and processing user-initiated account removal requests. It provides options to either approve or deny the deletion based on validations.
 

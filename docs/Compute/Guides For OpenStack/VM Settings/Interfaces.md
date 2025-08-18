@@ -12,11 +12,8 @@ The **Interfaces** section allows you to manage the VM’s network interfaces, p
 ### <span style={{ color: '#003366' }}>Managing Network Interfaces</span>
 
 - Go to the **VM settings** and navigate to the **Interfaces** section.
-
 - Click **Create Network** to create a new virtual network. For a more detailed explanation, refer to the **Networks** guide.
-
 - To attach a network, click on **Attach Network** and select the appropriate network from the list. You can click on the attached network to modify its configurations.
-
 - To add a security group, click the rightmost icon on the interface entry. Choose the desired **Security Group** from the list and click **Submit** to apply the changes.
 
 ![Interfaces Management](../images/vmset-openstack-1.png)

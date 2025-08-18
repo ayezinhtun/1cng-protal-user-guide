@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Commissions
 ---
 
-## <span style={{ color: '#003366' }}>Commissions</span>
+# <span style={{ color: '#003366' }}>Commissions</span>
 
 This tab shows a detailed list of commissions earned by each affiliate. Every time a customer signs up or makes a purchase through an affiliate's referral link, the system calculates and logs the commission here.
 
@@ -23,5 +23,5 @@ Shows a complete record of all approved and processed commissions.
 
 ----------
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Commissions section provides transparent tracking of all affiliate earnings, from pending approvals to historical payouts. For any discrepancies in commission calculations, please contact the affiliate support team through the help center.

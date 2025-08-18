@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Create Project
 ---
 
-### <span style={{ color: '#003366' }}>Creating and Managing a Project</span>
+## <span style={{ color: '#003366' }}>Creating and Managing a Project</span>
 
 This guide provides step-by-step instructions for creating a project in Stack Console, adding users, and configuring account limits and quotas for the project.
 

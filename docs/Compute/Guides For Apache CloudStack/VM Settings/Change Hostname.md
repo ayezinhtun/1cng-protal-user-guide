@@ -11,6 +11,13 @@ The hostname is the unique identifier for your virtual machine within the networ
 
 - To change hostname go to the **VM settings** and navigate to the **Change Hostname** section.  
 - Enter new hostname and click on **Change Hostname**.
+- Change the hostname recognized when this server is installed. For active servers, you may change the hostname by logging into the OS. We have guides for most platforms.
+
+:::warning
+
+Change Hostname Will Restart Your Virtual Machine
+
+:::
 
 ![Change Hostname Settings](../images/stackconsole-vm-settings-change-hostname.png)
 

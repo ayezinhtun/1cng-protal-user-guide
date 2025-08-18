@@ -10,6 +10,12 @@ This setting allows you to reinstall or switch the operating system (OS) running
 - To change operating system go to the **VM settings** and navigate to the **Change OS** section. 
 - From **Templates** select the OS and the particuler version and then click on **Change OS**.
 
+:::warning
+
+Changing to different operating system will wipe all data on the server. Delete snapshots and backups before changing the OS.
+
+:::
+
 ![alt text](../images/stackconsole-vm-settings-change-os.png)
 
 :::tip

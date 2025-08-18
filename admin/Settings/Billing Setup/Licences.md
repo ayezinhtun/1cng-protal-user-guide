@@ -1,24 +1,24 @@
 ---
 sidebar_position: 11
-title: License
+title: Licence
 ---
 
-## <span style={{ color: '#003366' }}>License</span>
+## <span style={{ color: '#003366' }}>Licences in Stack Console</span>
 
-The **Licenses** tab in the Stack Console allows administrators to configure how services are priced, billed, and contracted. Through this tab, you can set pricing schemes, enable service contracts, define billing cycles and cancellation terms, and offer free trials. Proper configuration ensures flexible licensing models that align with both business and customer needs.
+The **Licences** tab in the Stack Console allows administrators to configure how services are priced, billed, and contracted. Through this tab, you can set pricing schemes, enable service contracts, define billing cycles and cancellation terms, and offer free trials. Proper configuration ensures flexible licensing models that align with both business and customer needs.
 
-- From the left-hand side of the page under the **Billing Setup** section, click on **License** to view the list of licenses.
-- To create a new license, click on **Add License**.
+- From the left-hand side of the page under the **Billing Setup** section, click on **Licence** to view the list of licences.
+- To create a new licence, click on **Add Licence**.
 
-![License Management](images/l1.png)
+![Licence Management](images/l1.png)
 
-- **Name:** Enter the name of the license.
+- **Name:** Enter the name of the licence.
 - **Pricing Scheme:** Select the pricing model. Available option such as USAGE_BASED (billing is calculated based on usage metrics).
 - **Enable Service Contract:** Check this option to activate service contract.
 
-![License Basic Settings](images/l2.png)
+![Licence Basic Settings](images/l2.png)
 
-You need to enter billing details for license. Select the type of biling from Manual, Prepaid and Postpaid.  
+You need to enter billing details for licence. Select the type of billing from Manual, Prepaid and Postpaid.  
 
 - **Billing Cycles** – Define how often the user will be billed (e.g., Monthly, Yearly).
 - **Billing Rules** – Set specific rules for invoicing and usage tracking.
@@ -33,36 +33,36 @@ You need to enter billing details for license. Select the type of biling from Ma
 
 - **Enable Free Trial:** Check this option if you want to offer a trial period before billing begins.
 
-![License Advanced Settings](images/l4.png)
+![Licence Advanced Settings](images/l4.png)
 
-## <span style={{ color: '#003366' }}>Add License Pricing to Rate Card</span>
+## <span style={{ color: '#003366' }}>Add Licence Pricing to Rate Card</span>
 
-- To add or update license pricicing to a rate card from the left-hand side of the page under the **Billing Setup** section, click on **Rate Cards** to view the list of rate cards.
+- To add or update licence pricing to a rate card from the left-hand side of the page under the **Billing Setup** section, click on **Rate Cards** to view the list of rate cards.
 - Click on three dots besides rate card and select **Packages**. 
 
 ![Rate Card Packages](images/lr_1.png)
 
-- Navigate to the licenses, click on three dots besides the license and select update price.
+- Navigate to the licences, click on three dots besides the licence and select update price.
 
-![License Price Update](images/lr_2.png)
+![Licence Price Update](images/lr_2.png)
 
-- To update the license pricing, first go to the **Licence Price Criteria** section. In the **Upto** and **To** fields, enter the core limit range (for example, from `0` to `2`). Then, input the fixed **Price** for that range (e.g., `200000`). Once you've filled in these details, click on **Add** to save the pricing rule.
+- To update the licence pricing, first go to the **Licence Price Criteria** section. In the **Upto** and **To** fields, enter the core limit range (for example, from `0` to `2`). Then, input the fixed **Price** for that range (e.g., `200000`). Once you've filled in these details, click on **Add** to save the pricing rule.
 - Next, go to the **Price after Last Price Criteria** section to configure pricing beyond the last specified range. In the **After** field, enter the final core limit from the previous section. Specify how many additional cores the price should apply to in the **For Unit(s)** field, and set the corresponding **Price**. Finally, click **Submit** to update and apply the new pricing settings.
 
-![License Pricing Configuration](images/lr_3.png)
+![Licence Pricing Configuration](images/lr_3.png)
 
-## <span style={{ color: '#003366' }}>Attach License to OS Version</span>
+## <span style={{ color: '#003366' }}>Attach Licence to OS Version</span>
 
 - From the left-hand side of the page under the **Orchestrator** section, click on **OS Versions** to view the list of different OS Versions. Click on three dots besides listed OS and select **Update Version**.
 
 ![OS Version Management](images/los_1.png)
 
-- You will see list of versions listed. Click on three dots besides listed OS versions and select **Edit** to edit license.
+- You will see list of versions listed. Click on three dots besides listed OS versions and select **Edit** to edit licence.
 - Alternatively, you can create new OS version. Click on **Add OS Version**.
 
 ![OS Version Edit](images/los_2.png)
 
-- Enter the OS version name, select the pricing type as **License** and select the the license you want to attach with the version. Click on **Submit**.
+- Enter the OS version name, select the pricing type as **Licence** and select the licence you want to attach with the version. Click on **Submit**.
 
 ![OS Version Configuration](images/los_3.png)
 
@@ -71,4 +71,4 @@ You need to enter billing details for license. Select the type of biling from Ma
 ----------
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
-The License section provides comprehensive control over service pricing and contracting models. For license configuration assistance, contact Stack Console support.
+The Licence section provides comprehensive control over service pricing and contracting models. For licence configuration assistance, contact Stack Console support.

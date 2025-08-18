@@ -10,6 +10,13 @@ This section allows you to manage the public IP addresses associated with your v
 ----------
 
 - To add or change your public IP address configurations, go to the **VM settings** and navigate to the **Public IP Address** section.
+
+:::warning
+
+Choose a held IP address if you want to use it, or leave it blank to get a new one
+
+:::
+
 - Click on **Attach Public IP Address** to assign a public IP from the available network pool.
 
 ![Attach Public IP](../images/vmset_open_neb_1.png)

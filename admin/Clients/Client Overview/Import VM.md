@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Import VM
 ---
 
-## <span style={{ color: '#003366' }}>Importing Virtual Machine</span>
+# <span style={{ color: '#003366' }}>Importing Virtual Machine</span>
 
 The **Import VM** feature allows administrators to migrate existing virtual machines from supported cloud providers into your current infrastructure. This streamlined process maintains your VM configurations while enabling flexible deployment options and billing management within Stack Console.
 
@@ -23,7 +23,7 @@ The **Import VM** feature allows administrators to migrate existing virtual mach
 
 ![VM Import Summary](images/import_vm_3.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Import VM feature enables seamless migration of virtual machines from various cloud providers with flexible billing options and deployment configurations.
 
 :::tip

@@ -3,7 +3,7 @@ sidebar_position: 6
 title: FAQs
 ---
 
-## <span style={{ color: '#003366' }}>FAQs</span>
+## <span style={{ color: '#003366' }}>Add FAQs</span>
 
 The FAQ tab is used to create and manage frequently asked questions to assist customers and reduce ticket volume. FAQs serve as a valuable resource for self-service support, reducing repetitive inquiries.
 

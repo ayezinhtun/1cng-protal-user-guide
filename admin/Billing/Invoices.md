@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Invoices
 ---
 
-## <span style={{ color: '#003366' }}>Invoices</span>
+## <span style={{ color: '#003366' }}>Billing Invoices</span>
 
 The **Invoices** tab gives you a comprehensive overview of all billing invoices associated with your account.
 

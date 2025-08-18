@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Accessing Client
 ---
 
-## <span style={{ color: '#003366' }}>Accessing Client</span>
+# <span style={{ color: '#003366' }}>Accessing Client</span>
 
 **Stack Console** provides a streamlined way to access and manage client accounts. This guide covers how to view client lists, log in to client dashboards, and access detailed client information.
 

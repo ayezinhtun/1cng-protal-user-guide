@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Payouts
 ---
 
-## <span style={{ color: '#003366' }}>Payouts</span>
+# <span style={{ color: '#003366' }}>Payouts</span>
 
 This tab manages the process of paying affiliates their earned commissions. Once a commission is approved, it appears here as part of a payout. Admins can see the total amount due to each affiliate, track payment status Paid and Pending.
 
@@ -18,5 +18,5 @@ This tab manages the process of paying affiliates their earned commissions. Once
 
 ----------
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Payouts section provides complete control over affiliate payments, from tracking pending amounts to processing transactions. For any payment-related inquiries, please contact the finance support team through the help center.

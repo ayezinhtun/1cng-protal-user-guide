@@ -1,4 +1,11 @@
-## <span style={{ color: '#003366' }}>Create Mass Mail</span>
+---
+sidebar_position: 7
+title: Mass Mail Tool
+---
+
+# <span style={{ color: '#003366' }}>Create Mass Mail</span>
+
+The **Mass Mail Tool** in the Stack Console enables administrators to create and send targeted email campaigns to clients based on various filters such as country, language, client status, and service usage. 
 
 - In the **Client** section of the menu, click on the **Mass Mail** tool.
 - Here, you can view existing Mass Mail emails or click on **Create Mass Mail** to start a new one. You can choose from General, Services & Products and Addons as message types.
@@ -60,6 +67,7 @@ Mass Mail campaigns can be precisely targeted and scheduled for effective client
 
 - You can schedule the email and specify the number of emails to be sent at intervals of a few seconds.
 - Once all details are filled out, click **Create Broadcast** to initiate the email campaign.
+- Mass Mail campaigns can be precisely targeted and scheduled for effective client communication.
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
-Mass Mail campaigns can be precisely targeted and scheduled for effective client communication.
+The Mass Mail Tool offers a structured and flexible approach to client outreach. With customizable filters, personalized templates, and scheduling options, it ensures your communication is relevant, timely, and efficient.

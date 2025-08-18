@@ -15,6 +15,13 @@ A **Floating IP Address** enables external access to your virtual machine by ass
 ![Attach Floating IP](../images/vmset-openstack-3.png)
 
 - Select a held public IP address and choose the associated network.
+
+:::warning
+
+Choose a held IP address if you want to use it, or leave it blank to get a new one
+
+:::
+
 - Choose the desired **Billing Cycle** for your IP. You can select either **Hourly** or **Monthly**. Click on **Submit** to apply the configuration.
 
 ![Submit Floating IP](../images/vmset-openstack-6.png)

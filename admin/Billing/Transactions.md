@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Transactions
 ---
 
-## <span style={{ color: '#003366' }}>Transactions</span>
+## <span style={{ color: '#003366' }}>Account Transactions</span>
 
 The **Transactions** tab allows admin to view the transactions that are made on the account.
 

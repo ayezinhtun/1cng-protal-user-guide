@@ -3,7 +3,7 @@ sidebar_position: 10
 title: Billing Setup
 ---
 
-## <span style={{ color: '#003366' }}>Billing Setup</span>
+# <span style={{ color: '#003366' }}>Billing Setup</span>
 
 The **Billing Setup** tab enables customized billing configurations, ensuring clients are charged correctly and alerts are in place for budget management.
 
@@ -23,9 +23,13 @@ When the default value is zero, a threshold at the global currency level is appl
 - Enable the **Tax Exempted** checkbox to exclude the client from tax charges.
 - To modify pricing plans for the client, click on **Change Price Card**. Select the appropriate **Rate Card** and click Update to apply the changes.
 
+:::tip
+Before proceeding, it's recommended to review the **[Rate Card Details](../../Settings/Billing%20Setup/Rate%20Cards.md)** page for more context on rate card pricing.
+:::
+
 ![Invoice](images/billing_2.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Billing Setup provides essential controls for managing client billing preferences and budget alerts, ensuring accurate financial administration.
 
 :::tip

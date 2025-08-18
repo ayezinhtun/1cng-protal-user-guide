@@ -13,6 +13,12 @@ SSH keys provide a secure, passwordless way to access your virtual machine. This
 
 ![SSH Key Configuration](../vmimages/vm-ssh.png)
 
+:::warning
+
+You need to stop the Instance to perform reset SSH Key operation.
+
+:::
+
 ----------
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>

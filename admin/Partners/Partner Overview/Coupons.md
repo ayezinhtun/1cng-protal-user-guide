@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Coupons
 ---
 
-## <span style={{ color: '#003366' }}>Coupon</span>
+## <span style={{ color: '#003366' }}>Coupons</span>
 
 The **Coupon** tab in the Stack Console allows administrators to create and manage promotional coupons for their customers, vendors, or resellers. Coupons can provide free services or percentage-based discounts, and can be configured with specific usage rules, billing cycles, and applicable services. 
 

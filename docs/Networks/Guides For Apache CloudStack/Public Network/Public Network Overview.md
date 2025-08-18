@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Network Overview
 ---
 
-### **Network Overview**
+## <span style={{ color: '#003366' }}>Public Network Overview</span>
 
 A **Public Network** is a logically isolated network within a cloud environment. It allows you to control network settings such as IP addressing, subnets, routing, and security.
 
@@ -27,3 +27,12 @@ A **Public Network** is a logically isolated network within a cloud environment.
 - **Account:** Represents the network’s name or identifier.  
 
 
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+The **Public Network Overview** provides key details about your network’s configuration, including its type, traffic handling, and essential parameters like gateway, netmask, and CIDR. This helps in monitoring, managing, and ensuring efficient operation of your public network.
+
+:::tip
+**See also:**  
+- **[Create Public Network](./Create%20Public%20Network.md)**
+- **[Public IP Address](./Public%20IP%20Address.md)**
+:::

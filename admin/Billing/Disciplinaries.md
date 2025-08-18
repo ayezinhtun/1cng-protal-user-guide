@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Disciplinary
 ---
 
-## <span style={{ color: '#003366' }}>Disciplinary</span>
+## <span style={{ color: '#003366' }}>Disciplinary Listing</span>
 
 The **Disciplinary Listing** tab displays a list of all accounts that have been placed under disciplinary actions such as account holds or restrictions like **Termination**.
 

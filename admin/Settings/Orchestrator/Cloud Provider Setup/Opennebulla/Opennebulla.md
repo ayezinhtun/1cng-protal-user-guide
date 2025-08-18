@@ -18,15 +18,13 @@ If this setup was added by the Stack Console team, edit the existing setup inste
 - **Cloud Provider:** Select **OpenNebula (cirrus)** from the dropdown.
 - **Setup Name:** Enter a recognizable name (e.g., `Open Nebula 01`).
 - **Services:** Choose from the applicable services.
-- **Monitoring Provider:** Choose **ZABBIX**, and add the Zabbix Setup URL.
-- **Timezone:** Set the appropriate timezone (e.g., `Asia/Kolkata`).
+- **Monitoring Provider:** You can choose **ZABBIX** or any other monitoring provider, and add the setup URL.
+- **Timezone:** Set the appropriate timezone (e.g., `Asia/Kolkata`). The selected timezone must match the cloud provider's timezone. If the timezones do not match, VM monitoring data may not display correctly in Stack Console.
 - **API Endpoint:** Input OpenNebula RPC URL (e.g., `http://202.65.135.189:2633/RPC2`).
 - **API Key:** Enter the OpenNebula admin username.
-- **API Secret:** Enter the OpenNebula admin password.
+- **API Secret:** Enter the OpenNebula admin password. If the API secret or password is configured to expire automatically, you will need to update it each time it changes to avoid authentication failures.
 - **API Version:** Specify the version of OpenNebula in use (e.g., `6.6.1`).
 - **Status:** Set to **Active** to enable the configuration.
-
-
 
 #### Additional Configuration
 

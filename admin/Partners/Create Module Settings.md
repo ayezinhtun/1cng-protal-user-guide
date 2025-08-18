@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 title: Module Settings 
 ---
 
-## Module Settings
+## <span style={{ color: '#003366' }}>Partner Module Settings</span>
 
 The **Module Settings** tab is where you define how different partner types like vendors or resellers to interact with your system. These settings can control access levels, business rules, operational roles, and other model-specific configurations for each partner type.
 
@@ -19,3 +19,7 @@ This allows you to customize the behavior of your platform for different types o
 - Click **Submit** to save the configuration. Once submitted, the new module setting will be visible in the list.
 
 ![Invite Client Details](images/module_settings_2.png)
+
+## <span style={{ color: '#003366' }}>Conclusion</span>
+
+The Module Settings tab is a powerful tool for tailoring your platform’s behavior to suit different partner types such as vendors and resellers. Using the simple interface provided, administrators can quickly create, update, and manage module settings, allowing for a more flexible and scalable partner management strategy.

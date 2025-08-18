@@ -3,7 +3,7 @@ sidebar_position: 17
 title: Support Tickets
 ---
 
-## <span style={{ color: '#003366' }}>Support Tickets</span>
+# <span style={{ color: '#003366' }}>Support Tickets</span>
 
 The **Support Tickets tab** manages customer support interactions. Ensures client issues are tracked and resolved efficiently.
 
@@ -13,7 +13,7 @@ The **Support Tickets tab** manages customer support interactions. Ensures clien
 
 ![Support Tickets](images/supp.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Support Tickets tab provides organized tracking of customer issues from submission through resolution, ensuring timely responses and complete historical records.
 
 :::tip

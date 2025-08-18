@@ -2,6 +2,7 @@
 sidebar_position: 5
 title: VPN Customer Gateway
 ---
+## <span style={{ color: '#003366' }}>VPN Customer Gateway</span>
 
 A **VPN Customer Gateway** is an essential component for establishing a secure VPN connection between your on-premises network and a cloud provider. In Stack Console, this allows secure communication between your private network and virtual private cloud (VPC). Follow this step-by-step guide to configure and add a VPN Customer Gateway in Stack Console.
 
@@ -17,10 +18,9 @@ A **VPN Customer Gateway** is an essential component for establishing a secure V
 - **CIDR List**: Define the IP range (in CIDR format) allowed for communication between your network and the cloud.
 - **Gateway**: Provide the public IP address of your on-premises VPN device (router or firewall).
 
-
 ![alt text](images/vpn_gate_2.png)
-
-### Gateway Configurations
+ 
+### <span style={{ color: '#003366' }}>Gateway Configurations</span>
 
 To establish a secure connection, configure the following IPsec and IKE (Internet Key Exchange) parameters.
 
@@ -37,7 +37,7 @@ To establish a secure connection, configure the following IPsec and IKE (Interne
 
 ![alt text](images/vpn_gate_3.png)
 
-### Enable Advanced Features (Optional)
+### <span style={{ color: '#003366' }}>Enable Advanced Features (Optional)</span>
 
 Stack Console provides additional security and performance features that can be enabled by toggling advance options.
 
@@ -48,3 +48,12 @@ Stack Console provides additional security and performance features that can be 
 ![alt text](images/vpn_gate_4.png)
 
 - Click on **Submit** and your VPN Customer Gateway will be created.
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+The **VPN Customer Gateway** enables secure connectivity between your on-premises infrastructure and the cloud VPC. With configurable encryption, authentication, and advanced features, it ensures reliable, private, and high-performance communication across hybrid environments.
+
+:::tip
+**See also:**  
+- **[VPN Users](./VPN%20Users.md)**
+:::

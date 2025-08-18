@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Create Reseller 
 ---
 
-## Create Reseller 
+## <span style={{ color: '#003366' }}>Create Reseller</span>
 
 - From the left-hand side menu, select the **Partners** section. Navigate through the sub-sections and click on **Create Partner** tab to create partner.
 - To create new reseller, select type of Partner as **Reseller**.
@@ -65,4 +65,8 @@ title: Create Reseller
 - Now, final step is to sign in into your account. Enter your login credentials and click on **Sign In** to access the Reseller portal.
 
 ![Invite Client Details](images/activation-login.png)
+
+## <span style={{ color: '#003366' }}>Conclusion</span>
+
+The Create Reseller process offers a detailed and guided workflow to successfully onboard resellers into your system. By capturing essential information from organizational details to billing setup, contracts, and module permissions ensure that each reseller is set up correctly and ready to operate within your platform.
 

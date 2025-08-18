@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Authentication
 ---
 
-## <span style={{ color: '#003366' }}>Authentication</span>
+# <span style={{ color: '#003366' }}>Authentication</span>
 
 The **Authentication** tab manages account security with OTP verification records, password changes, and account blocking features. It provides centralized control for maintaining system access integrity.
 
@@ -11,7 +11,7 @@ The **Authentication** tab manages account security with OTP verification record
 
 ![Authentication Records](images/auth_1.png)
 
-### <span style={{ color: '#003366' }}>Change Your Password</span>
+## <span style={{ color: '#003366' }}>Change Your Password</span>
 
 To maintain account security, it's essential to change your password periodically.
 
@@ -22,14 +22,14 @@ To maintain account security, it's essential to change your password periodicall
 
 ![Password Change](images/auth_2.png)
 
-### <span style={{ color: '#003366' }}>Block/Unlock Account</span>
+## <span style={{ color: '#003366' }}>Block/Unlock Account</span>
 
 - **To Block an account**: Provide a reason and click **Block User**.
 - **To Unlock an account**: Click **Unblock User**.
 
 ![Account Controls](images/auth_3.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 
 The Authentication tab provides essential security controls, enabling safe management of verification systems, credentials, and account access. Regular use of these features helps maintain your system's security posture.
 

@@ -16,7 +16,6 @@
 
 - Assign the load balancer to one of your projects to organize and manage resources effectively.
 
-
 ![Auto Scaling](images/as_2.png)
 
 ### <span style={{ color: '#003366' }}>Choose a Location</span>
@@ -68,6 +67,8 @@
 
 ### <span style={{ color: '#003366' }}>Capacity Planner</span>
 
+- Enter the minimum and maximum number of instances and enter the grace period in seconds. 
+
 ![Auto Scaling](images/as_8.png)
 
 ### <span style={{ color: '#003366' }}>Set Up Policies</span>
@@ -103,3 +104,7 @@
 - Verify all the configuration details and review the price summary. Click on **Create** to create the Auto-scaling.
 
 ![Auto Scaling](images/as_14.png)
+
+### <span style={{ color: '#003366' }}>Conclusion</span>
+
+Auto-scaling is a powerful feature that helps you maintain application performance, availability, and cost efficiency by automatically adjusting resources based on demand. By carefully configuring networks, load balancers, server settings, and scaling policies, you can ensure that your workloads adapt seamlessly to varying traffic patterns.

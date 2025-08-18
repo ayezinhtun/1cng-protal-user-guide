@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Account Signup
 ---
 
-### <span style={{ color: '#003366' }}>Stack Console Account Setup Guide</span>
+## <span style={{ color: '#003366' }}>Stack Console Account Setup Guide</span>
 
 This guide provides a step-by-step tutorial to help you create a Stack Console account, set up billing, and verify your account.
 

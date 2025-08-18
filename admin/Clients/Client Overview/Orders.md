@@ -3,7 +3,7 @@ sidebar_position: 14
 title: Orders
 ---
 
-## <span style={{ color: '#003366' }}>Orders</span>
+# <span style={{ color: '#003366' }}>Orders</span>
 
 The **Orders** tab is designed to help clients manage their purchases effectively. This section allows users to view all past and current invoices linked to their account. Orders are commonly used to add additional products, licenses, tools, essential add-ons, and more.
 
@@ -17,7 +17,7 @@ The **Orders** tab is designed to help clients manage their purchases effectivel
 
 ![Orders](images/orders_2.png)
 
-### <span style={{ color: '#003366' }}>Conclusion</span>
+## <span style={{ color: '#003366' }}>Conclusion</span>
 The Orders tab centralizes purchase management for additional services with flexible billing options.
 
 :::tip

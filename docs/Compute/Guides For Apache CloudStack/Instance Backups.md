@@ -9,7 +9,7 @@ title: Instance Backups
 **Stack Console** provides automated backup options on a daily, weekly, or custom schedule, allowing for seamless data recovery without manual intervention. Implementing backups is crucial for safeguarding your data and reducing downtime in case of unexpected issues.
 
 - To automatically backup instance, go to the **Backups** tab.
-- The **Backups** provides a to set automatic backups of the instance or yo can schedule backup for sometime.
+- The **Backups** provides a to set automatic backups of the instance or you can schedule backup for sometime.
 
 ![alt text](vmimages/vm-backups.png)
 

@@ -8,6 +8,7 @@ Once your DNS is active, use the dashboard to monitor storage performance, name 
 
 ![DNS Page](images/man-dns-1.png)
 
+- To use DNS service, you need to update your domain registar with the nameservers.
 - Use @ to create the record at the root of the domain or enter a hostname to create it elsewhere. A records are for IPv4 addresses only and tell a request where your domain should direct to.
 - To create a new record, click on the **Create Record**.
 

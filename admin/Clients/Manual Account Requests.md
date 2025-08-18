@@ -1,4 +1,8 @@
-## <span style={{ color: '#003366' }}>Managing Account Requests</span>
+---
+sidebar_position: 5
+title: Manual Account Requests
+---
+# <span style={{ color: '#003366' }}>Managing Account Requests</span>
 
 **Managing Account Requests** in a stack console involves efficiently reviewing, approving, or rejecting incoming requests. It provides options to either accept or reject these requests. 
 

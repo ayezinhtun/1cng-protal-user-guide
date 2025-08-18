@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Profile Setup
 ---
 
-### <span style={{ color: '#003366' }}>Setup User Profile in Stack Console</span> {#profile}
+## <span style={{ color: '#003366' }}>Setup User Profile in Stack Console</span> {#profile}
 
 The **Stack Console** user profile setup feature allows users to manage their personal information, change passwords, configure payment settings, add users, roles, and monitor account activity. This feature provides users with a detailed overview of their account and allows for customization and control.
 

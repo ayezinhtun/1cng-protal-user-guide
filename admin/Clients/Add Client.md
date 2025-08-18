@@ -3,9 +3,9 @@ sidebar_position: 2
 title: Add Client  
 ---
 
-## <span style={{ color: '#003366' }}>Add Client</span>
+# <span style={{ color: '#003366' }}>Add Client</span>
 
-**Stack Console** allows administrators to register new clients with customizable billing, payment, and account settings. Follow these steps to add a client manually.
+The **Add Client** tab in **Stack Console** allows administrators to register new clients with customizable billing, payment, and account settings. Follow these steps to add a client manually.
 
 ### <span style={{ color: '#003366' }}>Accessing the Client Registration Form</span>
 
@@ -43,5 +43,4 @@ title: Add Client
 - After successfull registration, the client details are saved and an automated email (if enabled) is sent with account credentials.
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
-
-This process ensures seamless client onboarding with flexible billing and access control. For bulk imports or API-based registrations, refer to the [Advanced Client Management Guide](#).  
+Adding a client through the Stack Console ensures a structured and traceable onboarding process. Each step from entering client information to setting billing options and helps streamline client management and supports efficient service delivery.

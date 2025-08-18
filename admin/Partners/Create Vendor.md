@@ -3,7 +3,7 @@ sidebar_position: 7
 title: Create Vendor
 ---
 
-## Create Vendor
+## <span style={{ color: '#003366' }}>Create Vendor</span>
 
 - From the left-hand side menu, select the **Partners** section. Navigate through the sub-sections and click on **Create Partner** tab to create partner.
 - To create new Vendor, select type of Partner as **Vendor**.
@@ -65,6 +65,10 @@ title: Create Vendor
 - Now, final step is to sign in into your account. Enter your login credentials and click on **Sign In** to access the Vendor portal.
 
 ![Invite Client Details](images/activation-login.png)
+
+## <span style={{ color: '#003366' }}>Conclusion</span>
+
+The Create Vendor process provides a structured and comprehensive way to onboard vendors into your system. By capturing essential details such as company information, billing setup, contract agreements, and module access, you ensure each vendor is properly configured to operate within your platform.
 
 
 
