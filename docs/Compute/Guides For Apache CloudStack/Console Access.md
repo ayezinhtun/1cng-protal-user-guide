@@ -9,7 +9,7 @@ The **Console Access** feature enables users to manage and interact with their V
 
 - Access your console by clicking on the console icon from the actions menu.
 
-![Console Access](vmimages/console_access.png)
+![Console Access](vmimages/console-access.png)
 
 ### <span style={{ color: '#003366' }}>Keyboard Shortcuts</span>
 
@@ -42,7 +42,7 @@ This feature simplifies VM administration, making it especially valuable for sys
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-The **Console Access** feature provides a powerful and intuitive way to interact with your Virtual Machines directly through a web-based interface. Whether you're troubleshooting startup issues, configuring system settings, or performing administrative tasks, Console Access ensures seamless and efficient management of your VMs. For further assistance, refer to the Stack Console documentation or reach out to support.
+The **Console Access** feature provides a powerful and intuitive way to interact with your Virtual Machines directly through a web-based interface. Whether you're troubleshooting startup issues, configuring system settings, or performing administrative tasks, Console Access ensures seamless and efficient management of your VMs. For further assistance, refer to the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

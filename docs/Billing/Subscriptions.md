@@ -11,4 +11,4 @@ The **Subscription** tab allows users to manage and track all their subscribed s
 - **Inactive Subscriptions**: These are temporarily disabled services that are not currently billed but can be reactivated.
 - **Scheduled for Deletion**: These are services marked for termination and will be removed from the system soon, preventing further billing.
 
-![Subscriptions](images/billing_8.png)
+![Subscriptions](images/subscriptions.png)

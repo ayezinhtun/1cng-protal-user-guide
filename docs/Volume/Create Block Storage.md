@@ -7,16 +7,16 @@ title: Create Volume
 
 **Block storage volumes** provide scalable NVMe SSD storage that can be attached to virtual machines, offering additional capacity for your data. Once attached, you can manually format and mount the volume to extend your VM's storage.
 
-**Stack Console** simplifies the deployment and management of Block Storage, enabling users to scale and adapt their infrastructure based on demand. This guide will walk you through the process of creating and attaching a block storage volume using **Stack Console**.
+**1CNG** simplifies the deployment and management of Block Storage, enabling users to scale and adapt their infrastructure based on demand. This guide will walk you through the process of creating and attaching a block storage volume using **1CNG**.
 
 ----------
 
-### <span style={{ color: '#003366' }}>Creating a Block Storage Volume on Stack Console</span>
+### <span style={{ color: '#003366' }}>Creating a Block Storage Volume on 1CNG</span>
 
 - From the left-hand menu, click on the **Block Storages** tab.
 - You will be redirected to the **Create Block Storage Volume** page.
 
-![Create Block Storage](images/stackconsole-create-block-storages.png)
+![Create Block Storage](images/create-volume.png)
 
 - To create a volume, click on **Create Block Storage** or the **plus (+)** icon located on the right side of the Create Block Storage page.
 
@@ -25,13 +25,13 @@ title: Create Volume
 - Select the data center location where your server will be physically hosted.
 - Choose from the available locations listed.
 
-![Choose Location](images/stackconsole-create-block-storages-location.png)
+![Choose Location](images/select-location.png)
 
 ### <span style={{ color: '#003366' }}>Assign to a Project</span>
 
 - Assign the block storage volume to one of your projects to organize and manage resources effectively.
 
-![Assign to Project](images/stackconsole-create-block-storages-select-project.png)
+![Assign to Project](images/assign-project.png)
 
 ### <span style={{ color: '#003366' }}>Choose Instance</span>
 
@@ -44,13 +44,13 @@ title: Create Volume
 - Select a volume size based on your requirements like **Storage Type** and **Size**. You can also create a custom volume if needed.
 - These are some available options and their plans:
 
-![Select Volume Size](images/stackconsole-create-block-storages-select-volume-size.png)
+![Select Volume Size](images/choose-volume-size.png)
 
 ### <span style={{ color: '#003366' }}>Choose Volume Name</span>
 
 - Provide a unique **Volume Name** for your volume to identify it easily in your dashboard.
 
-![Choose Volume Name](images/stackconsole-create-block-storages-name.png)
+![Choose Volume Name](images/choose-name.png)
 
 ### <span style={{ color: '#003366' }}>Create Volume</span>
 
@@ -59,11 +59,11 @@ title: Create Volume
 - It supports multiple packages based on SSD size and data center location. This ensures flexibility in performance and regional data preferences.
 - Verify all the configuration details and review the price summary. Click on **Create Volume** to create the volume.
 
-![Create Volume](images/stackconsole-create-block-storages-deploy.png)
+![Create Volume](images/submit-volume.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can easily create and manage block storage volumes on Stack Console. These volumes provide scalable and high-performance storage solutions for your virtual machines, enabling you to meet your data storage needs efficiently. For further assistance, refer to the Stack Console documentation or reach out to support.
+By following this guide, you can easily create and manage block storage volumes on 1CNG. These volumes provide scalable and high-performance storage solutions for your virtual machines, enabling you to meet your data storage needs efficiently. For further assistance, refer to the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

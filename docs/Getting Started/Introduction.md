@@ -17,18 +17,18 @@ import Link from '@docusaurus/Link';
     marginBottom: '30px',
   }}
 >
-  <h1>👋 Welcome to Stack Console Documentation!</h1>
-  <p>Manage and optimize your cloud infrastructure with Stack Console.</p>
+  <h1>👋 Welcome to 1CNG Documentation!</h1>
+  <p>Manage and optimize your cloud infrastructure with 1CNG.</p>
 </div>
 
-## 📖 About Stack Console
+## 📖 About 1CNG
 
-**Stack Console** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
+**1CNG** is an advanced, cloud unified  management platform designed to integrate with multiple cloud infrastructures. It provides a single unified interface for provisioning, monitoring, and managing resources across different cloud environments. 
 
-With Stack Console, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. 
+With 1CNG, organizations can simplify the complexity of multi-cloud operations, increase operational efficiency, and gain real-time insights into their cloud infrastructure. 
 
 
-## Features of Stack Console <br />
+## Features of 1CNG <br />
 
 
 <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '20px', marginTop: '20px' }}>
@@ -119,13 +119,6 @@ With Stack Console, organizations can simplify the complexity of multi-cloud ope
   </div>
   
 </div>
-
-
-<br />
-
-**Stack Console** is more than just a management platform—it's a powerful tool that connects you to your entire cloud infrastructure across various providers. By centralizing operations, it empowers cloud administrators to manage resources more efficiently, monitor critical infrastructure in real-time, and take proactive steps toward improving the scalability and cost-efficiency of their cloud environments. Key Integrations of Stack Console include popular cloud platforms such as **OpenNebula** , **Apache CloudStack**, **OpenStack** and **VMware**.
-
-![Cloud Infrastructures](images/stackconsole-cloud-infra.png) 
 
 
 ### Account Setup
@@ -242,7 +235,7 @@ With Stack Console, organizations can simplify the complexity of multi-cloud ope
 
 ### 🚀 Next Steps
 
-To start your journey with **Stack Console**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with Stack Console's powerful integrations, you’ll be up and running in no time!
+To start your journey with **1CNG**, head over to the guides above and begin by creating your account, setting up your profile, and configuring your billing. The setup is straightforward, and with 1CNG's powerful integrations, you’ll be up and running in no time!
 
 
 

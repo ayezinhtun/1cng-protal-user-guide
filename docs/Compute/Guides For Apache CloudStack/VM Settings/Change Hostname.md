@@ -19,7 +19,7 @@ Change Hostname Will Restart Your Virtual Machine
 
 :::
 
-![Change Hostname Settings](../images/stackconsole-vm-settings-change-hostname.png)
+![Change Hostname Settings](../images/change-hostname.png)
 
 ----------
 

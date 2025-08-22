@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "e0868e1cff0e4e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c28ea6a97cdf7fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892dec5f09fd824b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Templates/Create Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Create Templates"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe274a108827c2f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77bbbb093a54a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9725630fe8a2653b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92028458019d60a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8ae7cd50bc027fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "0c5010712fcbd3de",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5d189f69c200dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af3bad6243b7ab9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Getting Started/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "54ce0c5fa0046f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Getting Started/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "992a9c65b29faf11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ff9c2cb3fe0ae3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Getting Started/Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "892dec5f09fd824b",
+  "lastOpenFiles": [
+    "docs/Support/Test.md",
+    "docs/Templates/Create Templates.md",
+    "docs/DNS/Create DNS.md",
+    "docs/Volume/Create Block Storage.md",
+    "docs/Backups/Create Backups.md",
+    "docs/Compute/Guides For Apache CloudStack/Console Access.md",
+    "docs/Compute/Guides For Apache CloudStack/Instance Backups.md",
+    "docs/Getting Started/Introduction.md",
+    "static/img/1cng.ico",
+    "src/theme/Footer/index.tsx",
+    "src/theme/Footer",
+    "src/theme",
+    "src/pages/markdown-page.md",
+    "build/__server/assets/js/900.b681c586.js",
+    "build/__server/assets/js",
+    "build/__server/server.bundle.js",
+    "build/__server/assets",
+    "build/__server",
+    "docs/Support/Support.md",
+    "docs/Support/images/assistance.png",
+    "docs/Support/images/tickets.png",
+    "docs/Support/Test",
+    "docs/Support/images/support.png",
+    "docs/Billing/Account Statement.md",
+    "docs/Billing/Test.md",
+    "docs/Billing/images/account-statements.png",
+    "docs/Billing/Transactions.md",
+    "docs/Billing/images/transactions.png",
+    "docs/Billing/Coupons.md",
+    "docs/Billing/images/coupons.png",
+    "docs/Billing/Subscriptions.md",
+    "docs/Billing/Payment Methods.md",
+    "Cupons.md",
+    "docs/Billing/images/payment-methods.png",
+    "docs/Billing/images/subscriptions.png",
+    "docs/Billing/Billing Summary.md",
+    "docs/Billing/images/billing-invoices.png",
+    "docs/Billing/images/billing-types.png",
+    "docs/VNF Appliances/Guides for Apache CloudStack/VNF Appliances.md",
+    "docs/VNF Appliances/Test.md",
+    "images/vnf-server-settings.md",
+    "docs/Load Balancer/Load Balancer.md",
+    "docs/Load Balancer/Test.md",
+    "docs/Networks/Guides For Apache CloudStack/VPN Customer Gateway.md",
+    "docs/Networks/Guides For OpenStack/Floating IP Addresses.md",
+    "docs/Networks/Guides For OpenNebula/Virtual Routers.md"
+  ]
+}

@@ -12,7 +12,7 @@ Startup scripts are executed automatically when the virtual machine is initializ
 - To change your startup script, go to the **VM settings** and navigate to the **Change Startup Script** section.  
 - Add your desired script and click on **Change**.
 
-![Change Startup Script](../vmimages/vm-startup-script.png)
+![Change Startup Script](../vmimages/change-startup-script.png)
 
 ----------
 

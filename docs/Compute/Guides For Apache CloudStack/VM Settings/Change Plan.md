@@ -20,7 +20,7 @@ Downgrading is currently not supported. Shrinking the hard disk is not possible 
 
 - Once you have made your selection, review the details to ensure they meet your requirements and click on **Review and Change Plan** to apply new plan. 
 
-![Change VM Plan](../vmimages/vm-change-plans.png)
+![Change VM Plan](../vmimages/change-plan.png)
 
 ----------
 

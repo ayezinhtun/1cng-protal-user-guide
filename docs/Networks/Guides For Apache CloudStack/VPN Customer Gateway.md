@@ -4,13 +4,13 @@ title: VPN Customer Gateway
 ---
 ## <span style={{ color: '#003366' }}>VPN Customer Gateway</span>
 
-A **VPN Customer Gateway** is an essential component for establishing a secure VPN connection between your on-premises network and a cloud provider. In Stack Console, this allows secure communication between your private network and virtual private cloud (VPC). Follow this step-by-step guide to configure and add a VPN Customer Gateway in Stack Console.
+A **VPN Customer Gateway** is an essential component for establishing a secure VPN connection between your on-premises network and a cloud provider. In 1CNG, this allows secure communication between your private network and virtual private cloud (VPC). Follow this step-by-step guide to configure and add a VPN Customer Gateway in 1CNG.
 
 - From the left-hand menu, click on the **Networks** tab.
 - You will be redirected to the **Networks** page. Go to the **VPN Customer Gateway** tab.
 - Click on the **plus (+)** icon to add a new VPN Customer Gateway. A form will appear where you need to enter the configuration details
 
-![alt text](images/vpn_gate_1.png)
+![alt text](images/vpn-customer-gateway.png)
 
 - **Select Project**: Choose the project where the VPN Customer Gateway will be deployed.
 - **Select Zone**: Pick the appropriate zone or region for your VPN gateway.
@@ -18,7 +18,7 @@ A **VPN Customer Gateway** is an essential component for establishing a secure V
 - **CIDR List**: Define the IP range (in CIDR format) allowed for communication between your network and the cloud.
 - **Gateway**: Provide the public IP address of your on-premises VPN device (router or firewall).
 
-![alt text](images/vpn_gate_2.png)
+![alt text](images/add-vpn-customer-gateway.png)
  
 ### <span style={{ color: '#003366' }}>Gateway Configurations</span>
 
@@ -39,7 +39,7 @@ To establish a secure connection, configure the following IPsec and IKE (Interne
 
 ### <span style={{ color: '#003366' }}>Enable Advanced Features (Optional)</span>
 
-Stack Console provides additional security and performance features that can be enabled by toggling advance options.
+1CNG provides additional security and performance features that can be enabled by toggling advance options.
 
 - **Dead Peer Detection (DPD)**: Monitors and automatically restores lost VPN connections.
 - **Force Encapsulation**: Ensures VPN traffic passes through firewalls and NAT devices.

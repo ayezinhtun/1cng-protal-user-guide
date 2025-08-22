@@ -11,7 +11,7 @@ SSH keys provide a secure, passwordless way to access your virtual machine. This
 
 - To view SSH key, go to the **VM settings** and navigate to the **SSH Keys** section.
 
-![SSH Key Configuration](../vmimages/vm-ssh.png)
+![SSH Key Configuration](../vmimages/ssh-key.png)
 
 :::warning
 

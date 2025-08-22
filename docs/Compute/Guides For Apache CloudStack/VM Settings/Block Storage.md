@@ -13,7 +13,7 @@ Block Storage allows you to attach additional storage volumes to your virtual ma
 - If you want to see previously created snapshots for the volume, click the right arrow icon to expand the list. 
 - To create a new snapshot, simply click the camera icon on the rightmost side. This will capture the current state of the volume, allowing you to restore it if needed.
 
-![View Volume Instance](../vmimages/vm-usage-volume.png)
+![View Volume Instance](../vmimages/vm-setting.png)
 
 ----------
 

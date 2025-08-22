@@ -5,7 +5,7 @@ title: Public IP Address
 
 ## <span style={{ color: '#003366' }}>Public IP Address</span>
 
-A **Public IP** in Stack Console is an internet-facing IP address assigned to cloud resources, allowing them to be accessible from outside the private network. Public IPs are essential for web servers, APIs, and other services requiring direct internet access.
+A **Public IP** in 1CNG is an internet-facing IP address assigned to cloud resources, allowing them to be accessible from outside the private network. Public IPs are essential for web servers, APIs, and other services requiring direct internet access.
 
 -----
 
@@ -14,21 +14,21 @@ A **Public IP** in Stack Console is an internet-facing IP address assigned to cl
 - From the left-hand menu, click on the **Networks** tab.
 - You will be redirected to the **Networks** page. Go to the **Public IP Address** tab where you will see the Public IPs listed.
 
-![Public IP List](images/public_ip_1.png)
+![Public IP List](images/view-public-ips.png)
 
 ### <span style={{ color: '#003366' }}>Public IP Details</span>
 
 - To view more detail, click on the public IP instance.
 - From the **Details** tab you can view the details like IP address, network name, account details, and country zone.
 
-![Public IP Details](images/public_ip_2.png)
+![Public IP Details](images/public-ip-detail.png)
 
 ### <span style={{ color: '#003366' }}>Add Firewall Rule</span>
 
 - Go to the **Firewall** tab where you will see firewall rules which have been set before. 
 - To add firewall rule click on **Add Firewall Rule**.
 
-![Firewall Rules Tab](images/public_ip_3.png)
+![Firewall Rules Tab](images/add-firewall.png)
 
 - Add source CIDR, and select protocol from TCP, UDP, ICMP.
 - Add the Start and End port and click on **Add Firewall Rule**.
@@ -62,4 +62,4 @@ A **Public IP** in Stack Console is an internet-facing IP address assigned to cl
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can effectively manage Public IPs in Stack Console — whether it’s assigning IPs, applying firewall rules, configuring port forwarding, or enabling VPN access. These options help ensure your virtual infrastructure is accessible and secure.
+By following this guide, you can effectively manage Public IPs in 1CNG — whether it’s assigning IPs, applying firewall rules, configuring port forwarding, or enabling VPN access. These options help ensure your virtual infrastructure is accessible and secure.

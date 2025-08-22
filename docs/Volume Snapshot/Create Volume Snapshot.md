@@ -7,7 +7,7 @@ title: Create Volume Snapshot
 
 **Volume Snapshots** capture the current state of a volume at a specific point in time, ensuring data integrity and providing a reliable solution for backup and recovery. These snapshots allow you to quickly restore your volume to its exact state at the time of creation, helping to recover from accidental deletion, corruption, or system failures.
 
-With **Stack Console**, you can easily create and manage volume snapshots through an intuitive interface, ensuring your data remains secure and consistent. This guide will walk you through the process of creating a volume snapshot step-by-step.
+With **1CNG**, you can easily create and manage volume snapshots through an intuitive interface, ensuring your data remains secure and consistent. This guide will walk you through the process of creating a volume snapshot step-by-step.
 
 ----------
 
@@ -16,7 +16,7 @@ With **Stack Console**, you can easily create and manage volume snapshots throug
 - From the left-hand menu, click on the **Snapshots** tab.
 - You will be redirected to the **Snapshots** page. Go to the **Volume Snapshot** tab.
 
-![Volume Snapshot Page](images/stackconsole-create-volume-snap.png)
+![Volume Snapshot Page](images/create-volume-snapshots.png)
 
 - To create a snapshot, click on **Take Snapshot** or the **plus (+)** icon located on the right side of the page.
 
@@ -25,25 +25,25 @@ With **Stack Console**, you can easily create and manage volume snapshots throug
 - Select the data center location where your server will be physically hosted.
 - Choose from the available locations listed.
 
-![Choose Location](images/stackconsole-create-snapshot-vm-instance-location.png)
+![Choose Location](images/snapshot-select-location.png)
 
 ### <span style={{ color: '#003366' }}>Assign to a Project</span>
 
 - Assign the snapshot to one of your projects to organize and manage resources effectively.
 
-![Assign to Project](images/stackconsole-create-block-storages-select-project.png)
+![Assign to Project](images/snapshot-choose-project.png)
 
 ### <span style={{ color: '#003366' }}>Choose Block Storage</span>
 
 - From the **Volumes** list, select the volume for which you want to create a snapshot.
 
-![Choose Block Storage](images/stackconsole-create-volume-storage-snap.png)
+![Choose Block Storage](images/choose-block-storage.png)
 
 ### <span style={{ color: '#003366' }}>Choose Snapshot Name</span>
 
 - Provide a unique **Snapshot Name** for your volume snapshot to identify it easily in your dashboard.
 
-![Choose Snapshot Name](images/stackconsole-create-snapshot-vm-instance-snapshot.png)
+![Choose Snapshot Name](images/snapshot-name.png)
 
 ### <span style={{ color: '#003366' }}>Create Snapshot</span>
 
@@ -51,11 +51,11 @@ With **Stack Console**, you can easily create and manage volume snapshots throug
 - Only one package per zone is supported for VM Snapshot, BS Snapshot, and VM Backup. Automatic VM backups cost 20% of the virtual machine price if enabled from the admin.
 - Verify all the configuration details and review the price summary. Click on **Take Snapshot** to create the snapshot of the volume.
 
-![Create Snapshot](images/stackconsole-create-snapshot-vm-instance-snapshot-takesnap.png)
+![Create Snapshot](images/create-snapshots.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can easily create and manage volume snapshots on Stack Console. Volume snapshots provide a reliable way to back up your data, ensuring data integrity and enabling quick recovery in case of accidental deletion, corruption, or system failures. For further assistance, refer to the Stack Console documentation or reach out to support.
+By following this guide, you can easily create and manage volume snapshots on 1CNG. Volume snapshots provide a reliable way to back up your data, ensuring data integrity and enabling quick recovery in case of accidental deletion, corruption, or system failures. For further assistance, refer to the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

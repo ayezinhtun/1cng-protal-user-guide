@@ -3,11 +3,11 @@ sidebar_position: 3
 title: Profile Setup
 ---
 
-## <span style={{ color: '#003366' }}>Setup User Profile in Stack Console</span> {#profile}
+## <span style={{ color: '#003366' }}>Setup User Profile in 1CNG</span> {#profile}
 
-The **Stack Console** user profile setup feature allows users to manage their personal information, change passwords, configure payment settings, add users, roles, and monitor account activity. This feature provides users with a detailed overview of their account and allows for customization and control.
+The **1CNG** user profile setup feature allows users to manage their personal information, change passwords, configure payment settings, add users, roles, and monitor account activity. This feature provides users with a detailed overview of their account and allows for customization and control.
 
-![Profile Page](images/stackconsole-profile-page.png)
+![Profile Page](images/profile.png)
 
 ### <span style={{ color: '#003366' }}>Update Your Personal Information</span>
 
@@ -17,7 +17,7 @@ Keep your personal details up-to-date to ensure that your profile reflects accur
 - Select **Personal Details** to update your personal information.
 - Click on **Submit** to save changes.
 
-![Personal Details](images/stackconsole-profile-personal-details.png)
+![Personal Details](images/personal-details.png)
 
 ### <span style={{ color: '#003366' }}>Manage Billing Information</span>
 
@@ -28,7 +28,7 @@ Accurate billing information is essential for managing subscriptions and payment
 - Add or update the **Billing Address** and **Phone Number**.
 - Click on **Submit** to save changes.
 
-![Billing Details](images/stackconsole-profile-billing-details.png)
+![Billing Details](images/billing-details.png)
 
 ### <span style={{ color: '#003366' }}>Customize Account Preferences</span>
 
@@ -50,7 +50,7 @@ Ensure the date and time format aligns with your preference, especially if you'r
 - Choose your **Preferred Time Zone** and **Date Time Format**.
 - Click **Submit** to apply the changes.
 
-![Date and Time Settings](images/stackconsole-profile-date-and-time-settings.png)
+![Date and Time Settings](images/date-time.png)
 
 ### <span style={{ color: '#003366' }}>Secure Your Account with Two-Factor Authentication</span> {#enable-2fa}
 
@@ -63,7 +63,7 @@ Enhance security by enabling **Two-Factor Authentication (2FA)**, which adds an 
 - Enter the OTP sent to your email.
 - Toggle **Enable 2FA for All Users** if you want it enforced across your organization.
 
-![Two-Factor Authentication Setup](images/stackconsole-profile-auth-two-factor-auth.png)
+![Two-Factor Authentication Setup](images/authentication.png)
 
 ### <span style={{ color: '#003366' }}>Change Your Password</span>
 
@@ -73,7 +73,7 @@ To maintain account security, it's essential to change your password periodicall
 - Select **Authentication**, then click on **Change Password**.
 - Enter your **Current Password**, then enter and confirm your **New Password** and click **Change Password** to save changes.
 
-![Change Password](images/stackconsole-profile-change-password.png)
+![Change Password](images/change-password.png)
 
 ### <span style={{ color: '#003366' }}>Add a New User</span> {#new-user}
 
@@ -83,7 +83,7 @@ The **Users** section allows you to add new users to your organization and assig
 - You can view Users and manage them by using action buttons to edit and re-invite user. To add user Select **Users** and click on **Add User**.
 - Enter the user details and select their **Role** and click **Submit** to create the user.
 
-![Add User](images/user.png)
+![Add User](images/users.png)
 
 ### <span style={{ color: '#003366' }}>Assign User Roles and Permissions</span>
 
@@ -93,7 +93,7 @@ The **Roles** section allows you to assign and manage specific roles and permiss
 - Select **Roles** to view and assign permissions.
 - Click **Add New Role** to create a new role with customized permissions.
 
-![Assign Roles](images/roles.png)
+![Assign Roles](images/user-roles.png)
 
 ### <span style={{ color: '#003366' }}>Set Account Limits</span>
 
@@ -103,7 +103,7 @@ The **Account Limits** feature allows users to view resource usage and request i
 - Select **Account Limit** to view the resource allocation table.
 - Click **Request To Increase** to submit a request for additional resources.
 
-![Account Limits](images/req.png)
+![Account Limits](images/account-limit.png)
 
 ### <span style={{ color: '#003366' }}>Track Activity Logs</span>
 
@@ -113,7 +113,7 @@ The **Activity Logs** feature provides a detailed record of user and system acti
 - Select **Activity Logs** to monitor system actions and changes.
 - Use the search bar to filter logs based on keywords.
 
-![Activity Logs](images/activity.png)
+![Activity Logs](images/activity-logs.png)
 
 ### <span style={{ color: '#003366' }}>Review Login History</span>
 
@@ -122,8 +122,8 @@ The **Login History** feature allows users to monitor account access and verify 
 - Navigate to the **Profile** section from the left-hand menu.
 - Select **Login History** to view login records.
 
-![Login History](images/loginhist.png)
+![Login History](images/login-history.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can efficiently manage your Stack Console profile, enhance security settings, and customize your account to meet your needs. Keeping your profile up-to-date ensures smooth account management and improved security within the platform.
+By following this guide, you can efficiently manage your 1CNG profile, enhance security settings, and customize your account to meet your needs. Keeping your profile up-to-date ensures smooth account management and improved security within the platform.

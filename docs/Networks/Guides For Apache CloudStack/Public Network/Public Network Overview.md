@@ -9,11 +9,11 @@ A **Public Network** is a logically isolated network within a cloud environment.
 
 - To view a network instance, go to the **Networks** and navigate to the **Public Networks** section, where you can view the Public network and its size. 
 
-![alt text](images/pub_net_1.png)
+![alt text](images/public-network-overview.png)
 
 - From **Details** tab you can view the detailed overview of your Public network.
 
-![alt text](images/pub_net_2.png)
+![alt text](images/public-detail.png)
 
 - **Public ID**: The ID assigned to the Public.
 - **Network Type:** Isolated (no external access) or Cached (temporary storage optimization).

@@ -28,3 +28,46 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Style the search input field */
+/* Sleek modern search bar */
+.navbar__search-input {
+  border-radius: 8px; /* subtle rounded corners */
+  padding: 8px 12px 8px 36px; /* space for the icon */
+  background-color: #f3f4f6;
+  border: 1px solid #d1d5db;
+  font-size: 0.95rem;
+  width: 220px;   /* balanced width */
+  height: 38px;   /* not too tall */
+  transition: all 0.25s ease-in-out;
+}
+
+/* Expand smoothly when focused */
+.navbar__search-input:focus {
+  width: 300px;
+  background-color: #fff;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+  outline: none;
+}
+
+/* Hover effect */
+.navbar__search-input:hover {
+  background-color: #ffffff;
+  border-color: #9ca3af;
+}
+
+/* Placeholder text */
+.navbar__search-input::placeholder {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+/* Icon alignment & size */
+.navbar__search .navbar__search-input__icon {
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1rem;
+  color: #6b7280;
+}

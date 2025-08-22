@@ -12,7 +12,7 @@ Port Forwarding enables you to redirect traffic from a specific port on your hos
 - To redirect traffic of the network, go to the **VM settings** and navigate to the **Port Forwarding** section.  
 - Click on **Manage** to change port configurations for that network.
 
-![Port Forwarding Configuration](../vmimages/vm-portforwading.png)
+![Port Forwarding Configuration](../vmimages/port-forwarding.png)
 
 ----------
 

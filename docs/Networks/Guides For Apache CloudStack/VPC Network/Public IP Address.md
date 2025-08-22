@@ -13,7 +13,7 @@ title: Public IP Address
 - Click **Aquire New IP** to request a new public IP. 
 - Choose the desired **Billing Cycle** for your network and click on **Buy IP**.
 
-![alt text](images/vpc_net_6.png)
+![alt text](images/acquire-new-public-ip.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 

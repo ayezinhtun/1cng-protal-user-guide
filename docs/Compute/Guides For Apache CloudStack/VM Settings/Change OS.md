@@ -18,7 +18,7 @@ Changing to different operating system will wipe all data on the server. Delete 
 
 :::
 
-![Change OS Settings](../images/stackconsole-vm-settings-change-os.png)
+![Change OS Settings](../images/change-os.png)
 
 ----------
 

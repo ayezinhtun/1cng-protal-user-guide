@@ -3,9 +3,9 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Stack Console',
+  title: '1CNG',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon_stack_console.ico',
+  favicon: 'img/1cng.ico',
   url: 'http://doc.stackwarriors.in/',
   baseUrl: '/',
   organizationName: 'facebook',
@@ -38,11 +38,23 @@ const config: Config = {
   ],
 
   plugins: [
+    // ✅ Local Search (maintained fork)
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['en'], // support multiple languages if needed
+        indexDocs: true,  // index /docs content
+        indexBlog: false, // change to true if you also want blog posts searchable
+        indexPages: true, // static pages
+      },
+    ],
+
     // Main docs (User Guide)
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'default', // Unique ID for main docs
+        id: 'default',
         path: 'docs',
         routeBasePath: 'docs',
         sidebarPath: require.resolve('./sidebars.ts'),
@@ -50,63 +62,20 @@ const config: Config = {
           'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
       },
     ],
-    // Admin Guide
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'admin',
-        path: 'admin',
-        routeBasePath: 'admin',
-        sidebarPath: require.resolve('./sidebarsAdmin.ts'),
-      },
-    ],
-    // Reseller Guide
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'reseller',
-        path: 'reseller',
-        routeBasePath: 'reseller',
-        sidebarPath: require.resolve('./sidebarsReseller.ts'),
-      },
-    ],
-    // Affiliate Guide
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'affiliate',
-        path: 'affiliate',
-        routeBasePath: 'affiliate',
-        sidebarPath: require.resolve('./sidebarsAffiliate.ts'),
-      },
-    ],
   ],
 
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      logo: { alt: 'Stack Console Logo', src: 'img/sc.ico' },
+      logo: { alt: '1CNG Logo', src: 'img/1cng.png' },
       items: [
         { to: '/docs/Getting Started/Introduction', label: 'User Guide', position: 'left' },
-        { to: '/admin/intro', label: 'Admin Guide', position: 'left' },
-        { to: '/reseller/intro', label: 'Reseller Guide', position: 'left' },
-        { to: '/affiliate/intro', label: 'Affiliate Guide', position: 'left' },
+        { type: 'search', position: 'right' }, // 👈 search bar in navbar
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Guides',
-          items: [
-            { label: 'User Guide', to: '/docs/category/getting-started'},
-            { label: 'Admin Guide', to: '/admin/intro'},
-            { label: 'Reseller Guide', to: '/reseller/intro'},
-            { label: 'Affiliate Guide', to: '/affiliate/intro'},
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Stack Console.`
+      copyright: `Copyright © ${new Date().getFullYear()} 1CNG.`,
     },
     prism: {
       theme: prismThemes.github,

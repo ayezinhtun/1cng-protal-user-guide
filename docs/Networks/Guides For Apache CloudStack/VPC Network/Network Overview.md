@@ -9,11 +9,11 @@ A Virtual Private Cloud (VPC) is a logically isolated network within a cloud env
 
 - To view a network instance, go to the **Networks** and navigate to the **VPC Networks** section, where you can view the VPC network and its size. 
 
-![alt text](images/vpc_net_1.png)
+![alt text](images/vpc-network-overview.png)
 
 - From **Details** tab you can view the detailed overview of your VPC network.
 
-![alt text](images/vpc_net_2.png)
+![alt text](images/vpc-network-detail.png)
 
 - **VPC ID**: The ID assigned to the VPC.
 - **Description**: A brief summary of the VPC's purpose.

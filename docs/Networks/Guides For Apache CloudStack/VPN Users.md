@@ -5,19 +5,19 @@ title: VPN Users
 
 ## <span style={{ color: '#003366' }}>VPN Users</span>
 
-A **VPN User** in Stack Console refers to an authenticated individual who connects to the cloud environment via a Virtual Private Network (VPN). This ensures secure remote access to private cloud resources.
+A **VPN User** in 1CNG refers to an authenticated individual who connects to the cloud environment via a Virtual Private Network (VPN). This ensures secure remote access to private cloud resources.
 
 - From the left-hand menu, click on the **Networks** tab.
 - You will be redirected to the **Networks** page. Go to the **VPN Users** tab.
 
-![alt text](images/vpn_1.png)
+![alt text](images/vpn-users.png)
 
 - Click on the **plus (+)** icon to add a new VPN User. A form will appear where you need to enter the configuration details
 
-- Enter your **Username** and **Password** of Stack Console's account. To create VPN user, select the **Project** and **Zone**.
+- Enter your **Username** and **Password** of 1CNG's account. To create VPN user, select the **Project** and **Zone**.
 - Click on **Add User** to add vpn user.
 
-![alt text](images/vpn_2.png)
+![alt text](images/add-new-vpn-user.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 

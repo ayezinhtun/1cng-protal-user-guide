@@ -12,7 +12,7 @@ This setting allows you to manage the VM’s network interfaces, including confi
 - To add or change your network configurations, go to the **VM settings** and navigate to the **Networks** section.  
 - Click on **Add Network** to add network and click on the network to change the configurations for that network.
 
-![Network Configuration Settings](../vmimages/vm-networks.png)
+![Network Configuration Settings](../vmimages/public-network.png)
 
 ----------
 

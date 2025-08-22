@@ -5,25 +5,25 @@ title: Create Project
 
 ## <span style={{ color: '#003366' }}>Creating and Managing a Project</span>
 
-This guide provides step-by-step instructions for creating a project in Stack Console, adding users, and configuring account limits and quotas for the project.
+This guide provides step-by-step instructions for creating a project in 1CNG, adding users, and configuring account limits and quotas for the project.
 
 ### <span style={{ color: '#003366' }}>Creating a New Project</span>
 
 - Navigate to the left-hand menu and click on **Projects**.
 - Click on **Create a New Project**.
 
-![Create Project](imgs/stackconsole-create-project.png)
+![Create Project](imgs/create-project.png)
 
 - Enter the project details such as **Project Name**, **Project Description**, and **Project Purpose**.
 - Click on **Create Project**. Your project will be successfully created.
 
-![New Project Details](imgs/stackconsole-create-new-project.png)
+![New Project Details](imgs/create-project-submit.png)
 
 ### <span style={{ color: '#003366' }}>View Resources for a Project</span>
 
 Once the project is successfully created, you will be able to view the associated project resources.
 
-![Project Resources](imgs/stackconsole-create-new-project-resources.png)
+![Project Resources](imgs/view-sources.png)
 
 - **Virtual Machine**: Fully configurable cloud server for running applications or hosting websites.
 - **VM Snapshot**: Point-in-time backup of a virtual machine’s state and data.
@@ -38,7 +38,7 @@ Once the project is successfully created, you will be able to view the associate
 - Use the search bar to find the user you want to add.
 - Click on **Add** to include the user in the project.
 
-![Add User](imgs/stackconsole-create-new-project-add-user.png)
+![Add User](imgs/add-users.png)
 
 ### <span style={{ color: '#003366' }}>Setting Account Limits for a Project</span>
 
@@ -46,13 +46,13 @@ Once the project is successfully created, you will be able to view the associate
 - Navigate to the **Project Account Limit** section. Here, you will be able to view the limit and usage of the resource.
 - Select the appropriate **Zone** for which you want to set the limit.
 
-![Account Limits](imgs/stackconsole-create-new-project-account-limit.png)
+![Account Limits](imgs/account-limit.png)
 
 - Click on **Edit Account Limit**. You will be redirected to the **Assign a Quota to the Project** page.
 - Select the **Zone** and the specific **Resource** you want to change the quota limit.
 - Enter the desired **Quota Limit**. If you set the quota limit to `-1`, it will assign **unlimited** quota for that resource.
 - Click on **Submit**.
 
-![Increase Quota](imgs/stackconsole-create-new-project-account-limit-increase.png)
+![Increase Quota](imgs/assign-quota.png)
 
-By following this guide, you can effectively create and manage projects within Stack Console, ensuring seamless collaboration and optimized resource allocation.
+By following this guide, you can effectively create and manage projects within 1CNG, ensuring seamless collaboration and optimized resource allocation.

@@ -3,20 +3,20 @@ sidebar_position: 1
 title: Compute Instance
 ---
 
-## <span style={{ color: '#003366' }}>Compute Instance for Stack Console</span>
+## <span style={{ color: '#003366' }}>Compute Instance for 1CNG</span>
 
 A **Compute Instance** is a virtual server in the cloud that functions similarly to a physical computer. It has its own CPU, memory, and storage, allowing you to install software, run applications, or host websites. With a Compute Instance, you have complete control over your server environment, making it flexible for various tasks. Compute Instances are a fundamental component of cloud services, enabling users to quickly launch and scale servers as needed.
 
 ----------
 
-### <span style={{ color: '#003366' }}>Creating a Compute Instance on Stack Console</span>
+### <span style={{ color: '#003366' }}>Creating a Compute Instance on 1CNG</span>
 
 This guide provides step-by-step instructions for creating a cloud server instance, which offers flexible and scalable computing power for running applications, managing volumes, and adapting resources to your needs.
 
 - From the left-hand menu, click on the **Instances** tab.
 - You will be redirected to the **Instances** page.
 
-![Instances Page](images/stackconsole-select-instance.png)
+![Instances Page](images/create-instance.png)
 
 - To create an instance, click the **plus (+)** icon located on the right side of the Instances page. This will open the Instance creation page.
 
@@ -25,7 +25,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 - Select the data center location where your server will be physically hosted.
 - Choose from the available locations listed.
 
-![Choose Location](images/stackconsole-create-instance-location.png)
+![Choose Location](images/choose-location.png)
 
 ### <span style={{ color: '#003366' }}>Choose an Image</span>
 
@@ -33,13 +33,13 @@ This guide provides step-by-step instructions for creating a cloud server instan
 - Available options include popular OS images. Alternatively, you can import a custom ISO.
 - **Note**: For Microsoft Windows, only official evaluation versions are available.
 
-![Choose Image](images/stackconsole-create-instance-choose-images.png)
+![Choose Image](images/choose-image.png)
 
 ### <span style={{ color: '#003366' }}>Choose the Type of CPU Allocation</span>
 
 - Select the CPU resource allocation that fits your workload:
 
-![Choose CPU Type](images/stackconsole-create-instance-choose-type.png)
+![Choose CPU Type](images/choose-location.png)
 
   - **Shared CPU**: Affordable, with resources shared among users. Ideal for development, testing, and low-performance workloads like small websites.
   - **Dedicated CPU**: Provides exclusive resources for consistent performance. Perfect for production environments, high-traffic applications, and databases.
@@ -50,7 +50,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Choose a plan based on your requirements like CPU, memory, storage, and bandwidth. You can also create a custom plan if needed.
 
-![Choose Plan](images/stackconsole-create-instance-choose-plan.png)
+![Choose Plan](images/choose-plan.png)
 
   - **General Compute (GC)**: Balanced workloads with a mix of CPU, memory, storage, and bandwidth. Ideal for general-purpose applications, web servers, and testing environments.
   - **Compute Optimized (CO)**: Prioritizes CPU performance for compute-intensive tasks like batch processing, analytics, and high-speed processing workloads.
@@ -61,13 +61,13 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Assign the server to one of your projects to organize and manage resources effectively.
 
-![Assign to Project](images/stackconsole-create-instance-choose-project.png)
+![Assign to Project](images/choose-project.png)
 
 ### <span style={{ color: '#003366' }}>Choose a Network</span>
 
 - Select the network for your instance based on your connectivity and security needs. For more details about available network options, refer to the respective network guides.
 
-![Choose Network](images/stackconsole-create-instance-choose-network.png)
+![Choose Network](images/choose-network.png)
 
   - **Public Network**: A simple, pre-configured network designed for external connectivity. Includes cloud firewall protection, port forwarding, and remote access VPN. Ideal for users who require straightforward, hassle-free connectivity.
   - **VPC Network**: A Virtual Private Cloud (VPC) offering complete control over traffic routing and enhanced security. Supports VPN gateway, site-to-site VPN connections, and traffic segregation for better security and performance.
@@ -88,7 +88,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Add the name of the SSH key with the key value and click **Add SSH Key**.
 
-![Add SSH Key Details](images/kb_10.png)
+![Add SSH Key Details](images/add-sshkey.png)
 
 - Add a startup script to automate specific actions during instance initialization. Click on **Add Now** to add a startup script.
 
@@ -98,7 +98,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Configure additional VM settings for optimized performance, security, and flexibility by enabling **Advanced Mode**.
 
-![Advanced Mode](images/stackconsole-create-instance-advance-mode.png)
+![Advanced Mode](images/advanced-mode.png)
 
   - **Boot Mode**: Select Legacy or Secure boot for system startup security.
   - **Boot Type**: Choose between UEFI (modern firmware) or BIOS (traditional firmware).
@@ -108,7 +108,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Provide a unique **Server Name** and a valid **Server Hostname** for your instance to identify it easily in your dashboard.
 
-![Server Hostname](images/stackconsole-create-instance-server-hostname.png)
+![Server Hostname](images/server-hostname.png)
 
 ### <span style={{ color: '#003366' }}>Review and Deploy</span>
 
@@ -120,13 +120,13 @@ This guide provides step-by-step instructions for creating a cloud server instan
 
 - Verify all the configuration details and review the price summary. Click on **Review & Deploy** to create the instance.
 
-![Review and Deploy](images/stackconsole-create-instance-depoly.png)
+![Review and Deploy](images/billing-circle.png)
 
 ----------
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-Creating a Compute Instance on Stack Console is a straightforward process that provides you with the flexibility and scalability needed to meet your computing requirements. By following this guide, you can configure your instance to suit your specific needs, whether for development, production, or specialized workloads. Regularly review and optimize your instance settings to ensure efficient resource utilization and enhanced performance. For further assistance, explore the Stack Console documentation or reach out to support.
+Creating a Compute Instance on 1CNG is a straightforward process that provides you with the flexibility and scalability needed to meet your computing requirements. By following this guide, you can configure your instance to suit your specific needs, whether for development, production, or specialized workloads. Regularly review and optimize your instance settings to ensure efficient resource utilization and enhanced performance. For further assistance, explore the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

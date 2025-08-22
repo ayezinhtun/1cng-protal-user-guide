@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Connect With SSH
 ---
 
-## <span style={{ color: '#003366' }}>Connect with SSH in Stack Console</span>  
+## <span style={{ color: '#003366' }}>Connect with SSH in 1CNG</span>  
 
 You can manage your instance using a terminal and SSH. This allows you to connect securely and perform administrative tasks remotely. You can either use an SSH client or connect directly via your terminal. This guide provides step-by-step instructions to connect to your cloud instance using an SSH client or terminal for secure remote access.
 
@@ -19,7 +19,7 @@ Before connecting to your instance, ensure you have the following information:
   - **SSH Key (recommended)** — Ensure you have access to your private key file.  
   - **Default Password** — Found in the Virtual Machine Overview if not using an SSH key. 
 
-![Resource Specifications](images/instance.png) 
+![Resource Specifications](images/instances.png) 
 
 ### <span style={{ color: '#003366' }}>Instance Information</span> 
 
@@ -27,7 +27,7 @@ Before connecting to your instance, ensure you have the following information:
 
 - More information about your instance can be found on the **Virtual Machine Overview**, which can be accessed by clicking on the name displayed on the Virtual Machine card.
 
-![Resource Specifications](images/stackconsole-instance-overview-details.png)
+![Resource Specifications](images/Instance-Information.png)
 
 ### <span style={{ color: '#003366' }}>Connecting to Your Instance</span>  
 
@@ -52,7 +52,7 @@ Before connecting to your instance, ensure you have the following information:
 
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
-By following this guide, you can securely connect to your cloud instance using SSH. Whether you use an SSH key or a password, SSH provides a reliable and secure method for remote access and management. For further assistance, refer to the Stack Console documentation or reach out to support.
+By following this guide, you can securely connect to your cloud instance using SSH. Whether you use an SSH key or a password, SSH provides a reliable and secure method for remote access and management. For further assistance, refer to the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

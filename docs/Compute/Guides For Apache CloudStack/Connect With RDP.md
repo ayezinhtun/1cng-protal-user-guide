@@ -3,9 +3,9 @@ sidebar_position: 9
 title: Connect With RDP
 ---
 
-## <span style={{ color: '#003366' }}>Accessing Windows VMs via RDP Using Stack Console</span>
+## <span style={{ color: '#003366' }}>Accessing Windows VMs via RDP Using 1CNG</span>
 
-**Remote Desktop Protocol (RDP)** enables you to securely connect to and manage your Windows Virtual Machine (VM) remotely. This guide provides a step-by-step process to access your Windows VM via RDP using Stack Console by retrieving the necessary credentials and establishing a secure connection.
+**Remote Desktop Protocol (RDP)** enables you to securely connect to and manage your Windows Virtual Machine (VM) remotely. This guide provides a step-by-step process to access your Windows VM via RDP using 1CNG by retrieving the necessary credentials and establishing a secure connection.
 
 ----
 
@@ -15,7 +15,7 @@ title: Connect With RDP
 - From **Virtual Machine Instance** page, select the VM instance you want to access.
 - In the **VM Overview** tab, find the **Username** and **Password** fields and copy them for later use.
 
-![Instance Overview](vmimages/stackconsole-instance-overview-rdp.png)
+![Instance Overview](vmimages/access-the-instance.png)
 
 ### <span style={{ color: '#003366' }}>Launch the RDP Client</span>
 
@@ -36,9 +36,9 @@ To connect to the VM, open an RDP client on your local machine:
 ### <span style={{ color: '#003366' }}>Connect to the Windows VM</span>
 
 - To open the RDP Client, launch the Remote Desktop Connection tool on your local machine.
-- Find the **Public IP Address** of your VM in the Stack Console **Overview** tab.
+- Find the **Public IP Address** of your VM in the 1CNG **Overview** tab.
 - Provide the **Public IP Address** in the RDP client.
-- When prompted, enter the **Username** and **Password** you copied from Stack Console.
+- When prompted, enter the **Username** and **Password** you copied from 1CNG.
 - If a security warning appears about the identity of the remote machine the check the **"Don't ask me again for connections to this computer"** and click **Yes**.
 - To initiate the connection, click **OK** or **Connect** to establish the remote session.
 
@@ -52,7 +52,7 @@ Once connected to your VM via RDP, you can now:
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can easily connect to and manage your Windows VM using Remote Desktop Protocol (RDP) via Stack Console. RDP provides a secure and efficient way to access your virtual machines, enabling you to perform administrative tasks, install software, and transfer files seamlessly. For further assistance, refer to the Stack Console documentation or reach out to support.
+By following this guide, you can easily connect to and manage your Windows VM using Remote Desktop Protocol (RDP) via 1CNG. RDP provides a secure and efficient way to access your virtual machines, enabling you to perform administrative tasks, install software, and transfer files seamlessly. For further assistance, refer to the 1CNG documentation or reach out to support.
 
 :::tip
 **See also:**  

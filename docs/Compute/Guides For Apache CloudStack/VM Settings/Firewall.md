@@ -12,7 +12,7 @@ The Firewall setting provides a way to define security rules for incoming and ou
 - To change and manage your firewall configurations, go to the **VM settings** and navigate to the **Firewall** section.  
 - Click on **Manage** to change firewall configurations for that network.
 
-![Firewall Configuration Settings](../vmimages/vm-firewall.png)
+![Firewall Configuration Settings](../vmimages/firewall.png)
 
 ----------
 

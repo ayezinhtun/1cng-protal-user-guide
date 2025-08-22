@@ -1,8 +1,8 @@
-## <span style={{ color: '#003366' }}>Affinity Groups in Stack Console</span>
+## <span style={{ color: '#003366' }}>Affinity Groups in 1CNG</span>
 
 **Affinity Groups** are a way to control the placement of workloads (such as virtual machines, applications, or services) within an infrastructure based on predefined rules. They help optimize performance, ensure high availability, and manage resource allocation efficiently.
 
-In **Stack Console**, Affinity Groups are used to control the placement of virtual machines (VMs) on hypervisor hosts within a cloud infrastructure. They help users define rules that determine whether instances should be placed together on the same host or spread across different hosts.
+In **1CNG**, Affinity Groups are used to control the placement of virtual machines (VMs) on hypervisor hosts within a cloud infrastructure. They help users define rules that determine whether instances should be placed together on the same host or spread across different hosts.
 
 -----
 
@@ -11,7 +11,7 @@ In **Stack Console**, Affinity Groups are used to control the placement of virtu
 - From the left-hand side menu, click on the **Affinity Groups** tab.
 - To create an affinity group, click the **Create Affinity Groups** or **plus (+)** icon located on the right side of the page. This will open the affinity group creation form.
 
-![Affinity Groups Page](images/stackconsole-create-ag.png)
+![Affinity Groups Page](images/affinity-groups.png)
 
 ### <span style={{ color: '#003366' }}>Add Affinity Group</span>
 
@@ -27,10 +27,10 @@ In **Stack Console**, Affinity Groups are used to control the placement of virtu
 
   - **Host Affinity (Non-Strict)**: Prefers deploying instances on the same hypervisor host, but will deploy them elsewhere if needed. If the primary host lacks capacity, new instances will be placed on an available hypervisor host.
 
-![Create Affinity Group](images/stackconsole-create-add-ag.png)
+![Create Affinity Group](images/add-new-affinity-group.png)
 
 - Once done, click on **Submit** and your affinity group will be created.
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
-By following this guide, you can easily create and manage Affinity Groups on Stack Console. Affinity Groups provide a powerful way to control the placement of virtual machines, ensuring optimal performance, high availability, and efficient resource allocation. For further assistance, refer to the Stack Console documentation or reach out to support.
+By following this guide, you can easily create and manage Affinity Groups on 1CNG. Affinity Groups provide a powerful way to control the placement of virtual machines, ensuring optimal performance, high availability, and efficient resource allocation. For further assistance, refer to the 1CNG documentation or reach out to support.

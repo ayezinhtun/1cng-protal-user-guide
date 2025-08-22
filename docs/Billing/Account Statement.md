@@ -11,4 +11,4 @@ The **Account Statement** tab provides a financial document that offers a compre
 - **Usage Details**: Provide a breakdown of resource consumption.
 - **Free Trials**: Indicate trial-based services that may convert into paid subscriptions.
 
-![Account Statement](images/billing_13.png)
+![Account Statement](images/account-statements.png)
