@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Monitoring Resources
 ---
 
-## <span style={{ color: '#003366' }}>Resource Monitoring for 1CNG</span>
+## <span style={{ color: '#003366' }}>Resource Monitoring</span>
 
 1CNG's **Resource Monitoring** is an opt-in service that enables real-time tracking of resource utilization for your Instances within the 1CNG. This service collects and displays key performance metrics, helping you assess availability, reliability, and overall system efficiency.
 

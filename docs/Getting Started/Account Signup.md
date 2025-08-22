@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Account Signup
 ---
 
-## <span style={{ color: '#003366' }}>1CNG Account Setup Guide</span>
+## <span style={{ color: '#003366' }}>One Cloud Next-Gen Account Setup Guide</span>
 
 This guide provides a step-by-step tutorial to help you create a 1CNG account, set up billing, and verify your account.
 
@@ -38,11 +38,11 @@ This guide provides a step-by-step tutorial to help you create a 1CNG account, s
 
 ### <span style={{ color: '#003366' }}>Choose a Payment Plan</span>
 
-#### <span style={{ color: '#003366' }}>Prepaid (Recommended):</span>
+#### <span style={{ color: '#003366' }}>Prepaid Payment Method:</span>
 
 - Prepaid accounts require you to load credits in advance, which you’ll use to create resources within the platform.
 - To use resources, purchase infrastructure credits by selecting the desired amount.
-- Choose a payment method (e.g., Stripe, PayPal, Razorpay) and click **Proceed** to complete the payment.
+- Choose a payment method (Dinger) and click **Proceed** to complete the payment.
 
 ![Prepaid Billing](images/billing-prepaid.png)
 

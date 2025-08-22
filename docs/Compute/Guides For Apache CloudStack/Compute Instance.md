@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Compute Instance
 ---
 
-## <span style={{ color: '#003366' }}>Compute Instance for 1CNG</span>
+## <span style={{ color: '#003366' }}>Compute Instance</span>
 
 A **Compute Instance** is a virtual server in the cloud that functions similarly to a physical computer. It has its own CPU, memory, and storage, allowing you to install software, run applications, or host websites. With a Compute Instance, you have complete control over your server environment, making it flexible for various tasks. Compute Instances are a fundamental component of cloud services, enabling users to quickly launch and scale servers as needed.
 
@@ -34,28 +34,17 @@ This guide provides step-by-step instructions for creating a cloud server instan
 - **Note**: For Microsoft Windows, only official evaluation versions are available.
 
 ![Choose Image](images/choose-image.png)
-
-### <span style={{ color: '#003366' }}>Choose the Type of CPU Allocation</span>
-
-- Select the CPU resource allocation that fits your workload:
-
-![Choose CPU Type](images/choose-location.png)
-
-  - **Shared CPU**: Affordable, with resources shared among users. Ideal for development, testing, and low-performance workloads like small websites.
-  - **Dedicated CPU**: Provides exclusive resources for consistent performance. Perfect for production environments, high-traffic applications, and databases.
-  - **High-Frequency Compute**: Offers high clock speeds for compute-intensive tasks like simulations, financial modeling, and low-latency applications.
-  - **Cloud GPU**: Delivers GPU acceleration for demanding tasks like machine learning, AI, video rendering, and scientific simulations.
-
 ### <span style={{ color: '#003366' }}>Choose a Plan</span>
 
 - Choose a plan based on your requirements like CPU, memory, storage, and bandwidth. You can also create a custom plan if needed.
 
 ![Choose Plan](images/choose-plan.png)
 
-  - **General Compute (GC)**: Balanced workloads with a mix of CPU, memory, storage, and bandwidth. Ideal for general-purpose applications, web servers, and testing environments.
-  - **Compute Optimized (CO)**: Prioritizes CPU performance for compute-intensive tasks like batch processing, analytics, and high-speed processing workloads.
-  - **Memory Optimized (RO)**: Tailored for applications requiring high memory capacity, such as in-memory databases, big data processing, and real-time caching systems.
-  - **Database Optimized (DO)**: Specifically tuned for database workloads, offering enhanced I/O performance and memory-to-disk ratio for transactional or analytical database systems.
+  - **Memory Dense Plus**: Memory-Dense Plus Instances offer a 1:8 CPU-to-memory ratio, providing maximum memory capacity for the most demanding workloads. With high-performance CPUs and ultra-fast NVMe SSD storage.
+  - **Memory Dense**: Memory-Dense Instances feature a 1:6 CPU-to-memory ratio, delivering high memory capacity for workloads that require extensive data processing. Powered by high-performance CPUs and NVMe SSD storage.
+  - **Compute Dense Plus**: Extra CPU-Optimized Instances offer a 1:1 CPU-to-Memory ratio, delivering superior processing power with high-frequency CPUs (1 GHz+) and ultra-fast NVMe SSD storage.
+  - **Compute Dense**: CPU-Optimized Instances feature a 1:2 CPU-to-memory ratio, balancing high-performance processing with increased memory capacity. Powered by high-frequency CPUs and NVMe SSD storage.
+  - **Balance**: Balanced Instances offer a 1:4 CPU-to-memory ratio, providing an optimal mix of compute power and memory efficiency. With high-performance CPUs and NVMe SSD storage.
 
 ### <span style={{ color: '#003366' }}>Assign to a Project</span>
 

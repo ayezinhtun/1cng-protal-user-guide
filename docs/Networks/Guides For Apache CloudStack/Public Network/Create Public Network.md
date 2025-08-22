@@ -10,7 +10,7 @@ title: Create Public Network
 - From the left-hand menu, click on the **Networks** tab.
 - You will be redirected to the **Networks** page. Go to the **Public Network** tab.
 
-![alt text](images/public-network-overview.png)
+![alt text](images/create-public-network.png)
 
 - To create public network click the **plus (+)** icon located on the right side of the networks page.
 

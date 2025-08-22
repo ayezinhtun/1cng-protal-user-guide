@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Connect With SSH
 ---
 
-## <span style={{ color: '#003366' }}>Connect with SSH in 1CNG</span>  
+## <span style={{ color: '#003366' }}>Connect with SSH</span>  
 
 You can manage your instance using a terminal and SSH. This allows you to connect securely and perform administrative tasks remotely. You can either use an SSH client or connect directly via your terminal. This guide provides step-by-step instructions to connect to your cloud instance using an SSH client or terminal for secure remote access.
 

@@ -51,7 +51,7 @@ title: Create Instance Snapshot
 - Only one package per zone is supported for VM Snapshot, BS Snapshot, and VM Backup. Automatic VM backups cost 20% of the virtual machine price if enabled from the admin.
 - Verify all the configuration details and review the price summary. Click on **Take Snapshot** to create the snapshot of the virtual machine instance.
 
-![Create Snapshot](images/choose-instance-or-volume.png)
+![Create Snapshot](images/review-and-create-snapshot.png)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 

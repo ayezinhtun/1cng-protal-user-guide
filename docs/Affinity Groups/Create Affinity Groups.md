@@ -1,4 +1,4 @@
-## <span style={{ color: '#003366' }}>Affinity Groups in 1CNG</span>
+## <span style={{ color: '#003366' }}>Affinity Groups</span>
 
 **Affinity Groups** are a way to control the placement of workloads (such as virtual machines, applications, or services) within an infrastructure based on predefined rules. They help optimize performance, ensure high availability, and manage resource allocation efficiently.
 

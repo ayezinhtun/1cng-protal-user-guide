@@ -39,7 +39,7 @@ Choose how you interact with the dashboard by customizing your account preferenc
 - Choose between **Light Mode** and **Dark Mode**.
 - Toggle your preferred mode, and the changes will be applied instantly.
 
-![Account Preferences](images/stackconsole-profile-account-preference.png)
+![Account Preferences](images/mode.png)
 
 ### <span style={{ color: '#003366' }}>Change Date and Time Settings</span>
 

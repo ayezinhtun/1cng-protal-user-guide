@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Add Network
 ---
 
-## <span style={{ color: '#003366' }}>Add VPC Network</span>
+## <span style={{ color: '#003366' }}>Add Network</span>
 
 The Network tab displays all networks already created inside the VPC. You can also add a new network if needed.
 - Navigate to the **Network** tab. Click **Add Network** to create a new network.

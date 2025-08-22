@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Instance Overview
 ---
 
-## <span style={{ color: '#003366' }}>Instance Overview for 1CNG</span>
+## <span style={{ color: '#003366' }}>Instance Overview</span>
 
 The **Instance Overview** page provides a detailed summary and management options for your virtual machine (VM) instance. It includes information about the instance status, location, operating system, performance, and quick actions for managing the instance.
 

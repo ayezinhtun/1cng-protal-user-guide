@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Templates/Create Templates.md",
+                "file": "docs/Billing/Payment Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create Templates"
+              "title": "Payment Methods"
             }
           }
         ]
@@ -171,8 +171,28 @@
   },
   "active": "892dec5f09fd824b",
   "lastOpenFiles": [
-    "docs/Support/Test.md",
+    "docs/Networks/Guides For Apache CloudStack/Public Network/Create Public Network.md",
+    "docs/Networks/Guides For Apache CloudStack/Public Network/Public Network Overview.md",
+    "docs/Networks/Guides For Apache CloudStack/Public Network/images/create-public-network.png",
+    "docs/Networks/Guides For Apache CloudStack/VPC Network/Add Network.md",
+    "docs/Networks/Guides For Apache CloudStack/VPC Network/Network Overview.md",
+    "docs/VM Snapshots/Create Instance Snapshot.md",
+    "docs/VM Snapshots/images/review-and-create-snapshot.png",
+    "docs/VM Snapshots/images/stackconsole-create-block-storages-select-project.png",
+    "docs/VM Snapshots/images/stackconsole-create-snapshot-vm.png",
+    "docs/VM Snapshots/images/stackconsole-create-snapshot-vm-instance-snapshot-takesnap.png",
+    "docs/VM Snapshots/images/stackconsole-create-snapshot-vm-instance-snapshot.png",
+    "docs/VM Snapshots/images/vm-snapshot.png",
+    "docs/VM Snapshots/images/vm-snapshot-choose-project.png",
+    "docs/VM Snapshots/images/vm-snapshot-name.png",
+    "docs/VM Snapshots/images/vm-snapshot-select-location.png",
+    "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
+    "docs/Getting Started/Profile Setup.md",
+    "docs/Getting Started/Test.md",
+    "docs/Getting Started/Test",
+    "docs/Getting Started/Account Signup.md",
     "docs/Templates/Create Templates.md",
+    "docs/Support/Test.md",
     "docs/DNS/Create DNS.md",
     "docs/Volume/Create Block Storage.md",
     "docs/Backups/Create Backups.md",
@@ -190,32 +210,12 @@
     "build/__server/assets",
     "build/__server",
     "docs/Support/Support.md",
-    "docs/Support/images/assistance.png",
-    "docs/Support/images/tickets.png",
-    "docs/Support/Test",
-    "docs/Support/images/support.png",
     "docs/Billing/Account Statement.md",
     "docs/Billing/Test.md",
-    "docs/Billing/images/account-statements.png",
     "docs/Billing/Transactions.md",
-    "docs/Billing/images/transactions.png",
     "docs/Billing/Coupons.md",
-    "docs/Billing/images/coupons.png",
     "docs/Billing/Subscriptions.md",
     "docs/Billing/Payment Methods.md",
-    "Cupons.md",
-    "docs/Billing/images/payment-methods.png",
-    "docs/Billing/images/subscriptions.png",
-    "docs/Billing/Billing Summary.md",
-    "docs/Billing/images/billing-invoices.png",
-    "docs/Billing/images/billing-types.png",
-    "docs/VNF Appliances/Guides for Apache CloudStack/VNF Appliances.md",
-    "docs/VNF Appliances/Test.md",
-    "images/vnf-server-settings.md",
-    "docs/Load Balancer/Load Balancer.md",
-    "docs/Load Balancer/Test.md",
-    "docs/Networks/Guides For Apache CloudStack/VPN Customer Gateway.md",
-    "docs/Networks/Guides For OpenStack/Floating IP Addresses.md",
-    "docs/Networks/Guides For OpenNebula/Virtual Routers.md"
+    "Cupons.md"
   ]
 }

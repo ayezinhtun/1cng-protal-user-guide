@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Network Overview
 ---
 
-## <span style={{ color: '#003366' }}>VPC Network Overview</span>
+## <span style={{ color: '#003366' }}>Network Overview</span>
 
 A Virtual Private Cloud (VPC) is a logically isolated network within a cloud environment. It allows you to control network settings such as IP addressing, subnets, routing, and security.
 
