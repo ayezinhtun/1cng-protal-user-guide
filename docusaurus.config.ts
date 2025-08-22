@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '1CNG',
+  title: 'One Cloud Next-Gen',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/1cng.ico',
   url: 'http://doc.stackwarriors.in/',
