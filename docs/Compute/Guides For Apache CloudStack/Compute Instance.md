@@ -131,6 +131,6 @@ Creating a Compute Instance on 1CNG is a straightforward process that provides y
 :::tip
 **See also:**  
 - **[Instance Overview](./Instance%20Overview.md)**  
-- **[Instance Backups](./Instance%20Backups.md)**  
+<!-- - **[Instance Backups](./Instance%20Backups.md)**   -->
 - **[VM Activity Logs](./VM%20Activity%20Logs.md)**
 :::

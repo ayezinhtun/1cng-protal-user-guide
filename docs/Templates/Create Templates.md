@@ -68,5 +68,5 @@ By following this guide, you can easily create and manage templates on 1CNG. Tem
 **See also:**  
 - **[VNF Appliances](../VNF%20Appliances/Guides%20for%20Apache%20CloudStack/VNF%20Appliances.md)**  
 - **[Compute Instance](./../Compute/Guides%20For%20Apache%20CloudStack/Compute%20Instance.md)**
-- **[ISOs](./../ISOs/Import%20ISO.md)**
+<!-- - **[ISOs](./../ISOs/Import%20ISO.md)** -->
 :::
