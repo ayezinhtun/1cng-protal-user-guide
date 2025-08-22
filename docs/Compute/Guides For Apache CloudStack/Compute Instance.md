@@ -33,7 +33,7 @@ This guide provides step-by-step instructions for creating a cloud server instan
 - Available options include popular OS images. Alternatively, you can import a custom ISO.
 - **Note**: For Microsoft Windows, only official evaluation versions are available.
 
-![Choose Image](images/choose-image.png)
+![Choose Image](images/compute-instance-choose-image.png)
 ### <span style={{ color: '#003366' }}>Choose a Plan</span>
 
 - Choose a plan based on your requirements like CPU, memory, storage, and bandwidth. You can also create a custom plan if needed.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Billing/Payment Methods.md",
+                "file": "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payment Methods"
+              "title": "Compute Instance"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "892dec5f09fd824b",
   "lastOpenFiles": [
+    "docs/Compute/Test.md",
+    "docs/Compute/Test",
+    "docs/Compute/Guides For Apache CloudStack/images/compute-instance-choose-image.png",
+    "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
+    "docs/Billing/Payment Methods.md",
     "docs/Networks/Guides For Apache CloudStack/Public Network/Create Public Network.md",
     "docs/Networks/Guides For Apache CloudStack/Public Network/Public Network Overview.md",
     "docs/Networks/Guides For Apache CloudStack/Public Network/images/create-public-network.png",
@@ -185,8 +190,6 @@
     "docs/VM Snapshots/images/vm-snapshot.png",
     "docs/VM Snapshots/images/vm-snapshot-choose-project.png",
     "docs/VM Snapshots/images/vm-snapshot-name.png",
-    "docs/VM Snapshots/images/vm-snapshot-select-location.png",
-    "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
     "docs/Getting Started/Profile Setup.md",
     "docs/Getting Started/Test.md",
     "docs/Getting Started/Test",
@@ -208,14 +211,10 @@
     "build/__server/assets/js",
     "build/__server/server.bundle.js",
     "build/__server/assets",
-    "build/__server",
     "docs/Support/Support.md",
     "docs/Billing/Account Statement.md",
     "docs/Billing/Test.md",
     "docs/Billing/Transactions.md",
-    "docs/Billing/Coupons.md",
-    "docs/Billing/Subscriptions.md",
-    "docs/Billing/Payment Methods.md",
-    "Cupons.md"
+    "docs/Billing/Coupons.md"
   ]
 }
