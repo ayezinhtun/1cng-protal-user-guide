@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar_position: 1
-description: "Welcome to Stack Console Documentation."
+description: "Welcome to 1CNG Documentation."
 ---
 
 import React from 'react';
@@ -18,7 +18,7 @@ import Link from '@docusaurus/Link';
   }}
 >
   <h1>👋 Welcome to 1CNG Documentation!</h1>
-  <p>Manage and optimize your cloud infrastructure with 1CNG.</p>
+  <p>Manage and optimize your cloud with 1CNG.</p>
 </div>
 
 ## 📖 About 1CNG

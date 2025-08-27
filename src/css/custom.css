@@ -71,3 +71,49 @@
   font-size: 1rem;
   color: #6b7280;
 }
+
+/* typing tagline style */
+.typing-tagline {
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-block;
+  background: linear-gradient(270deg, #3b82f6, #8b5cf6, #ec4899);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient-motion 3s ease infinite;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .typing-tagline {
+    font-size: 3rem;
+  }
+}
+
+/* gradient shimmer */
+@keyframes gradient-motion {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* blinking cursor */
+.blinking-cursor {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: white;
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
