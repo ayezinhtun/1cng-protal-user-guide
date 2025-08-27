@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'One Cloud Next-Gen',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Powerful. Scalable. Local.',
   favicon: 'img/1cng.ico',
   url: 'http://doc.stackwarriors.in/',
   baseUrl: '/',

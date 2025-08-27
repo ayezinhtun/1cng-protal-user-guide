@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c28ea6a97cdf7fa",
+        "id": "be19096e1e95328b",
         "type": "tabs",
         "children": [
           {
-            "id": "892dec5f09fd824b",
+            "id": "6439a63c261a5a73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Compute Instance"
+              "title": "New tab"
             }
           }
         ]
@@ -169,12 +165,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "892dec5f09fd824b",
+  "active": "6439a63c261a5a73",
   "lastOpenFiles": [
+    "For Inventory management test.md",
+    "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
+    "docs/Compute/Guides For Apache CloudStack/Console Access.md",
     "docs/Compute/Test.md",
     "docs/Compute/Test",
     "docs/Compute/Guides For Apache CloudStack/images/compute-instance-choose-image.png",
-    "docs/Compute/Guides For Apache CloudStack/Compute Instance.md",
     "docs/Billing/Payment Methods.md",
     "docs/Networks/Guides For Apache CloudStack/Public Network/Create Public Network.md",
     "docs/Networks/Guides For Apache CloudStack/Public Network/Public Network Overview.md",
@@ -199,7 +197,6 @@
     "docs/DNS/Create DNS.md",
     "docs/Volume/Create Block Storage.md",
     "docs/Backups/Create Backups.md",
-    "docs/Compute/Guides For Apache CloudStack/Console Access.md",
     "docs/Compute/Guides For Apache CloudStack/Instance Backups.md",
     "docs/Getting Started/Introduction.md",
     "static/img/1cng.ico",
