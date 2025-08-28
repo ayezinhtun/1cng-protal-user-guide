@@ -27,8 +27,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -58,8 +56,6 @@ const config: Config = {
         path: 'docs',
         routeBasePath: 'docs',
         sidebarPath: require.resolve('./sidebars.ts'),
-        editUrl:
-          'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
       },
     ],
   ],

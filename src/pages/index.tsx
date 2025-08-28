@@ -7,6 +7,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import TypingTagline from '@site/src/components/HomepageFeatures/TypingTagline';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -16,7 +17,9 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+           <p className={clsx('hero__subtitle', styles.tagline)}>
+            <TypingTagline text={siteConfig.tagline} />
+          </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
