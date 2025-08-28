@@ -21,6 +21,6 @@ This setting allows you to manage the VM’s network interfaces, including confi
 Managing network configurations is essential for ensuring both connectivity and security of your virtual machines. Whether you're setting up internal communication through private networks or exposing services via public networks, the flexibility to assign and configure interfaces helps tailor your infrastructure to specific use cases. Always review your bandwidth and access settings to avoid conflicts and ensure optimal performance.
 
 :::tip
-- **[Create VPC Networks](../../../Networks/Guides%20For%20Apache%20CloudStack/VPC%20Network/Create%20VPC%20Network.md)**  
-- **[Create Public Networks](../../../Networks/Guides%20For%20Apache%20CloudStack/Public%20Network/Create%20Public%20Network.md)**
+- **[Create VPC Networks](../../Networks//VPC%20Network//Create%20VPC%20Network.md)**  
+- **[Create Public Networks](../../Networks//Public%20Network//Create%20Public%20Network.md)**
 :::

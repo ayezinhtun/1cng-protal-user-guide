@@ -88,10 +88,10 @@ By following this guide, you can easily configure and manage a Load Balancer on 
 
 :::tip
 **See also:**  
-- **[Public Network](./../Networks/Guides%20For%20Apache%20CloudStack/Public%20Network/Create%20Public%20Network.md)**
-- **[VPC Network](./../Networks/Guides%20For%20Apache%20CloudStack/VPC%20Network/Create%20VPC%20Network.md)**
-- **[Affinity Group ](../Affinity%20Groups/Create%20Affinity%20Groups.md)**
-- **[Public IP Address](../Networks/Guides%20For%20Apache%20CloudStack/Public%20IP%20Address.md)**
+- **[Public Network](./../Networks//Public%20Network//Create%20Public%20Network.md)**
+- **[VPC Network](./../Networks//VPC%20Network//Create%20VPC%20Network.md)**
+- **[Affinity Group ](../Affinity%20Groups//Create%20Affinity%20Groups.md)**
+- **[Public IP Address](../Networks//Public%20IP%20Address.md)**
 - **[Create Templates](../Templates/Create%20Templates.md)**
 
 :::

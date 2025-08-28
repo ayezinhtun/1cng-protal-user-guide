@@ -59,7 +59,7 @@ By following this guide, you can easily create and manage instance snapshots on 
 
 :::tip
 **See also:**  
-- **[Volume Snapshot](./../Volume%20Snapshot/Create%20Volume%20Snapshot.md)**  
-- **[Compute Instance](./../Compute/Guides%20For%20Apache%20CloudStack/Compute%20Instance.md)**
+- **[Volume Snapshot](./../Volume%20Snapshot//Create%20Volume%20Snapshot.md)**  
+- **[Compute Instance](./../Compute//Compute%20Instance.md)**
 <!-- - **[Create Backups](./../Backups/Create%20Backups.md)** -->
 :::

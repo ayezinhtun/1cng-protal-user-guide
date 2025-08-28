@@ -28,6 +28,6 @@ Changing the OS of a virtual machine allows you to adapt to different software r
 
 :::tip
 **See also:**  
-- **[Create Template](../../../Templates/Create%20Templates.md)**  
+- **[Create Template](../../Templates//Create%20Templates.md)**  
 <!-- - **[Import ISO](../../../ISOs/Import%20ISO.md)** -->
 :::

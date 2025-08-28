@@ -59,7 +59,7 @@ By following this guide, you can easily create and manage volume snapshots on 1C
 
 :::tip
 **See also:**  
-- **[Create Volume](./../Volume/Create%20Block%20Storage.md)**  
+<!-- - **[Create Volume](./../Volume/Create%20Block%20Storage.md)** -->
 - **[VM Snapshot](./../VM%20Snapshots/Create%20Instance%20Snapshot.md)**
 <!-- - **[Create Backups](./../Backups/Create%20Backups.md)** -->
 :::

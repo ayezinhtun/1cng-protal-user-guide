@@ -23,7 +23,7 @@ Block Storage provides a reliable and modular way to manage your data independen
 
 :::tip
 **See also:**  
-- **[Create Volume](../../../Volume/Create%20Block%20Storage.md)**  
-- **[Volume Snapshot](../../../Volume%20Snapshot/Create%20Volume%20Snapshot.md)**  
-- **[VM Snapshot](../../../VM%20Snapshots/Create%20Instance%20Snapshot.md)**
+- **[Create Volume](../../Volume/Create%20Block%20Storage.md)**  
+- **[Volume Snapshot](../../Volume%20Snapshot//Create%20Volume%20Snapshot.md)**  
+- **[VM Snapshot](../../VM%20Snapshots//Create%20Instance%20Snapshot.md)**
 :::
