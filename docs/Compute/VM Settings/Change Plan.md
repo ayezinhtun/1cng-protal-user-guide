@@ -12,11 +12,11 @@ With this option, you can upgrade or downgrade your VM’s resource allocation, 
 - To change your payment plan, go to the **VM settings** and navigate to the **Change Plan** section.  
 - Select from the available options or create a custom plan based on your needs.
 
-:::warning
+<!-- :::warning
 
 Downgrading is currently not supported. Shrinking the hard disk is not possible without risking data loss.
 
-:::
+::: -->
 
 - Once you have made your selection, review the details to ensure they meet your requirements and click on **Review and Change Plan** to apply new plan. 
 

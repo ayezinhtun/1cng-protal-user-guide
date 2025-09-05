@@ -25,7 +25,7 @@ The **Instance Overview** page provides a detailed summary and management option
 - **VM Volume Snapshots:** Displays a list of existing snapshots or allows you to take a snapshot of the current state of the VM for backup or future restoration.
 - **Power Off:** Shuts down the virtual machine.
 - **Reboot:** Restarts the instance.
-- **Attach ISO for VM:** Mounts an ISO file to the VM, allowing installation or recovery operations.
+<!-- - **Attach ISO for VM:** Mounts an ISO file to the VM, allowing installation or recovery operations. -->
 - **Delete:** Deletes the instance permanently.
 
 ### <span style={{ color: '#003366' }}>Instance Information</span>

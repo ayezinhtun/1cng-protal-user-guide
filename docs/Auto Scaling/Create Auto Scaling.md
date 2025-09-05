@@ -47,7 +47,7 @@
 
 ### <span style={{ color: '#003366' }}>Choose Image</span>
 
-- Select an operating system or application template to install on your server. You can also upload a custom ISO image for greater flexibility.
+- Select an operating system or application template to install on your server.
 
 ![Auto Scaling](images/as-choose-image.png)
 

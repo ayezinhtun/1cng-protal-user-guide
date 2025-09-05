@@ -33,7 +33,7 @@ With 1CNG, organizations can simplify the complexity of multi-cloud operations, 
 
 <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '20px', marginTop: '20px' }}>
   
-  <div style={{ textAlign: 'center', width: '150px' }}>
+  <!-- <div style={{ textAlign: 'center', width: '150px' }}>
     <div style={{
       width: '100px',
       height: '100px',
@@ -48,7 +48,7 @@ With 1CNG, organizations can simplify the complexity of multi-cloud operations, 
     }}>☁️</div>
     <h4>Multi-cloud Management</h4>
     <p>Manage resources across multiple cloud platforms seamlessly.</p>
-  </div>
+  </div> -->
 
   <div style={{ textAlign: 'center', width: '150px' }}>
     <div style={{

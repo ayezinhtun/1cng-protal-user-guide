@@ -14,9 +14,9 @@
 
 ### <span style={{ color: '#003366' }}>Need Immediate Assistance</span>
 
-- If immediate help is needed, reach out via email at **help@lifeincloud.com** to our customer service. Our support team will work to provide a solution to your issue.
+- If immediate help is needed, reach out via email at **support@1cloudng.com** to our customer service. Our support team will work to provide a solution to your issue.
 - Keep your CRN (Customer Reference Number) ready for a faster response.
-- **Note**: Our support services are open every day from 8 AM to 9 PM.
+- **Note**:  Our support services are open round the clock.
 
 ![Immediate Assistance](images/assistance.png)
 
