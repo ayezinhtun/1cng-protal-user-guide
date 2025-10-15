@@ -34,7 +34,7 @@ This guide provides a step-by-step tutorial to help you create a 1CNG account, s
 
 - If you have a coupon, redeem it at checkout to receive a discount or promotional offer.
 
-![Coupon Redemption](images/coupon.png)
+![Coupon Redemption](images/cupon.png)
 
 ### <span style={{ color: '#003366' }}>Choose a Payment Plan</span>
 
@@ -44,7 +44,7 @@ This guide provides a step-by-step tutorial to help you create a 1CNG account, s
 - To use resources, purchase infrastructure credits by selecting the desired amount.
 - Choose a payment method (Dinger) and click **Proceed** to complete the payment.
 
-![Prepaid Billing](images/billing-prepaid.png)
+![Prepaid Billing](images/payment.png)
 
 #### <span style={{ color: '#003366' }}>KYC Setting:</span>
 
