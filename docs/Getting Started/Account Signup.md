@@ -31,7 +31,7 @@ This guide provides a step-by-step tutorial to help you create a 1CNG account, s
     - **Individual**: For personal use; enter details like your address.
     - **Company**: For organizational use; provide details such as your company name, website, and address.
 
-![Billing Details](images/billing.png)
+![Billing Details](images/billing-2.png)
 
 - If you have a coupon, redeem it at checkout to receive a discount or promotional offer.
 

@@ -67,15 +67,23 @@
 
 ### <span style={{ color: '#003366' }}>Capacity Planner</span>
 
-- Enter the minimum and maximum number of instances and enter the grace period in seconds. 
+- Enter the minimum and maximum number of instances and enter the grace period in seconds.
 
-![Auto Scaling](images/as-capacity-planner.png)
+  ![Auto Scaling](images/as-capacity-planner.png)
+
+  **Expunge VM Grace Period:** Defines the waiting time (in seconds) before cloud permanently deletes (“expunges”) a VM that was removed by an Auto Scaling scale-down action.  
+
+  **Polling Interval:** Determines how often (in seconds) cloud retrieves performance metrics.
 
 ### <span style={{ color: '#003366' }}>Set Up Policies</span>
 
 - A **Scale Up** policy is triggered when resource usage exceeds a defined threshold, adding more instances to handle increased demand.
 
-![Auto Scaling](images/as-scale-up-policy.png)
+  ![Auto Scaling](images/as-scale-up-policy.png)
+
+  **Duration:** How long (in seconds) the Auto Scaling system should observe the metric threshold before triggering a scale-up action.  
+  
+  **Quiet Time:** The minimum cooldown period (in seconds) between two consecutive scale-up actions.
 
 - A **Scale Down** policy is triggered when resource demand drops, reducing the number of active instances to save costs.
 
