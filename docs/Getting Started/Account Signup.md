@@ -9,8 +9,7 @@ This guide provides a step-by-step tutorial to help you create a 1CNG account, s
 
 ### <span style={{ color: '#003366' }}>Register Account</span> {#Register-Account}
 
-- Visit <a href="https://portal.1cloudng.com" style={{ color: '#003366' }} target="_blank" rel="noopener noreferrer">
-1CNG website </a> and navigate to the **Sign-In** or **Create Account** section.
+- Visit [1CNG website](https://portal.1cloudng.com/) and navigate to the **Sign-In** or **Create Account** section.
 - Enter the necessary details, such as your name, email address, and password.
 - Click **Register** to proceed to the next step.
 
