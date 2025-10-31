@@ -46,7 +46,7 @@ Once the project is successfully created, you will be able to view the associate
 - Navigate to the **Project Account Limit** section. Here, you will be able to view the limit and usage of the resource.
 - Select the appropriate **Zone** for which you want to set the limit.
 
-![Account Limits](imgs/account-limit.png)
+![Account Limits](imgs/account-limit.jpg)
 
 - Click on **Edit Account Limit**. You will be redirected to the **Assign a Quota to the Project** page.
 - Select the **Zone** and the specific **Resource** you want to change the quota limit.
