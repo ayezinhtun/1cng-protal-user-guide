@@ -31,6 +31,15 @@ In **1CNG**, Affinity Groups are used to control the placement of virtual machin
 
 - Once done, click on **Submit** and your affinity group will be created.
 
+  - **Host Affinity (Strict)**: Allow users to specify a set of instances should always run on the same hypervisor host.
+
+  - **Host Anti-Affinity (Strict)**: Allow for users to specify that a set of instances should always run on the different hypervisor host.
+
+  - **Host Anti-Affinity (Non-Strict)**: Instances will be deployed on diverse hosts if possible. If the cluster lacks capacity, the new instance will be deployed to the same hypervisor as a previously deployed one.
+
+  - **Host Affinity (Non-Strict)**: Instance will be deployed together on the same host if possible. If the host lacks capacity, the new instance will be deployed to another available hypervisor host.
+
+
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
 By following this guide, you can easily create and manage Affinity Groups on 1CNG. Affinity Groups provide a powerful way to control the placement of virtual machines, ensuring optimal performance, high availability, and efficient resource allocation. For further assistance, refer to the 1CNG documentation or reach out to support.
