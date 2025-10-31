@@ -103,7 +103,7 @@ The **Account Limits** feature allows users to view resource usage and request i
 - Select **Account Limit** to view the resource allocation table.
 - Click **Request To Increase** to submit a request for additional resources.
 
-![Account Limits](images/account-limit.png)
+![Account Limits](images/account-limit.jpg)
 
 ### <span style={{ color: '#003366' }}>Track Activity Logs</span>
 
