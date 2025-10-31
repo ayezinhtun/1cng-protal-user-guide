@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Account Signup
+title: Account Sign-up
 ---
 
 ## <span style={{ color: '#003366' }}>One Cloud Next-Gen Account Setup Guide</span>
