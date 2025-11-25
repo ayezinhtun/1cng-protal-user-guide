@@ -1,0 +1,22 @@
+## <span style={{ color: '#003366' }}>Support</span>
+
+**Support** in **1CNG** provides assistance to users in accessing, managing, and troubleshooting their systems. It ensures that users can effectively utilize their technology resources, resolve issues, and optimize performance.
+
+![Support](images/support.png)
+
+### <span style={{ color: '#003366' }}>Submitting and Managing Tickets</span>
+
+- To submit a support ticket, select the **Ticket Type** based on your issue. Choose the **Priority** to indicate urgency and select the relevant **Service** related to your query.
+- Enter the **Subject** and **Message**, then click on **Submit**.
+- The **My Tickets** section allows you to view and check the status of already opened tickets and closed tickets.
+
+![Submit Ticket](images/tickets.png)
+
+### <span style={{ color: '#003366' }}>Need Immediate Assistance</span>
+
+- If immediate help is needed, reach out via email at **support@1cloudng.com** to our customer service. Our support team will work to provide a solution to your issue.
+- Keep your CRN (Customer Reference Number) ready for a faster response.
+- **Note**:  Our support services are open round the clock.
+
+![Immediate Assistance](images/assistance.png)
+
