@@ -1,0 +1,27 @@
+{
+
+  "item.label.User Guide": {
+    "message": "User Guide",
+    "description": "Navbar item with label User Guide"
+  },
+  "item.label.Admin Guide": {
+    "message": "Admin Guide",
+    "description": "Navbar item with label Admin Guide"
+  },
+  "item.label.Reseller Guide": {
+    "message": "Reseller Guide",
+    "description": "Navbar item with label Reseller Guide"
+  },
+  "item.label.Affiliate Guide": {
+    "message": "Affiliate Guide",
+    "description": "Navbar item with label Affiliate Guide"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started.link.generated-index.description": {
+    "message": "Getting started with StackConsole!",
+    "description": "The generated-index page description for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Compute": {
+    "message": "Compute",
+    "description": "The label for category Compute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Compute.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Compute in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides For Apache CloudStack": {
+    "message": "Guides For Apache CloudStack",
+    "description": "The label for category Guides For Apache CloudStack in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VM Settings": {
+    "message": "VM Settings",
+    "description": "The label for category VM Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VM Settings.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category VM Settings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides For OpenNebula": {
+    "message": "Guides For OpenNebula",
+    "description": "The label for category Guides For OpenNebula in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides For OpenStack": {
+    "message": "Guides For OpenStack",
+    "description": "The label for category Guides For OpenStack in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides For VMware": {
+    "message": "Guides For VMware",
+    "description": "The label for category Guides For VMware in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Volumes": {
+    "message": "Volumes",
+    "description": "The label for category Volumes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Volumes.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Volumes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Volume Snapshot": {
+    "message": "Volume Snapshot",
+    "description": "The label for category Volume Snapshot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Volume Snapshot.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Volume Snapshot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VM Snapshots": {
+    "message": "VM Snapshots",
+    "description": "The label for category VM Snapshots in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VM Snapshots.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category VM Snapshots in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Backups": {
+    "message": "Backups",
+    "description": "The label for category Backups in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Backups.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Backups in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Networking": {
+    "message": "Networking",
+    "description": "The label for category Networking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Networking.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Networking in sidebar tutorialSidebar"
+  }
+}
