@@ -1,0 +1,8 @@
+
+
+
+A Layer 2 (L2) Network in Stack Console provides a direct Ethernet-level connection between cloud resources, simulating a physical LAN (Local Area Network). This is useful for specialized networking applications like high-speed data transfer, clustering, or VLAN segmentation.
+
+- From the left-hand menu, click on the **Networks** tab.
+- You will be redirected to the **Networks** page. Go to the **L2 Networks** tab.
+
