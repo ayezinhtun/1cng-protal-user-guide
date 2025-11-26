@@ -9,7 +9,7 @@ title: Egress Rules
 - In the **Egress Rules** tab, you can see all egress rules.
 - To add egress rule, Click on **Add Egress Rule** this opens the rule configuration form.
 
-![alt text](images/pub_net_3.png)
+![alt text](images/egress-create.png)
 
 ### <span style={{ color: '#003366' }}>Add New Egress Rules</span>
 

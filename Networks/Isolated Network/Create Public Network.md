@@ -4,7 +4,7 @@ title: Create Isolated Network
 ---
 
 ## <span style={{ color: '#003366' }}>Create Isolated Network</span>
-
+ 
 **Isolated Network** in 1CNG is used to provide internet-facing access to cloud resources. It allows virtual machines, applications, and other cloud services to communicate with external systems over the internet. Isolated networks are essential for hosting web applications, APIs, and other services that require global accessibility.
 
 - From the left-hand menu, click on the **Networks** tab.

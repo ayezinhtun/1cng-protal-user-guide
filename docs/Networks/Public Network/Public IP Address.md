@@ -5,14 +5,14 @@ title: Public IP Addresses
 
 ## <span style={{ color: '#003366' }}>Public IP Address</span>
 
-- Public IP addresses allow resources in the Public network to communicate with the internet.
+- Public IP addresses allow resources in the Isolated network to communicate with the internet.
 - In the **Public IP Addresses** tab, you can see all assigned public IPs.
 
 ![alt text](images/pub_net_4.png)
 
 - Click **Aquire New IP** to request a new public IP. Choose the desired **Billing Cycle** for your network and click on **Buy IP**.
 
-![alt text](images/vpc_net_6.png)
+![alt text](images/vpc_net.jpg)
 
 ### <span style={{ color: '#003366' }}>Conclusion</span>
 
@@ -20,6 +20,6 @@ title: Public IP Addresses
 
 :::tip
 **See also:**  
-- **[Public Network Overview](./Public%20Network%20Overview.md)**
-- **[Create Public Network](./Create%20Public%20Network.md)**
+- **[Isolated Network Overview](./Public%20Network%20Overview.md)**
+- **[Create Isolated Network](./Create%20Public%20Network.md)**
 :::
