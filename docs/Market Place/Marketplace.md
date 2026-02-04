@@ -1,5 +1,5 @@
 ---
-title: "What is Market Place App?"
+title: "What is MarketPlace App?"
 ---
 
 # Marketplace App
