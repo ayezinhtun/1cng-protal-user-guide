@@ -60,8 +60,9 @@ Depending on your deployment, this HAProxy server may:
 
 ### <span style={{ color: '#003366' }}>Default Configuration File</span>
 
+```
 /etc/haproxy/haproxy.cfg
-
+```
 
 ### <span style={{ color: '#003366' }}>Reference URLs</span>
 
