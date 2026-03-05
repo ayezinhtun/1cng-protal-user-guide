@@ -66,7 +66,8 @@ const config: Config = {
       logo: { alt: '1CNG Logo', src: 'img/1cng.png' },
       items: [
         { to: '/docs/Getting Started/Introduction', label: 'User Guide', position: 'left' },
-        { type: 'search', position: 'right' }, // 👈 search bar in navbar
+        { to: '/', label: 'Best Practice', position: 'left'}, 
+        { type: 'search', position: 'right' }, 
       ],
     },
     footer: {
