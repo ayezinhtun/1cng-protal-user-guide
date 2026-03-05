@@ -53,7 +53,7 @@ Health check interval  eg. 10s for 10 seconds
 **LB_ALGO** <br />
  Which are configured using the balance directive in the backend section of the haproxy.cfg file. 
 
-
+`{ roundrobin | leastconn | source | first | hash | uri }`
 
 ### <span style={{ color: '#003366' }}>DDoS and Rate Limiting</span>
 
@@ -91,4 +91,4 @@ STICK_TABLE_EXPIRE="10m"
 
 - [HAProxy Configuration Overview](https://www.haproxy.com/documentation/haproxy-configuration-tutorials/proxying-essentials/configuration-basics/overview/)
 - [HAProxy Stick Tables](https://www.haproxy.com/documentation/haproxy-configuration-tutorials/proxying-essentials/custom-rules/stick-tables/)
-- [HAProxy Load Balancing Algorithms](https://www.haproxy.com/glossary/what-are-load-balancing-algorithms)
+- [HAProxy Configuration Manual](https://www.haproxy.com/documentation/haproxy-configuration-manual/latest/)
