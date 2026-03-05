@@ -35,6 +35,9 @@ Depending on your deployment, this HAProxy server may:
 **FRONTEND_PORT** <br />
 Set listen port number of frontend IP address
 
+**BACKEND_PORT** <br />
+Set listen port number of backend IP addresses
+
 **FRONTEND_IP** <br />
 It will be taken from server’s IP address of default network interface
 

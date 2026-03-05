@@ -22,7 +22,7 @@ To ensure stability, troubleshooting capability, and baseline security, all inst
 
 
 ### <span style={{ color: '#003366' }}>Pre-Installed Basic Packages</span>
-The following standart Linux utilities are installed by default:
+The following standard Linux utilities are installed by default:
 
 | Package     | Description |
 |-------------|-------------|
@@ -34,7 +34,7 @@ The following standart Linux utilities are installed by default:
 | rsyslog     | System logging service for log management and monitoring. |
 
 ### <span style={{ color: '#003366' }}>SSH Security Protection (Fail2Ban Enabled)</span>
-To enhance security, Fail2Ban is preconfigured to protect SSH acess against brute-force attacks.
+To enhance security, Fail2Ban is preconfigured to protect SSH access against brute-force attacks.
 
 ### <span style={{ color: '#003366' }}>Active SSH Protection Settings</span>
 The following policy is enforced:
