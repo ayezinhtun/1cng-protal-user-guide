@@ -56,6 +56,7 @@ const config: Config = {
         path: 'docs',
         routeBasePath: 'docs',
         sidebarPath: require.resolve('./sidebars.ts'),
+        
       },
     ],
   ],
