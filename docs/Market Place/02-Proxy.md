@@ -1,8 +1,8 @@
 ---
-title: "HAProxy Server"
+title: "HAProxy"
 ---
 
-# HAProxy Server
+# HAProxy
 
 This marketplace app is installed based on Ubuntu 24.04 LTS OS and  HAProxy version is 3.2.
 

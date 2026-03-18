@@ -1,8 +1,8 @@
 ---
-title: "WordPress Server"
+title: "WordPress"
 ---
 
-# WordPress Server
+# WordPress
 
 ### <span style={{ color: '#003366' }}>Overview</span>
 WordPress is the most popular open-source Content Management System (CMS) used to build websites, blogs, landing pages, and even eCommerce platforms. It is based on PHP and MySQL. Its features can be extended with thousands of free plugins and themes.

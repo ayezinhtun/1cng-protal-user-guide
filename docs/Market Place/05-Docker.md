@@ -77,9 +77,11 @@ DEFAULT_MIRROR=yes | no
 ### <span style={{ color: '#003366' }}>MIRROR_LIST</span>
 MIRROR_LIST= `https://mirror1.example.com, https://mirror2.example.com`
 
-- Used only when: 
+If MIRROR_LIST is empty, following mirror sites will be used.
 
-DEFAULT_MIRROR = no
+`https://mirror.gcr.io","https://docker.xuanyuan.me", "https://docker.mirrors.ustc.edu.cn`
+
+Used only when: DEFAULT_MIRROR = no
 
 - Accepts only comma separated URL list
 - Overrides system-provided mirrors
